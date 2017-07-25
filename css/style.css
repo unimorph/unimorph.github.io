@@ -1,0 +1,62 @@
+.flagspan {
+    display: inline-block;
+    width: 5%;
+    padding-left: 2em;
+}
+
+.flag {
+    vertical-align: bottom;
+    border: solid grey 1px;
+    width: 2.2em;
+    height: 1.5em;
+    margin: 0 .25em;
+}
+
+.checkspan {
+    margin: auto;
+    display: inline-block;
+    width: 25%;
+    padding-left: 2.2em;
+}
+
+.check {
+    margin: auto;
+    vertical-align: bottom;
+    height: 1.5em;
+}
+
+.glassspan {
+    margin: auto;
+    display: inline-block;
+    width: 15%;
+    padding-left: 2.3em;
+}
+
+.glass {
+    margin: auto;
+    vertical-align: bottom;
+    height: 1.75em;
+}
+
+.sourcespan {
+    margin: auto;
+    display: inline-block;
+    width: 25%;
+    padding-left: 2.2em;
+}
+
+.source {
+    margin: auto;
+    vertical-align: bottom;
+    height: 2.0em;
+}
+
+.center {
+    margin: auto;
+    border: 2px solid grey;
+    padding: 10px;
+}
+
+.center-table {
+    margin: auto;
+}
