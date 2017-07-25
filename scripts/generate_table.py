@@ -6,7 +6,7 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-CC = u"""<span class="checkspan"><a href="https://creativecommons.org/licenses/by/2.0/"><img class="check" src="images/cc.png"/></a></span>"""
+CC = u"""<span class="checkspan"><img class="check" src="images/cc.png"/></span>"""
 WIKI = u"""<span class="sourcespan"><img class="source" src="images/wiki.png"/></span>"""
 CHECK = u"""<span class="checkspan"><img class="check" src="images/check.png"/></span>"""
 
@@ -28,10 +28,11 @@ def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, Lic
     <td colspan="10">
       <h4>Additional information</h4>
       <ul>
+      <li><a href="{10}">Wikipedia Page</a></li>
       </ul>   
     </td>
 </tr>
-""".format(*map(unicode, [flag, name, _type, forms, lemmata, CHECK if check1 else "", CHECK if check2 else "", CHECK if check3 else "", wiki, License]))
+""".format(*map(unicode, [flag, name, _type, forms, lemmata, CHECK if check1 else "", CHECK if check2 else "", CHECK if check3 else "", wiki, License, "https://en.wikipedia.org/wiki/"+name+"_language"]))
 
            
 data = [
