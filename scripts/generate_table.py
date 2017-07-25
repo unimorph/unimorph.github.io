@@ -183,7 +183,7 @@ data_coming = [
 ('"images/flags/RM.svg"', "Romani", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/NN.svg"', "Inuktitut", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/IN.svg"', "Punjabi", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/BO.svg"', "Xoo", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/BO.svg"', "ǃXóõ", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/SAMI.svg"', "Skolt Sami", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MD.svg"', "Malagasy", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MX.svg"', "Classical Nahuatl", 0, 0, "fusional", True, True, True, WIKI, CC),
