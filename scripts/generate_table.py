@@ -50,7 +50,7 @@ data_annotated = [
     ('"images/flags/FR.svg"'      , 'French'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/DE.svg"'      , 'German'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/GR.svg"'      , 'Greek'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IL.svg"'      , 'Hebrew'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IL.svg"'      , 'Modern Hebrew'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IN.svg"'      , 'Hindi'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/HU.svg"'      , 'Hungarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ID.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
