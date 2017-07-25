@@ -6,16 +6,16 @@
 
 .flagspan {
     display: inline-block;
-    width: 2%;
-    padding-left: 2em;
+    padding-left: 0 gem;
+    float: right;
 }
 
 .flag {
-    vertical-align: bottom;
-    border: solid grey 0px;
-    width: 2.2em;
+    vertical-align: middle;
+    horizontal-align: left;
+    border: solid grey 1px;
     height: 1.5em;
-    margin: 0 .25em;
+    margin: 0 0em;
 }
 
 .checkspan {
