@@ -18,7 +18,7 @@
         #report img { float:right;}
         #report ul { margin:3px 0 3px 5px; padding:10px;}
         #report th { background:#B3B3B3	repeat-x scroll center left; color:#000; padding:1px 3px; text-align:left;}
-        #report td { background:#E0E0E0	none repeat-x scroll center left; color:#000; padding:1px 10px; }
+        #report td { background:#F7F7F7 none repeat-x scroll center left; color:#000; padding:1px 10px; }
         #report tr.odd td { background:#F0F0F0	 repeat-x scroll center left; cursor:pointer; }
         #report div.arrow { background:transparent url(images/arrows.png) no-repeat scroll 0px -16px; width:16px; height:16px; display:block;}
         #report div.up { background-position:0px 0px;}
@@ -75,7 +75,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#">
-                  <div class="padtoright"><img src="images/mu2.png" alt="" height="60em"></div>
+                  <div class="padtoright"><img src="images/mu2.png" alt="" height="47.5em"></div>
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
