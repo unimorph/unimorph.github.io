@@ -36,7 +36,7 @@ def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, Lic
            
 data = [
     ('"images/flags/SA-AL.svg"'   , 'Arabic'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/AM.svg"'      , 'Armenian'         , 'fusional',       338461, 7033, True, True, True, WIKI, CC),
+    ('"images/flags/AM.svg"'      , 'Armenian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ES-PV.svg"'   , 'Basque'           , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/BG.svg"'      , 'Bulgarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ES-CT.svg"'   , 'Catalan'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -52,7 +52,7 @@ data = [
     ('"images/flags/IL.svg"'      , 'Hebrew'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IN.svg"'      , 'Hindi'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/HU.svg"'      , 'Hungarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IR.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/ID.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IT.svg"'      , 'Italian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/TR.svg"'      , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/VA.svg"'      , 'Latin'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -61,7 +61,7 @@ data = [
     ('"images/flags/MT.svg"'      , 'Maltese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/SAMI.svg"'    , 'Northern Sami'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/NO.svg"'      , 'Norwegian Bokmål' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/NO.svg"'      , 'Northern Nynyork' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NO.svg"'      , 'Norwegian Nynyork', 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IR.svg"'      , 'Persian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/PL.svg"'      , 'Polish'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/PT.svg"'      , 'Portuguese'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -77,6 +77,18 @@ data = [
     ('"images/flags/BD.svg"'      , 'Bengali'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FO.svg"'      , 'Faroese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IQ-KRD.svg"'  , 'Sorani Kurdish'   , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IC.svg"'      , 'Icelandic'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/AL.svg"'      , 'Albanian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NP.svg"'      , 'Khaling'          , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/WA.svg"'      , 'Welsh'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/GE.svg"'      , 'Georgian'         , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/HA.png"'      , 'Haida'            , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NV.svg"'      , 'Navajo'           , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/SB.svg"'      , 'Lower Sorbian'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/MK.svg"'      , 'Macedonian'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/ST.svg"'      , 'Scottish Gaelic'  , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/UK.svg"'      , 'Ukrainian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/QU.svg"'      , 'Quechua'          , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
 ]
 
 entries = []
@@ -85,6 +97,7 @@ for datum in sorted(data, key=lambda x: x[1]):
 
 table = "\n\n".join(entries)
 
+print len(entries)
 # replace the table
 import sys
 import codecs
