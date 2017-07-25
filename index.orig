@@ -14,12 +14,12 @@
     <style type="text/css">
         body { font-family:Arial, Helvetica, Sans-Serif; font-size:0.8em;}
         #report { border-collapse:collapse;}
-        #report h4 { margin:0px; padding:0px;}
+        #report h4 { margin:2px; padding:2px;}
         #report img { float:right;}
-        #report ul { margin:10px 0 10px 40px; padding:0px;}
-        #report th { background:#000000 url(images/stripe.png) repeat-x scroll center left; color:#000; padding:7px 15px; text-align:left;}
-        #report td { background:#C0C0C0 none repeat-x scroll center left; color:#000; padding:7px 15px; }
-        #report tr.odd td { background:#fff url(images/gray-white2.png) repeat-x scroll center left; cursor:pointer; }
+        #report ul { margin:3px 0 3px 5px; padding:10px;}
+        #report th { background:#000000 url(images/stripe.png) repeat-x scroll center left; color:#000; padding:1px 3px; text-align:left;}
+        #report td { background:#E1E5DF none repeat-x scroll center left; color:#000; padding:1px 10px; }
+        #report tr.odd td { background:#C0C0C0 repeat-x scroll center left; cursor:pointer; }
         #report div.arrow { background:transparent url(images/arrows.png) no-repeat scroll 0px -16px; width:16px; height:16px; display:block;}
         #report div.up { background-position:0px 0px;}
 	
@@ -111,7 +111,8 @@
 		  <h2>Annotated Languages</h2>
 		  <p>The following languages have been annotated according to the UniMorph specification.</p>
 		  <table id="report">
-  <tr>
+		    <tr>
+		      <th></th>
     <th>Language</th>
     <th>Classification</th>
     <th>Forms</th>

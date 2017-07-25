@@ -13,7 +13,8 @@ CHECK = u"""<span class="checkspan"><img class="check" src="images/check.png"/><
 def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, License):
     return u"""
   <tr>
-    <td><span class="flagspan"><img class="flag" src={0}/>{1}</span> </td>
+    <td><img class="flag" src={0}/></td>
+    <td>{1}</td>
     <td>{2}</td>
     <td>{3}</td>
     <td>{4}</td>
@@ -25,7 +26,7 @@ def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, Lic
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
-    <td colspan="10">
+    <td colspan="11">
       <h4>Additional information</h4>
       <ul>
       <li><a href="{10}">Wikipedia Page</a></li>
@@ -55,7 +56,7 @@ data = [
     ('"images/flags/HU.svg"'      , 'Hungarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ID.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IT.svg"'      , 'Italian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/TR.svg"'      , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IQ-KRD.svg"'  , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/VA.svg"'      , 'Latin'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LV.svg"'      , 'Latvian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LT.svg"'      , 'Lithuanian'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
