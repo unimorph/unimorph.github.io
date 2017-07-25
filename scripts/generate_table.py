@@ -44,7 +44,7 @@ data = [
     ('"images/flags/CZ.svg"'      , 'Czech'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/DK.svg"'      , 'Danish'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/NL.svg"'      , 'Dutch'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/US.svg"'      , 'English'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/EN.svg"'      , 'English'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/EE.svg"'      , 'Estonian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FI.svg"'      , 'Finnish'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FR.svg"'      , 'French'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
