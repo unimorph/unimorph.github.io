@@ -18,14 +18,11 @@ def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, Lic
     <td>{3}</td>
     <td>{4}</td>
     <td>{5}</td>
-    <td>{6}</td>
-    <td>{7}</td>
-    <td>{8}</td>
     <td>{9}</td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
-    <td colspan="10">
+    <td colspan="7">
       <h4>Additional information</h4>
       <ul>
       <li><a href="{10}">Wikipedia Page</a></li>
