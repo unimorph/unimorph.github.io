@@ -202,8 +202,8 @@ for datum in sorted(data_annotated, key=lambda x: x[1]):
 for datum in sorted(data_coming, key=lambda x: x[1]):
     entries_coming.append(replace(*datum))
 
-table_annotated = "\n\n".join(entries_annotated[0:1])
-table_coming = "\n\n".join(entries_coming[0:1])
+table_annotated = "\n\n".join(entries_annotated)
+table_coming = "\n\n".join(entries_coming)
 
 print len(entries_annotated)
 print len(entries_coming)
