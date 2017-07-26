@@ -170,3 +170,7 @@
 .center-table {
     margin: auto;
 }
+
+.close {
+    text-align: right;
+}

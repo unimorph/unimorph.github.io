@@ -2536,7 +2536,9 @@ var bibtexify = (function($) {
             var itemStr = '';
             itemStr += ' (<a title="This article as BibTeX" href="#" class="biblink">' +
                         'bib</a>)<div class="bibinfo hidden">';
-            itemStr += '<a href="#" class="bibclose" title="Close">x</a><pre>';
+            //itemStr += '<a href="#" class="bibclose" title="Close"></a>';
+	    itemStr += "<span class='close'><p>close</p></span>"
+	    itemStr += "<pre>";
             itemStr += '@' + entryData.entryType + "{" + entryData.cite + ",\n";
 	    var contents = ""
             $.each(entryData, function(key, value) {
@@ -2739,7 +2741,7 @@ var bibtexify = (function($) {
         });
         // attach the event handlers to the bib items
         $(".biblink", this.$pubTable).on('click', EventHandlers.showbib);
-        $(".bibclose", this.$pubTable).on('click', EventHandlers.hidebib);
+        $(".close", this.$pubTable).on('click', EventHandlers.hidebib);
     };
     // updates the stats, called whenever a new bibtex entry is parsed
     bibproto.updateStats = function updateStats(item) {
