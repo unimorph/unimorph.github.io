@@ -2538,18 +2538,22 @@ var bibtexify = (function($) {
                         'bib</a>)<div class="bibinfo hidden">';
             itemStr += '<a href="#" class="bibclose" title="Close">x</a><pre>';
             itemStr += '@' + entryData.entryType + "{" + entryData.cite + ",\n";
+	    var contents = ""
             $.each(entryData, function(key, value) {
+		var tmp = "";
                 if (key == 'author') {
-                    itemStr += '  author = { ';
+                    tmp += '  author = {';
                     for (var index = 0; index < value.length; index++) {
-                        if (index > 0) { itemStr += " and "; }
-                        itemStr += value[index].last;
+                        if (index > 0) { tmp += " and "; }
+                        tmp += value[index].last;
                     }
-                    itemStr += ' },\n';
+                    tmp += '},\n';
                 } else if (key != 'entryType' && key != 'cite') {
-                    itemStr += '  ' + key + " = { " + value + " },\n";
+                    tmp += '  ' + key + " = {" + value + "},\n";
                 }
+		contents = tmp+contents
             });
+	    itemStr += contents
             itemStr += "}</pre></div>";
             return itemStr;
         },
