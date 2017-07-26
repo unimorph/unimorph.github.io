@@ -136,7 +136,19 @@
       });
             
       $("#data").click(function() {
-         $("#content").load("data.html");
+        $("#content").load("data.html");
+
+        $(document).ready(function(){
+            $("#annotated tr:odd").addClass("odd");
+            $("#annotated tr:not(.odd)").hide();
+            $("#annotated tr:first-child").show();
+            $("#annotated tr.odd").click(function(){
+                $(this).next("tr").toggle();
+                $(this).find(".arrow").toggleClass("up");
+            });
+            //$("#annotated").jExpand();
+        });
+      
       });
       
       $("#publications").click(function() {
