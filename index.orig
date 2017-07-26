@@ -71,8 +71,6 @@
       });
     </script>
 
-
-
     
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -116,10 +114,10 @@
                         <a href="#">Project</a>
                     </li>
                     <li>
-                        <a href="#">Data</a>
+                        <a href="#data">Data</a>
                     </li>
 		    <li>
-                        <a href="#">Publications</a>
+                        <a href="#publications" id="publications">Publications</a>
                     </li>
 		    <li>
 		      <a href="#">Contact</a>
@@ -131,6 +129,22 @@
         </div>
         <!-- /.container -->
     </nav>
+
+    <script>
+      $("#publications").click(function() {
+         alert('publications clicked');
+         $("#content").load("tmp.html");
+         alert('publications clicked');
+      });
+      
+      $("#about").click(function() {
+      alert('about clicked');
+      });
+    </script>
+
+    <div id ="content">
+      tmp
+    </div>
 
     <!-- Page Content -->
     <div class="container">
