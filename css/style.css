@@ -32,7 +32,7 @@
 .check {
     margin: auto;
     vertical-align: bottom;
-    height: 1.5em;
+    height: 1.1em;
 }
 
 .glassspan {
@@ -45,7 +45,7 @@
 .glass {
     margin: auto;
     vertical-align: bottom;
-    height: 1.75em;
+    height: 1.1em;
 }
 
 .sourcespan {
@@ -58,13 +58,12 @@
 .source {
     margin: auto;
     vertical-align: bottom;
-    height: 2.0em;
+    height: 1.1em;
 }
 
 .center {
     border: 0px solid grey;
     padding: 10px;
-    max-width: 700px;
 }
 
 .center-table {

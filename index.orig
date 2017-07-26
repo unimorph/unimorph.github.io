@@ -170,9 +170,12 @@
 		  <table id="annotated">
 		    <tr>
 		      <th></th>
-    <th>Language</th>
-    <th>Forms</th>
-    <th>Paradigms</th>
+		      <th>Language</th>
+		      <th>Forms</th>
+		      <th>Paradigms</th>
+		      <th>Nouns</th>
+		      <th>Verbs</th>
+		      <th>Adjectives</th>
     <th>Source</th>
     <th>License</th>
     <th></th>
