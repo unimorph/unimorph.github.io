@@ -6,8 +6,10 @@
 
 .flagspan {
     display: inline-block;
+    horizontal-align: left;
     padding-left: 0 gem;
     float: right;
+    text-align: left;
 }
 
 .flag {
@@ -16,6 +18,11 @@
     border: solid grey 1px;
     height: 1.5em;
     margin: 0 0em;
+    text-align: left;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 .checkspan {
@@ -58,7 +65,7 @@
 }
 
 .center {
-    border: 2px solid grey;
+    border: 0px solid grey;
     padding: 10px;
 }
 

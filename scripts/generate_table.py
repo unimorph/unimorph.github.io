@@ -13,14 +13,14 @@ CHECK = u"""<span class="checkspan"><img class="check" src="images/check.png"/><
 def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, License):
     return u"""
   <tr>
-    <td><img class="flag" src={0}/></td>
+    <td><span class="flagspan"><img class="flag" src={0}/></span></td>
     <td>{1}</td>
     <td>{3}</td>
     <td>{4}</td>
     <td>{5}</td>
     <td>{6}</td>
     <td>{7}</td>
-    <td>{8}</span></td>
+    <td>{8}</td>
     <td>{9}</td>
     <td><div class="arrow"></div></td>
   </tr>
