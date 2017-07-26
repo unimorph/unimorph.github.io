@@ -1,0 +1,44 @@
+		<div>
+		  <h2>Annotated Languages</h2>
+		  <p>The following 54 languages have been annotated according to the UniMorph specification. In some cases, some parts of speech are missing from the annotations; these will be filled in as soon possible, provided the necessary data are available. </p>
+		  <table id="annotated">
+		    <tr>
+		      <th></th>
+    <th>Language</th>
+    <th>Forms</th>
+    <th>Paradigms</th>
+    <th>Nouns</th>
+    <th>Verbs</th>
+    <th>Adjectives</th>
+    <th>Source</th>
+    <th>License</th>
+    <th></th>
+  </tr>
+
+TABLE1
+  
+</table>
+		  
+		</div>
+		<div>
+		  <h2>Coming Attractions!</h2>
+		  <p>The following languages are in the process of being annotated according to the UniMorph specification.</p>
+		  <table id="coming">
+		    <tr>
+		      <th></th>
+    <th>Language</th>
+    <th>Forms</th>
+    <th>Paradigms</th>
+    <th>Nouns</th>
+    <th>Verbs</th>
+    <th>Adjectives</th>
+    <th>Source</th>
+    <th>License</th>
+    <th></th>
+  </tr>
+
+TABLE2
+		  </table>
+		</div>
+		
+        </div>
