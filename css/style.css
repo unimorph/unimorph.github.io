@@ -6,9 +6,6 @@
 
 .flagspan {
     display: inline-block;
-    horizontal-align: left;
-    padding-left: 0 gem;
-    float: right;
     text-align: left;
 }
 
