@@ -179,3 +179,17 @@
 .close {
     text-align: right;
 }
+
+.mylist {
+    float:left;
+}
+
+.detail {
+    padding-right: 10px;
+    float: left;
+}
+
+.detail-box {
+    padding-left: 10px;
+    float: left;
+}
