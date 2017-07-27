@@ -88,6 +88,11 @@
     cursor:pointer;
 }
 
+#coming tr.even td {
+    background:#F7F7F7	 repeat-x scroll center left;
+    cursor:pointer;
+}
+
 #coming div.arrow {
     background:transparent url(images/arrows.png) no-repeat scroll 0px -16px;
     width:16px;

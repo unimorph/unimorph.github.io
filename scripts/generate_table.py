@@ -12,29 +12,41 @@ WIKI = u"""<span class="sourcespan"><img class="source" src="images/wiki.png"/><
 CHECK = u"""<span class="checkspan"><img class="check" src="images/check.png"/></span>"""
 NONE = u""
 
-def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, License):
+# read in iso-639-3.tab
+lang2code = {}
+with codecs.open("iso-639-3.tab", 'rb', encoding='utf-8') as f:
+    for line in f:
+        line = line.strip()
+        split = line.split("\t")
+        if len(split) == 8:
+            split = split[:7]
+        code, _, _, _, scope, T,  name = split
+        lang2code[name] = code
+
+def replace(flag, name,_type, forms, lemmata, check1, check2, check3, wiki, License):
     return u"""
   <tr>
     <td><span class="flagspan"><img class="flag" src={0}/></span></td>
     <td>{1}</td>
-    <td>{3}</td>
+    <td>{2}</td>
     <td>{4}</td>
     <td>{5}</td>
     <td>{6}</td>
     <td>{7}</td>
     <td>{8}</td>
     <td>{9}</td>
+    <td>{10}</td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
-    <td colspan="10">
+    <td colspan="11">
       <h4>Additional information</h4>
       <ul>
-      <li><a href="{10}">Wikipedia Page</a></li>
+      <li><a href="{11}">Wikipedia Page</a></li>
       </ul>   
     </td>
 </tr>
-""".format(*map(unicode, [flag, name, _type, forms, lemmata, CHECK if check1 else "", CHECK if check2 else "", CHECK if check3 else "", wiki, License, "https://en.wikipedia.org/wiki/"+name+"_language"]))
+""".format(*map(unicode, [flag, name, lang2code[name], _type, forms, lemmata, CHECK if check1 else "", CHECK if check2 else "", CHECK if check3 else "", wiki, License, "https://en.wikipedia.org/wiki/"+name+"_language"]))
 
            
 data_annotated = [
@@ -51,19 +63,19 @@ data_annotated = [
     ('"images/flags/FI.svg"'      , 'Finnish'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FR.svg"'      , 'French'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/DE.svg"'      , 'German'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/GR.svg"'      , 'Greek'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IL.svg"'      , 'Modern Hebrew'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/GR.svg"'      , 'Modern Greek'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IL.svg"'      , 'Hebrew'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IN.svg"'      , 'Hindi'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/HU.svg"'      , 'Hungarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ID.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IT.svg"'      , 'Italian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IQ-KRD.svg"'  , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, NONE, CC),
+    ('"images/flags/IQ-KRD.svg"'  , 'Northern Kurdish' , 'fusional',       0,      0,    True, True, True, NONE, CC),
     ('"images/flags/VA.svg"'      , 'Latin'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LA.svg"'      , 'Latvian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LT.svg"'      , 'Lithuanian'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/MT.svg"'      , 'Maltese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/SAMI.svg"'    , 'Northern Sami'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/NO.svg"'      , 'Norwegian Bokmål' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NO.svg"'      , u'Norwegian Bokmål' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/NO.svg"'      , 'Norwegian Nynorsk', 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IR.svg"'      , 'Persian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/PL.svg"'      , 'Polish'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -79,7 +91,7 @@ data_annotated = [
     ('"images/flags/PK.svg"'      , 'Urdu'             , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/BD.svg"'      , 'Bengali'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FO.svg"'      , 'Faroese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IQ-KRD.svg"'  , 'Sorani Kurdish'   , 'fusional',       0,      0,    True, True, True, NONE, CC),
+    ('"images/flags/IQ-KRD.svg"'  , 'Central Kurdish'   , 'fusional',       0,      0,    True, True, True, NONE, CC),
     ('"images/flags/IC.svg"'      , 'Icelandic'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/AL.svg"'      , 'Albanian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/NP.svg"'      , 'Khaling'          , 'agglutinative',  0,      0,    True, True, True, NONE, CC),
@@ -137,7 +149,7 @@ data_coming = [
 ('"images/flags/GR.svg"' ,"Ancient Greek", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/KO.svg"' ,"Korean", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/FR-ROYAL.svg"' ,"Old French", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/AM.svg"' ,"Old Armenian", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/AM.svg"' ,"Classical Armenian", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/LU.svg"' ,"Luxembourgish", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/SY.svg"' ,"Classical Syriac", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/GC.svg"' ,"Galician", 0, 0, "fusional",  True, True, True, WIKI, CC),
@@ -151,89 +163,88 @@ data_coming = [
 ('"images/flags/OC.svg"' ,"Occitan", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/KE.svg"' ,"Swahili", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/VE.svg"' ,"Venetian", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/AZ.svg"' ,"Azeri", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
+('"images/flags/AZ.svg"' ,"Azerbaijani", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/GO.svg"' ,"Gothic", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/BA.svg"' ,"Bashkir", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/TA.svg"' ,"Crimean Tatar", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/LD.svg"' ,"Ladin", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/RA.svg"' ,"Old Norse", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/IM.svg"' ,"Manx", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/LI.svg"' ,"Limburgish", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/LI.svg"' ,"Limburgan", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/DE.svg"' ,"Low German", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/FL.svg"' ,"Friulian", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/JE.svg"' ,"Jerriais", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/LV.svg"' ,"Livonian", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/JE.svg"' ,u"Jèrriais", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/LV.svg"' ,"Liv", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/IN.svg"' ,"Kannada", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/KA.svg"' ,"Kabardian", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/IL.svg"' ,"Yiddish", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/TJ.svg"' ,"Tajik", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/SA.svg"' ,"Zulu", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/UZ.svg"' ,"Uzbek", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
-('"images/flags/BY.svg"' ,"Buryat", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
-('"images/flags/KG.svg"' ,"Kyrgyz", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
+('"images/flags/BY.svg"' ,"Buriat", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
+('"images/flags/KG.svg"' ,"Kirghiz", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/SA.svg"' ,"Afrikaans", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/ID.svg"' ,"Old Irish", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/CH.svg"' ,"Romansch", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/NF.svg"' ,"North Frisian", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/CH.svg"' ,"Romansh", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/NF.svg"' ,"Northern Frisian", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/SC.svg"' ,"Sicilian", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/NE.svg"' ,"Neapolitan", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/MY.svg"' ,"Malay", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/MORAVA.svg"' ,"Old Church Slavonic", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/NM.svg"' ,"Norman", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/MORAVA.svg"' ,"Church Slavic", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/VO.svg"' ,"Votic", 0, 0, "agglutinatve",  True, True, True, WIKI, CC),
 ('"images/flags/AR.svg"' ,"Aragonese", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/KH.svg"' ,"Khakas", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/KL.svg"' ,"Karelian", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/IN.svg"' ,"Telugu", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/IG.svg"' ,"Ingrian", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/WF.svg"' ,"West Frisian", 0, 0, "fusional",  True, True, True, WIKI, CC),
+('"images/flags/WF.svg"' ,"Western Frisian", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/SY.svg"' ,"Aramaic", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/TM.svg"' ,"Turkmen", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/MA.svg"' ,"Mapudungun", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/DE.svg"' ,"Middle High German", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/EG.svg"' ,"Egyptian Arabic", 0, 0, "fusional",  True, True, True, WIKI, CC),
 ('"images/flags/NL.svg"' ,"Old Dutch", 0, 0, "fusional",  True, True, True, WIKI, CC),
-('"images/flags/GL.svg"' ,"Greenlandic", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
+('"images/flags/GL.svg"' ,"Kalaallisut", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
 ('"images/flags/DE.svg"', "Middle Low German", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/AO.svg"', "Aromanian", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/AO.svg"', "Macedo-Romanian", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/TT.svg"', "Tatar", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/SD.svg"', "Sardinian", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/IL.svg"', "Ladino", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/TB.svg"', "Tibetan", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/NL.svg"', "Middle Dutch", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/WI.svg"', "Vilamovian", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/WI.svg"', "Wymysorys", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MN.svg"', "Yucatec Maya", 0, 0, "agglutinative", True, True, True, WIKI, CC),
-('"images/flags/CN.svg"', "Mandarin", 0, 0, "isolating", True, True, True, WIKI, CC),
+('"images/flags/CN.svg"', "Mandarin Chinese", 0, 0, "isolating", True, True, True, WIKI, CC),
 ('"images/flags/KB.svg"', "Kashubian", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/SF.svg"', "Saterland Frisian", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/PR.svg"', "Old Provençal", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/NMX.svg"', "Taos", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/SF.svg"', "Saterfriesisch", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/PR.svg"', u"Old Provençal", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/NMX.svg"', "Northern Tiwa", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/CW.svg"', "Cornish", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/BR.svg"', "Breton", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/GG.svg"', "Gagauz", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/GY.svg"', "Guernesiais", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/KZ.svg"', "Kazakh", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MI.svg"', "Mirandese", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/NI.svg"', "Hausa", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/CE.svg"', "Chechen", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/CH.svg"', "Alemannic German", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/CH.svg"', "Swiss German", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/IN.svg"', "Malayalam", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/PT.svg"', "Old Portuguese", 0, 0, "fusional", True, True, True, WIKI, CC),
     ('"images/flags/TR.svg"', "Hittite", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/RM.svg"', "Romani", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/RM.svg"', "Romany", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/NN.svg"', "Inuktitut", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/IN.svg"', "Punjabi", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/BO.svg"', "ǃXóõ", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/IN.svg"', "Panjabi", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/BO.svg"', u"!Xóõ", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/SAMI.svg"', "Skolt Sami", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MD.svg"', "Malagasy", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/MX.svg"', "Classical Nahuatl", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/WL.svg"', "Walloon", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/CA.svg"', "Ojibwe", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/AF.svg"', "Pashto", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/VR.svg"', "Võro", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/CA.svg"', "Ojibwa", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/AF.svg"', "Pushto", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/VR.svg"', u"Võro", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/IS.svg"', "Istriot", 0, 0, "fusional", True, True, True, WIKI, CC),
 ('"images/flags/SA.svg"', "Tswana", 0, 0, "fusional", True, True, True, WIKI, CC),
-('"images/flags/CO.svg"', "Corsican", 0, 0, "fusional", True, True, True, WIKI, CC)
+('"images/flags/CO.svg"', "Corsican", 0, 0, "fusional", True, True, True, WIKI, CC),
+('"images/flags/CN.svg"', "Uighur", 0, 0, "fusional", True, True, True, WIKI, CC)
 ]
 
 entries_annotated, entries_coming  = [], []
