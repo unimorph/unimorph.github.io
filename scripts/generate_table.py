@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # encoding=utf8  
 import sys  
+import codecs
 
 reload(sys)  
 sys.setdefaultencoding('utf8')
@@ -9,6 +10,7 @@ sys.setdefaultencoding('utf8')
 CC = u"""<span class="checkspan"><img class="check" src="images/cc.png"/></span>"""
 WIKI = u"""<span class="sourcespan"><img class="source" src="images/wiki.png"/></span>"""
 CHECK = u"""<span class="checkspan"><img class="check" src="images/check.png"/></span>"""
+NONE = u""
 
 def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, License):
     return u"""
@@ -38,7 +40,7 @@ def replace(flag, name, _type, forms, lemmata, check1, check2, check3, wiki, Lic
 data_annotated = [
     ('"images/flags/SA-AL.svg"'   , 'Arabic'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/AM.svg"'      , 'Armenian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/ES-PV.svg"'   , 'Basque'           , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/ES-PV.svg"'   , 'Basque'           , 'agglutinative',  0,      0,    True, True, True, NONE, CC),
     ('"images/flags/BG.svg"'      , 'Bulgarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ES-CT.svg"'   , 'Catalan'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/CZ.svg"'      , 'Czech'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -55,14 +57,14 @@ data_annotated = [
     ('"images/flags/HU.svg"'      , 'Hungarian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/ID.svg"'      , 'Irish'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IT.svg"'      , 'Italian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IQ-KRD.svg"'  , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IQ-KRD.svg"'  , 'Kurmanji Kurdish' , 'fusional',       0,      0,    True, True, True, NONE, CC),
     ('"images/flags/VA.svg"'      , 'Latin'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LV.svg"'      , 'Latvian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/LT.svg"'      , 'Lithuanian'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/MT.svg"'      , 'Maltese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/SAMI.svg"'    , 'Northern Sami'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/NO.svg"'      , 'Norwegian Bokmål' , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/NO.svg"'      , 'Norwegian Nynyork', 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NO.svg"'      , 'Norwegian Nynorsk', 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/IR.svg"'      , 'Persian'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/PL.svg"'      , 'Polish'           , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/PT.svg"'      , 'Portuguese'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -77,13 +79,13 @@ data_annotated = [
     ('"images/flags/PK.svg"'      , 'Urdu'             , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/BD.svg"'      , 'Bengali'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/FO.svg"'      , 'Faroese'          , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/IQ-KRD.svg"'  , 'Sorani Kurdish'   , 'fusional',       0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/IQ-KRD.svg"'  , 'Sorani Kurdish'   , 'fusional',       0,      0,    True, True, True, NONE, CC),
     ('"images/flags/IC.svg"'      , 'Icelandic'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/AL.svg"'      , 'Albanian'         , 'fusional',       0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/NP.svg"'      , 'Khaling'          , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/NP.svg"'      , 'Khaling'          , 'agglutinative',  0,      0,    True, True, True, NONE, CC),
     ('"images/flags/WA.svg"'      , 'Welsh'            , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/GE.svg"'      , 'Georgian'         , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
-    ('"images/flags/HA.png"'      , 'Haida'            , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
+    ('"images/flags/HA.png"'      , 'Haida'            , 'agglutinative',  0,      0,    True, True, True, NONE, CC),
     ('"images/flags/NV.svg"'      , 'Navajo'           , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/SB.svg"'      , 'Lower Sorbian'    , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/MK.svg"'      , 'Macedonian'       , 'fusional',       0,      0,    True, True, True, WIKI, CC),
@@ -91,6 +93,44 @@ data_annotated = [
     ('"images/flags/UK.svg"'      , 'Ukrainian'        , 'fusional',       0,      0,    True, True, True, WIKI, CC),
     ('"images/flags/QU.svg"'      , 'Quechua'          , 'agglutinative',  0,      0,    True, True, True, WIKI, CC),
 ]
+
+data_annotated_new = []
+for entry in data_annotated:
+    lexicon = "-".join(map(lambda x: x.lower(), entry[1].split(" ")))
+    fname = "/Volumes/albatross/research/mwc++/unimorph-lexica/" + lexicon
+    try:
+        print fname
+        form_count = 0
+        lemmata = set()
+        V, A, N = False, False, False
+        with codecs.open(fname, 'rb', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line == u"":
+                    continue
+                lemma, form, tag = line.split("\t")
+                lemmata.add(lemma)
+                form_count += 1
+                if u"V" in tag.split(";"):
+                    V = True
+                if u"N" in tag.split(";"):
+                    N = True
+                if u"ADJ" in tag.split(";"):
+                    A = True
+                    
+        lemma_count = len(lemmata)
+        tmp = list(entry)
+        tmp[3] = form_count
+        tmp[4] = lemma_count
+        tmp[5] = N
+        tmp[6] = V
+        tmp[7] = A
+        data_annotated_new.append(tmp)
+        
+    except IOError:
+        data_annotated_new.append(entry)
+
+data_annotated = data_annotated_new        
 
 data_coming = [
 ('"images/flags/JP.svg"' ,"Japanese", 0, 0, "agglutinative",  True, True, True, WIKI, CC),
