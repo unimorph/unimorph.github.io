@@ -1,28 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<title>UniMorph&mdash;Universal Morphological Annotation</title>
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$("#annotated tr:odd").addClass("odd");
+$("#annotated tr:not(.odd)").hide();
+$("#annotated tr:first-child").show();
+$("#annotated tr.odd").click(function(){
+$(this).next("tr").toggle();
+$(this).find(".arrow").toggleClass("up");
+});
+});
+
+$(document).ready(function(){
+$("#coming tr:odd").addClass("odd");
+$("#coming tr:not(.odd)").hide();
+$("#coming tr:first-child").show();
+$("#coming tr.odd").click(function(){
+$(this).next("tr").toggle();
+$(this).find(".arrow").toggleClass("up");
+});
+});
+</script>
+
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/logo-nav.css" rel="stylesheet">
+
+<!-- Custom CSS UniMorph CSS -->
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<link rel="stylesheet" href="css/bib-publication-list.css"/>
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="container">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="#">
+<div class="padtoright"><img src="images/mu2.png" alt="" height="47.5em"></div>
+</a>
+</div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li>
+<a href="index.html" id="project">UniMorph</a>
+</li>
+<li>
+<a href="schema.html" id="data">Schema</a>
+</li>
+<li>
+<a href="software.html" id="software">Software</a>
+</li>
+<li>
+<a href="publications.html" id="publications">Publications</a>
+</li>
+<li>
+<a href="contact.html" id="contact">Contact</a>
+</li>
+
+</ul>
+</div>
+<!-- /.navbar-collapse -->
+</div>
+<!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+<div class="row">
+<div class="center">
 <div id ="content">
-<h1>UniMorph</h1>
-<p>
-  The Universal Morphology (UniMorph) project is a collaborative
-  effort to improve how human language technology, including machine
-  translation, processes complex morphology in the world's languages,
-  particularly those which are low-resource. The goal of UniMorph is
-  to annotate morphological data in a universal schema that allows an
-  inflected word from any language to be defined by its lexical
-  meaning (typically carried in the root or stem) and by a rendering
-  of its inflectional form in terms of features from the schema (i.e.,
-  a bundle of universal morphological features). Our data have already
-  been employed in two shared tasks in the NLP community:
-  the <a href="http://ryancotterell.github.io/sigmorphon2016/">SIGMORPHON
-  2016 shared task</a> and
-  the <a href="https://sites.google.com/view/conll-sigmorphon2017/">CoNLL-SIGMORPHON
-  2017</a> shared task.  Although building a cross-lingual
-  representation for the semantic content of human language as a whole
-  is typically seen as prohibitively difficult, the comparatively
-  small extent of grammatical meanings that are conveyed by overt,
-  affixal inflectional morphology places a natural bound on the range
-  of meaning that must be expressed by an interlingua for inflectional
-  morphology. A full specification of the schema is given
-  in <a href="doc/unimorph-schema.pdf">Sylak-Glassman (2016)</a>.
-</p>
+<h1>Schema</h1>
 <p>
   The UniMorph schema comprises 23 dimensions of meaning and over 212
   features. The dimensions of meaning are morphological categories, such
@@ -85,4 +159,18 @@ comparable. This is an essential feature of the UniMorph that allows
 inflectional material to be faithfully translated and enhances
 comparability across languages.
 </p>
+<h2>Dimensions of Meaning and their Features</h2>
+<p> Coming Soon! </p>
+
 </div>
+
+</div>
+</div>
+</div>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jExpand.js"></script>
+
+</body>
+

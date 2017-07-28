@@ -1,11 +1,11 @@
-all: index.html data.html contact.html publications.html software.html
-
-data.html:
-	python generate_table.py ../data-content.html ../data-orig.html
-	python generate_page.py ../data-orig.html ../index-orig.html ../data.html
+all: index.html schema.html contact.html publications.html software.html
 
 index.html:
-	python generate_page.py ../project.html ../index-orig.html ../index.html
+	python generate_table.py ../data-content.html ../data-orig.html
+	python generate_page.py ../data-orig.html ../index-orig.html ../index.html
+
+schema.html:
+	python generate_page.py ../schema-orig.html ../index-orig.html ../schema.html
 
 
 contact.html:

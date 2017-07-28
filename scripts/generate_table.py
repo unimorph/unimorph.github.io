@@ -66,20 +66,20 @@ def replace(flag, name, category, templatic, forms, lemmata, check1, check2, che
       <div class="detail-box">
       <div class="mylist">
       <ul>
-      <li><span class="detail"><b>Download Data:</b></span><a href="https://github.com/unimorph/{2}">Repo</a></li>
-      <li><span class="detail"><b>Report Errors:</b></span><a href="https://github.com/unimorph/{2}/issues">Issues</a></li>
+      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/{2}">Repo</a></li>
+      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/{2}/issues">Issues</a></li>
       </ul>
       </div>
       <div class="mylist">
       <ul>
-      <li><span class="detail"><b>Typology:</b></span>{4}</li>
-      <li><span class="detail"><b>Templatic:</b></span>{5}</li>
+      <li><span class="detail2"><b>Typology:</b></span>{4}</li>
+      <li><span class="detail2"><b>Templatic:</b></span>{5}</li>
       </ul>
       </div>
       <div class="mylist">
       <ul>
-      <li><span class="detail"><b>Info:</b></span> <a href="{13}">Wikipedia</a></li>
-      <li><span class="detail"><b>Type:</b></span>{3}</li>  
+      <li><span class="detail3"><b>Info:</b></span> <a href="{13}">Wikipedia</a></li>
+      <li><span class="detail3"><b>Type:</b></span>{3}</li>  
       </ul>
       </div>
       </div>

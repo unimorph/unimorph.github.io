@@ -184,9 +184,22 @@
     float:left;
 }
 
-.detail {
-    padding-right: 10px;
+.detail1 {
+    padding-right: 5px;
     float: left;
+    width: 116px;
+}
+
+.detail2 {
+    padding-right: 5px;
+    float: left;
+    width: 75px;
+}
+
+.detail3 {
+    padding-right: 5px;
+    float: left;
+    width: 40px;
 }
 
 .detail-box {
