@@ -185,21 +185,27 @@
 }
 
 .detail1 {
-    padding-right: 5px;
+    padding-right: 1px;
     float: left;
-    width: 116px;
+    width: 114px;
 }
 
 .detail2 {
-    padding-right: 5px;
+    padding-left: 1px;
     float: left;
     width: 75px;
 }
 
 .detail3 {
-    padding-right: 5px;
+    padding-right: 1px;
     float: left;
     width: 40px;
+}
+
+.detail4 {
+    padding-right: 1px;
+    float: left;
+    width: 166px;
 }
 
 .detail-box {
