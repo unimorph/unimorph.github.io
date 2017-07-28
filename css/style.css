@@ -113,6 +113,7 @@
 .flagspan {
     display: inline-block;
     text-align: left;
+    padding-right: 10px;
 }
 
 .flag {
@@ -185,27 +186,27 @@
 }
 
 .detail1 {
-    padding-right: 1px;
+    padding-right: 10px;
     float: left;
-    width: 114px;
+    width: 120px;
 }
 
 .detail2 {
-    padding-left: 1px;
+    padding-left: 10px;
     float: left;
     width: 75px;
 }
 
 .detail3 {
-    padding-right: 1px;
+    padding-right: 10px;
     float: left;
     width: 40px;
 }
 
 .detail4 {
-    padding-right: 1px;
+    padding-right: 10px;
     float: left;
-    width: 166px;
+    width: 175px;
 }
 
 .detail-box {
