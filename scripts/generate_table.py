@@ -65,25 +65,25 @@ def replace(flag, name, category, templatic, forms, lemmata, check1, check2, che
     <td colspan="11">
       <div class="detail-box">
       <div class="mylist">
-      <ul>
+      <ul class="unstyled">
       <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/{2}">repo</a></li>
       <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/{2}/issues">issues</a></li>
       </ul>
       </div>
       <div class="mylist">
-      <ul>
+      <ul class="unstyled">
       <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>{14}</li>
       <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>{15}</li>  
       </ul>
       </div>
       <div class="mylist">
-      <ul>
+      <ul class="unstyled">
       <li><span class="detail2"><b>Typology:</b></span>{4}</li>
       <li><span class="detail2"><b>Templatic:</b></span>{5}</li>
       </ul>
       </div>
       <div class="mylist">
-      <ul>
+      <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="{13}">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span>{3}</li>  
       </ul>

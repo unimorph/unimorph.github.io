@@ -212,3 +212,7 @@
     padding-left: 10px;
     float: left;
 }
+
+.unstyled {
+  list-style-type: none;
+}
