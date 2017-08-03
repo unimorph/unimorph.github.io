@@ -1,7 +1,7 @@
 all: index.html schema.html contact.html publications.html software.html
 
 index.html:
-	python generate_table.py ../data-content.html ../data-orig.html
+	#python generate_table.py ../data-content.html ../data-orig.html
 	python generate_page.py ../data-orig.html ../index-orig.html ../index.html
 
 schema.html:
