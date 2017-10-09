@@ -31,7 +31,8 @@ $(this).find(".arrow").toggleClass("up");
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
 
-<h1>UniMorph</h1>
+# UniMorph
+
   <p>
   The Universal Morphology (UniMorph) project is a collaborative
   effort to improve how NLP handles complex morphology in the world's
@@ -40,8 +41,8 @@ $(this).find(".arrow").toggleClass("up");
   to be defined by its lexical meaning, typically carried by the
   lemma, and by a rendering of its inflectional form in terms of a
   bundle of morphological features from our schema. The specification
-  of the schema is described <a href="schema.html">here</a> and
-  in <a href="doc/unimorph-schema.pdf">Sylak-Glassman (2016)</a>.
+  of the schema is described <a href="{{ site.baseurl }}/schema">here</a> and
+  in <a href="{{ site.baseurl }}/doc/unimorph-schema.pdf">Sylak-Glassman (2016)</a>.
   <p>
 
   <h3>UniMorph Events</h3>
