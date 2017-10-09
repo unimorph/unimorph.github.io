@@ -33,8 +33,9 @@ $(this).find(".arrow").toggleClass("up");
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
 
-<!-- Page Content -->
-  <p>The following publications have made use of UniMorph data.</p>
+
+The following publications have made use of UniMorph data.
+
   <div>
   <link rel="stylesheet" href="css/bib-publication-list.css"/>
   <style>
