@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Schema/
+permalink: /schema/
 title: Schema
 ---
 
@@ -39,7 +39,8 @@ bundle of UniMorph features.
 
 <figure id="spanish-russian">
     <center>
-        ![Spanish and Russian Forms]({{ site.basename }}/images/spanish-russian-paradigm.svg)
+        <img src="{{ site.baseurl }}/images/spanish-russian-paradigm.svg"
+        alt="Spanish and Russian Forms" />
     </center>
     <center>
         <figcaption>
