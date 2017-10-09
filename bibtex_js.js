@@ -426,7 +426,7 @@ function BibtexDisplay() {
       } else {
         tpl.find("span:not(a)." + key.toLowerCase()).html(this.fixValue(value));
         var link = tpl.find("a." + key.toLowerCase()).each(function() {
-            if(this.attributes["href"] === "") {
+            if(this.attributes["href"] === "x") {
               this.attributes["href"].value = this.fixValue(value);
             }
         });
