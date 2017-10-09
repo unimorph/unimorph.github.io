@@ -8,12 +8,20 @@ These publications have used UniMorph-annotated data.
     
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.basename }}/bibtex_js.js"></script>
+
+<style type="text/css">
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+</style>
       
 <bibtex src="{{ site.baseurl }}/publications.bib"></bibtex>
 
 <div id="bibtex_errors"></div>
 
 <textarea id="bibtex_template_input" style="display: none;"">
+<span class="hangingindent">
   <span class="if author">
     <span class="author"></span>.
   </span>
@@ -27,7 +35,7 @@ These publications have used UniMorph-annotated data.
   <span class="if url" style="margin-left: 20px">
     <a class="url" style="color:black; font-size:10px">(link)</a>
   </span>
-
+</span>
 </textarea>
 
 <div class="bibtex_template"></div>
