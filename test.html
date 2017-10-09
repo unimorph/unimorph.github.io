@@ -912,7 +912,7 @@ function authorList(object)
   var map = new Object();
   $("span.author").each(function(i, obj) {
     arrayString = $(this).text().split(new RegExp(",[\\s]+and[\\s]+|,[\\s]+"));
-    if(object.attr("extra")=="first"){
+    if(object.attr("extra")=="first" or true){
         map[arrayString[0]] = 1;
     } else {
         for (i = 0; i < arrayString.length; i++) {
