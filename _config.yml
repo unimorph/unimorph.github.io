@@ -3,10 +3,10 @@ name: UniMorph
 
 description: Universal Morphological Annotation
 
-avatar: images/mu.png
-
 url: https://unimorph.github.io
 baseurl: ""
+
+avatar: https://unimorph.github.io/images/mu.png
 
 permalink: /:title/
 
