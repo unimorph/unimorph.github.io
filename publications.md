@@ -438,6 +438,5 @@ pages={1-79},
 <bibtex src="{{ site.url }}/publications.bib"></bibtex>
 <div id="bibtex_display"></div>
 
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/master/src/bibtex_js.js"></script>
