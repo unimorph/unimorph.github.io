@@ -33,27 +33,19 @@ $(this).find(".arrow").toggleClass("up");
 
 # UniMorph
 
-  <p>
-  The Universal Morphology (UniMorph) project is a collaborative
-  effort to improve how NLP handles complex morphology in the world's
-  languages. The goal of UniMorph is to annotate morphological data in
-  a universal schema that allows an inflected word from any language
-  to be defined by its lexical meaning, typically carried by the
-  lemma, and by a rendering of its inflectional form in terms of a
-  bundle of morphological features from our schema. The specification
-  of the schema is described <a href="{{ site.baseurl }}/schema">here</a> and
-  in <a href="{{ site.baseurl }}/doc/unimorph-schema.pdf">Sylak-Glassman (2016)</a>.
-  <p>
+The Universal Morphology (UniMorph) project is a collaborative effort to improve how NLP handles complex morphology in the world's languages.
+The goal of UniMorph is to annotate morphological data in a universal schema that allows an inflected word from any language to be defined by its lexical meaning, typically carried by the lemma, and by a rendering of its inflectional form in terms of a bundle of morphological features from our schema.
+The specification of the schema is described [here]({{ site.baseurl }}/schema) and in[Sylak-Glassman (2016)[({{ site.baseurl }}/doc/unimorph-schema.pdf).
 
-  <h3>UniMorph Events</h3>
-      <ul>
+### UniMorph Events
 
-  <li><a href="http://ryancotterell.github.io/sigmorphon2016/">SIGMORPHON
-  2016 Shared Task</a></li>
-  <li><a href="https://sites.google.com/view/conll-sigmorphon2017/">CoNLL-SIGMORPHON 2017 Shared Task</a></li>
-   </ul>
-<h3>Annotated Languages</h3>
-<p>The following 51 languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon. </p>
+- [SIGMORPHON 2016 Shared Task](http://ryancotterell.github.io/sigmorphon2016/)
+- [CoNLL-SIGMORPHON 2017 Shared Task](https://sites.google.com/view/conll-sigmorphon2017/)
+
+### Annotated Languages
+
+The following 51 languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
+
 <table id="annotated">
   <tr>
     <th></th>
@@ -2417,9 +2409,10 @@ $(this).find(".arrow").toggleClass("up");
   
 </table>
 
-<h3>Coming Attractions!</h3>
-<p>The following languages are in the process of being annotated according to the UniMorph specification.
-</p>
+### Coming Attractions!
+
+The following languages are in the process of being annotated according to the UniMorph specification.
+
 <table id="coming">
   <tr>
     <th></th>
