@@ -4,7 +4,7 @@ name: UniMorph
 description: Universal Morphological Annotation
 
 url: https://unimorph.github.io
-baseurl: ""
+baseurl: https://unimorph.github.io
 
 avatar: https://unimorph.github.io/images/mu.png
 
