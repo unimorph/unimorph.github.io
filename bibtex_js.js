@@ -431,6 +431,9 @@ function BibtexDisplay() {
                 console.log(this.attributes);
               this.attr("href", this.fixValue(value));
             }
+            else {
+                console.log(this);
+            }
         });
       }
     }
