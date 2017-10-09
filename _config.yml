@@ -6,6 +6,7 @@ description: Universal Morphological Annotation
 avatar: images/mu.png
 
 url: https://unimorph.github.io
+baseurl: ""
 
 permalink: /:title/
 
@@ -19,6 +20,10 @@ kramdown:
 
 sass:
   style: :expanded
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile
