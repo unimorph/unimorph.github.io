@@ -214,6 +214,10 @@
     float: left;
 }
 
+.detail-box li {
+    clear: both;
+}
+
 .unstyled {
   list-style-type: none;
 }
