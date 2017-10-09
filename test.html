@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Test
 permalink: /test/
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -22,15 +23,14 @@ permalink: /test/
   </head>
 <body>
   
-<h1> BibTeX Input </h1>
-<bibtex src="{{ site.url }}/publications.bib"></bibtex>
+<bibtex src="{{ site.baseurl }}/publications.bib"></bibtex>
 
 <div id="bibtex_errors"></div>
 
 <textarea id="bibtex_template_input" style="display: none;"">
 <div class="if author" style="font-weight: bold;">
   <span class="if year">
-    <span class="year"></span>, 
+    <span class="year"></span>
   </span>
   <span class="author"></span>
   <span class="if url" style="margin-left: 20px">
@@ -44,7 +44,12 @@ permalink: /test/
 
 <div class="bibtex_template"></div>
 
-<h1> Rendered </h1>
+<div class="bibtex_structure">
+  <div class="group year" extra="ASC number">
+    <div class="templates"></div>
+  </div>
+</div>
+
 
 <div id="bibtex_display">
 </div>
