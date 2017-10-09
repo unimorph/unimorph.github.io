@@ -66,7 +66,7 @@ The following 51 languages have been annotated according to the UniMorph schema.
 
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
-    <td>Albanian</td>
+    <td>{{ site.baseurl }}</td>
     <td>sqi</td>
     <td>33483</td>
     <td>589</td>
