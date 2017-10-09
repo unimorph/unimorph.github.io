@@ -425,8 +425,10 @@ function BibtexDisplay() {
         tpl.find("span:not(a)." + key.toLowerCase()).html(this.displayAuthor(this.fixValue(value)));
       } else {
         tpl.find("span:not(a)." + key.toLowerCase()).html(this.fixValue(value));
-        console.log(key);
+        console.log(key + " " + this.fixValue(value));
+        tpl.find("a." + key.toLowerCase()).attr("href", this.fixValue(value));
         var link = tpl.find("a." + key.toLowerCase()).each(function() {
+            console.log(this);
             if(this.attr("href") == "x") {
                 console.log(this.attributes);
               this.attr("href", this.fixValue(value));
