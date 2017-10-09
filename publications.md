@@ -8,6 +8,13 @@ title: Publications
 
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
 
+The following publications have made use of UniMorph data.
+
+<style>#bibtex {display: block;}</style>
+
+<table id="pubTable" class="display"></table>
+
+<pre id="bibtex" style="display:none;">
 {% raw %}
 @techreport{sylak2016composition,
   title={The Composition and use of the Universal Morphological Feature Schema ({U}nimorph Schema)},
@@ -426,28 +433,11 @@ pages={1-79},
   url       = {http://www.aclweb.org/anthology/K17-2012}
 }
 {% endraw %}
-
-The following publications have made use of UniMorph data.
-
-<!--
-  <div>
-  <link rel="stylesheet" href="css/bib-publication-list.css"/>
-  <style>
-    #bibtex { display: block;}
-  </style>
-  
-  <table id="pubTable" class="display"></table>
-  
-  <pre id="bibtex" style="display:none;">
-
-    
-  </pre>
-  </div>
-  	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<script type="text/javascript" src="build/bib-list.js"></script>
-		<script type="text/javascript">
-		    $(document).ready(function() {
-        	bibtexify("#bibtex", "pubTable", {'tweet': 'vkaravir'});
-    		});
-		</script>
--->
+</pre>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="build/bib-list.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+        bibtexify("#bibtex", "pubTable", {'tweet': 'vkaravir'});
+    });
+</script>
