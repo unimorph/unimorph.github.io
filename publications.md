@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /publications/
+title: Publications
+---
+
 <!-- jQuery -->
 <script src="js/jquery.js"></script>
 
@@ -28,7 +34,6 @@ $(this).find(".arrow").toggleClass("up");
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
 
 <!-- Page Content -->
-  <h1>Publications </h1>
   <p>The following publications have made use of UniMorph data.</p>
   <div>
   <link rel="stylesheet" href="css/bib-publication-list.css"/>
