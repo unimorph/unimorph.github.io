@@ -66,15 +66,15 @@ The following 51 languages have been annotated according to the UniMorph schema.
 
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
-    <td>{{ site.baseurl }}</td>
+    <td>Albanian</td>
     <td>sqi</td>
     <td>33483</td>
     <td>589</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -116,11 +116,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ara</td>
     <td>140003</td>
     <td>4134</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -162,11 +162,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>hye</td>
     <td>338461</td>
     <td>7033</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -209,10 +209,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>11889</td>
     <td>26</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -254,11 +254,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ben</td>
     <td>4443</td>
     <td>136</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -300,11 +300,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>bul</td>
     <td>55730</td>
     <td>2468</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -347,10 +347,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>81576</td>
     <td>1547</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -392,11 +392,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ckb</td>
     <td>22990</td>
     <td>274</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -438,11 +438,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ces</td>
     <td>134527</td>
     <td>5125</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -484,11 +484,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>dan</td>
     <td>25503</td>
     <td>3193</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -531,10 +531,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>55467</td>
     <td>4993</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -577,10 +577,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>115523</td>
     <td>22765</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -622,11 +622,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>est</td>
     <td>38215</td>
     <td>886</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -668,11 +668,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>fao</td>
     <td>45474</td>
     <td>3077</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -714,11 +714,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>fin</td>
     <td>2490377</td>
     <td>57642</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -761,10 +761,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>367732</td>
     <td>7535</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -806,11 +806,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>kat</td>
     <td>74412</td>
     <td>3782</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -852,11 +852,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>deu</td>
     <td>179339</td>
     <td>15060</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -899,10 +899,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>7040</td>
     <td>41</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -944,11 +944,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>heb</td>
     <td>13818</td>
     <td>510</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -991,10 +991,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>54438</td>
     <td>258</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1036,11 +1036,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>hun</td>
     <td>490394</td>
     <td>13989</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1082,11 +1082,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>isl</td>
     <td>76915</td>
     <td>4775</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1128,11 +1128,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>gle</td>
     <td>107298</td>
     <td>7464</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1175,10 +1175,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>509574</td>
     <td>10009</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1221,10 +1221,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>156097</td>
     <td>591</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1266,11 +1266,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>lat</td>
     <td>509182</td>
     <td>17214</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1312,11 +1312,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>lav</td>
     <td>136998</td>
     <td>7548</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1358,11 +1358,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>lit</td>
     <td>34130</td>
     <td>1458</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1404,11 +1404,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>dsb</td>
     <td>20121</td>
     <td>994</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1450,11 +1450,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>mkd</td>
     <td>168057</td>
     <td>10313</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1496,11 +1496,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>nav</td>
     <td>12354</td>
     <td>674</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1542,11 +1542,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>kmr</td>
     <td>216370</td>
     <td>15083</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1588,11 +1588,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>sme</td>
     <td>62677</td>
     <td>2103</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1634,11 +1634,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>nob</td>
     <td>19238</td>
     <td>5527</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1680,11 +1680,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>nno</td>
     <td>15319</td>
     <td>4689</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1727,10 +1727,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>37128</td>
     <td>273</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1772,11 +1772,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>pol</td>
     <td>201024</td>
     <td>10185</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1819,10 +1819,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>303996</td>
     <td>4001</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1864,11 +1864,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>que</td>
     <td>180004</td>
     <td>1006</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1910,11 +1910,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ron</td>
     <td>80266</td>
     <td>4405</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -1956,11 +1956,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>rus</td>
     <td>473481</td>
     <td>28068</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2003,10 +2003,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>781</td>
     <td>73</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2048,11 +2048,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>slk</td>
     <td>14796</td>
     <td>1046</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2094,11 +2094,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>slv</td>
     <td>60110</td>
     <td>2535</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2141,10 +2141,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>382955</td>
     <td>5460</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2186,11 +2186,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>swe</td>
     <td>78411</td>
     <td>10553</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2232,11 +2232,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>tur</td>
     <td>275460</td>
     <td>3579</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2278,11 +2278,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>ukr</td>
     <td>20904</td>
     <td>1493</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2324,11 +2324,11 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>urd</td>
     <td>12572</td>
     <td>182</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2371,10 +2371,10 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td>10641</td>
     <td>183</td>
     <td></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
     <td></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2437,11 +2437,11 @@ The following languages are in the process of being annotated according to the U
     <td>nmn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2483,11 +2483,11 @@ The following languages are in the process of being annotated according to the U
     <td>ady</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2529,11 +2529,11 @@ The following languages are in the process of being annotated according to the U
     <td>afr</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2575,11 +2575,11 @@ The following languages are in the process of being annotated according to the U
     <td>grc</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2621,11 +2621,11 @@ The following languages are in the process of being annotated according to the U
     <td>arg</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2667,11 +2667,11 @@ The following languages are in the process of being annotated according to the U
     <td>arc</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2713,11 +2713,11 @@ The following languages are in the process of being annotated according to the U
     <td>ast</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2759,11 +2759,11 @@ The following languages are in the process of being annotated according to the U
     <td>aze</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2805,11 +2805,11 @@ The following languages are in the process of being annotated according to the U
     <td>bak</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2851,11 +2851,11 @@ The following languages are in the process of being annotated according to the U
     <td>bel</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2897,11 +2897,11 @@ The following languages are in the process of being annotated according to the U
     <td>bre</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2943,11 +2943,11 @@ The following languages are in the process of being annotated according to the U
     <td>bua</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -2989,11 +2989,11 @@ The following languages are in the process of being annotated according to the U
     <td>che</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3035,11 +3035,11 @@ The following languages are in the process of being annotated according to the U
     <td>chu</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3081,11 +3081,11 @@ The following languages are in the process of being annotated according to the U
     <td>xcl</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3127,11 +3127,11 @@ The following languages are in the process of being annotated according to the U
     <td>nci</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3173,11 +3173,11 @@ The following languages are in the process of being annotated according to the U
     <td>syc</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3219,11 +3219,11 @@ The following languages are in the process of being annotated according to the U
     <td>cor</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3265,11 +3265,11 @@ The following languages are in the process of being annotated according to the U
     <td>cos</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3311,11 +3311,11 @@ The following languages are in the process of being annotated according to the U
     <td>crh</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3357,11 +3357,11 @@ The following languages are in the process of being annotated according to the U
     <td>arz</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3403,11 +3403,11 @@ The following languages are in the process of being annotated according to the U
     <td>fur</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3449,11 +3449,11 @@ The following languages are in the process of being annotated according to the U
     <td>gag</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3495,11 +3495,11 @@ The following languages are in the process of being annotated according to the U
     <td>glg</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3541,11 +3541,11 @@ The following languages are in the process of being annotated according to the U
     <td>got</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3587,11 +3587,11 @@ The following languages are in the process of being annotated according to the U
     <td>hau</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3633,11 +3633,11 @@ The following languages are in the process of being annotated according to the U
     <td>hit</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3679,11 +3679,11 @@ The following languages are in the process of being annotated according to the U
     <td>izh</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3725,11 +3725,11 @@ The following languages are in the process of being annotated according to the U
     <td>iku</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3771,11 +3771,11 @@ The following languages are in the process of being annotated according to the U
     <td>ist</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3817,11 +3817,11 @@ The following languages are in the process of being annotated according to the U
     <td>jpn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3863,11 +3863,11 @@ The following languages are in the process of being annotated according to the U
     <td>nrf</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3909,11 +3909,11 @@ The following languages are in the process of being annotated according to the U
     <td>kbd</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -3955,11 +3955,11 @@ The following languages are in the process of being annotated according to the U
     <td>kal</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4001,11 +4001,11 @@ The following languages are in the process of being annotated according to the U
     <td>kan</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4047,11 +4047,11 @@ The following languages are in the process of being annotated according to the U
     <td>krl</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4093,11 +4093,11 @@ The following languages are in the process of being annotated according to the U
     <td>csb</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4139,11 +4139,11 @@ The following languages are in the process of being annotated according to the U
     <td>kaz</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4185,11 +4185,11 @@ The following languages are in the process of being annotated according to the U
     <td>kjh</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4231,11 +4231,11 @@ The following languages are in the process of being annotated according to the U
     <td>kir</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4277,11 +4277,11 @@ The following languages are in the process of being annotated according to the U
     <td>kor</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4323,11 +4323,11 @@ The following languages are in the process of being annotated according to the U
     <td>lld</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4369,11 +4369,11 @@ The following languages are in the process of being annotated according to the U
     <td>lad</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4415,11 +4415,11 @@ The following languages are in the process of being annotated according to the U
     <td>lim</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4461,11 +4461,11 @@ The following languages are in the process of being annotated according to the U
     <td>liv</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4507,11 +4507,11 @@ The following languages are in the process of being annotated according to the U
     <td>nds</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4553,11 +4553,11 @@ The following languages are in the process of being annotated according to the U
     <td>ltz</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4599,11 +4599,11 @@ The following languages are in the process of being annotated according to the U
     <td>rup</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4645,11 +4645,11 @@ The following languages are in the process of being annotated according to the U
     <td>mlg</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4691,11 +4691,11 @@ The following languages are in the process of being annotated according to the U
     <td>msa</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4737,11 +4737,11 @@ The following languages are in the process of being annotated according to the U
     <td>mal</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4783,11 +4783,11 @@ The following languages are in the process of being annotated according to the U
     <td>mlt</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4829,11 +4829,11 @@ The following languages are in the process of being annotated according to the U
     <td>cmn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4875,11 +4875,11 @@ The following languages are in the process of being annotated according to the U
     <td>glv</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4921,11 +4921,11 @@ The following languages are in the process of being annotated according to the U
     <td>arn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -4967,11 +4967,11 @@ The following languages are in the process of being annotated according to the U
     <td>dum</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5013,11 +5013,11 @@ The following languages are in the process of being annotated according to the U
     <td>frm</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5059,11 +5059,11 @@ The following languages are in the process of being annotated according to the U
     <td>gmh</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5105,11 +5105,11 @@ The following languages are in the process of being annotated according to the U
     <td>gml</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5151,11 +5151,11 @@ The following languages are in the process of being annotated according to the U
     <td>mwl</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5197,11 +5197,11 @@ The following languages are in the process of being annotated according to the U
     <td>ell</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5243,11 +5243,11 @@ The following languages are in the process of being annotated according to the U
     <td>nap</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5289,11 +5289,11 @@ The following languages are in the process of being annotated according to the U
     <td>frr</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5335,11 +5335,11 @@ The following languages are in the process of being annotated according to the U
     <td>twf</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5381,11 +5381,11 @@ The following languages are in the process of being annotated according to the U
     <td>oci</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5427,11 +5427,11 @@ The following languages are in the process of being annotated according to the U
     <td>oji</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5473,11 +5473,11 @@ The following languages are in the process of being annotated according to the U
     <td>odt</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5519,11 +5519,11 @@ The following languages are in the process of being annotated according to the U
     <td>ang</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5565,11 +5565,11 @@ The following languages are in the process of being annotated according to the U
     <td>fro</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5611,11 +5611,11 @@ The following languages are in the process of being annotated according to the U
     <td>sga</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5657,11 +5657,11 @@ The following languages are in the process of being annotated according to the U
     <td>non</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5703,11 +5703,11 @@ The following languages are in the process of being annotated according to the U
     <td>pto</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5749,11 +5749,11 @@ The following languages are in the process of being annotated according to the U
     <td>pro</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5795,11 +5795,11 @@ The following languages are in the process of being annotated according to the U
     <td>osx</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5841,11 +5841,11 @@ The following languages are in the process of being annotated according to the U
     <td>pan</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5887,11 +5887,11 @@ The following languages are in the process of being annotated according to the U
     <td>pus</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5933,11 +5933,11 @@ The following languages are in the process of being annotated according to the U
     <td>roh</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -5979,11 +5979,11 @@ The following languages are in the process of being annotated according to the U
     <td>rom</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6025,11 +6025,11 @@ The following languages are in the process of being annotated according to the U
     <td>san</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6071,11 +6071,11 @@ The following languages are in the process of being annotated according to the U
     <td>srd</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6117,11 +6117,11 @@ The following languages are in the process of being annotated according to the U
     <td>stq</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6163,11 +6163,11 @@ The following languages are in the process of being annotated according to the U
     <td>srp</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6209,11 +6209,11 @@ The following languages are in the process of being annotated according to the U
     <td>scn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6255,11 +6255,11 @@ The following languages are in the process of being annotated according to the U
     <td>sms</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6301,11 +6301,11 @@ The following languages are in the process of being annotated according to the U
     <td>swa</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6347,11 +6347,11 @@ The following languages are in the process of being annotated according to the U
     <td>gsw</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6393,11 +6393,11 @@ The following languages are in the process of being annotated according to the U
     <td>tgk</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6439,11 +6439,11 @@ The following languages are in the process of being annotated according to the U
     <td>tat</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6485,11 +6485,11 @@ The following languages are in the process of being annotated according to the U
     <td>tel</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6531,11 +6531,11 @@ The following languages are in the process of being annotated according to the U
     <td>bod</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6577,11 +6577,11 @@ The following languages are in the process of being annotated according to the U
     <td>tsn</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6623,11 +6623,11 @@ The following languages are in the process of being annotated according to the U
     <td>tuk</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6669,11 +6669,11 @@ The following languages are in the process of being annotated according to the U
     <td>uig</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6715,11 +6715,11 @@ The following languages are in the process of being annotated according to the U
     <td>uzb</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6761,11 +6761,11 @@ The following languages are in the process of being annotated according to the U
     <td>vec</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6807,11 +6807,11 @@ The following languages are in the process of being annotated according to the U
     <td>vot</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6853,11 +6853,11 @@ The following languages are in the process of being annotated according to the U
     <td>vro</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6899,11 +6899,11 @@ The following languages are in the process of being annotated according to the U
     <td>wln</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6945,11 +6945,11 @@ The following languages are in the process of being annotated according to the U
     <td>fry</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -6991,11 +6991,11 @@ The following languages are in the process of being annotated according to the U
     <td>wym</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -7037,11 +7037,11 @@ The following languages are in the process of being annotated according to the U
     <td>yid</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -7083,11 +7083,11 @@ The following languages are in the process of being annotated according to the U
     <td>yua</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -7129,11 +7129,11 @@ The following languages are in the process of being annotated according to the U
     <td>zul</td>
     <td>0</td>
     <td>0</td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
-    <td><span class="sourcespan"><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span class="checkspan"><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/check.png"/></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
