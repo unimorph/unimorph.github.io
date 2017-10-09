@@ -8,7 +8,9 @@ title: Publications
 
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
 
+{% raw %}
 {% include publications.bib %}
+{% endraw %}
 
 The following publications have made use of UniMorph data.
 
