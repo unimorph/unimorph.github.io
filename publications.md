@@ -36,6 +36,7 @@ $(this).find(".arrow").toggleClass("up");
 
 The following publications have made use of UniMorph data. (TEST)
 
+<!--
   <div>
   <link rel="stylesheet" href="css/bib-publication-list.css"/>
   <style>
@@ -472,3 +473,4 @@ pages={1-79},
         	bibtexify("#bibtex", "pubTable", {'tweet': 'vkaravir'});
     		});
 		</script>
+-->
