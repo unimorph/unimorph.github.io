@@ -37,6 +37,9 @@ Each inflected word in any given language is represented by its
 lemma (as might appear in a dictionary, for example) and a
 bundle of UniMorph features.
 
+| ![Spanish and Russian Forms]({{ site.baseurl }}/images/spanish-russian-paradigm.svg) |
+| <sup><sub>Figure 1: Partial Spanish and Russian paradigms. Inflected forms are marked with the UniMorph features.</sub></sup> |
+
 <figure id="spanish-russian">
     <center>
         <img src="{{ site.baseurl }}/images/spanish-russian-paradigm.svg"
