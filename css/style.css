@@ -1,3 +1,6 @@
+---
+---
+
 #annotated {
     border-collapse:collapse;
     width: 100%;
@@ -39,7 +42,7 @@
 }
 
 #annotated div.arrow {
-    background:transparent url(images/arrows.png) no-repeat scroll 0px -16px;
+    background:transparent url({{ site.baseurl  }}/images/arrows.png) no-repeat scroll 0px -16px;
     width:16px;
     height:16px;
     display:block;
@@ -94,7 +97,7 @@
 }
 
 #coming div.arrow {
-    background:transparent url(images/arrows.png) no-repeat scroll 0px -16px;
+    background:transparent url({{ site.baseurl }}/images/arrows.png) no-repeat scroll 0px -16px;
     width:16px;
     height:16px;
     display:block;
