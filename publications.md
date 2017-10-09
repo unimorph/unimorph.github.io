@@ -434,7 +434,7 @@ pages={1-79},
 }
 {% endraw %}
 </pre>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/build/bib-list.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
