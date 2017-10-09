@@ -2417,7 +2417,7 @@ The following 51 languages have been annotated according to the UniMorph schema.
 
 The following languages are in the process of being annotated according to the UniMorph specification.
 
-<table id="coming">
+<table class="table table-responsive" id="coming">
   <tr>
     <th></th>
     <th>Language</th>
