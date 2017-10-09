@@ -27,8 +27,6 @@ $(this).find(".arrow").toggleClass("up");
 });
 </script>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-
 <!-- Custom CSS UniMorph CSS -->
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
