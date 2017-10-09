@@ -33,6 +33,8 @@ $(this).find(".arrow").toggleClass("up");
 
 # UniMorph
 
+{{ site.baseurl }}
+
 The Universal Morphology (UniMorph) project is a collaborative effort to improve how NLP handles complex morphology in the world's languages.
 The goal of UniMorph is to annotate morphological data in a universal schema that allows an inflected word from any language to be defined by its lexical meaning, typically carried by the lemma, and by a rendering of its inflectional form in terms of a bundle of morphological features from our schema.
 The specification of the schema is described [here]({{ site.baseurl }}/schema) and in[Sylak-Glassman (2016)]({{ site.baseurl }}/doc/unimorph-schema.pdf).
