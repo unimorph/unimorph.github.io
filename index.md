@@ -37,12 +37,13 @@ The Universal Morphology (UniMorph) project is a collaborative effort to improve
 The goal of UniMorph is to annotate morphological data in a universal schema that allows an inflected word from any language to be defined by its lexical meaning, typically carried by the lemma, and by a rendering of its inflectional form in terms of a bundle of morphological features from our schema.
 The specification of the schema is described [here]({{ site.baseurl }}/schema) and in [Sylak-Glassman (2016)]({{ site.baseurl }}/doc/unimorph-schema.pdf).
 
-### UniMorph Events
+## UniMorph Events
 
-- [SIGMORPHON 2016 Shared Task](http://ryancotterell.github.io/sigmorphon2016/)
-- [CoNLL-SIGMORPHON 2017 Shared Task](https://sites.google.com/view/conll-sigmorphon2017/)
+- [CoNLL–SIGMORPHON 2018 Shared Task](https://sigmorphon.github.io/sharedtasks/2018/)
+- [CoNLL–SIGMORPHON 2017 Shared Task](https://sigmorphon.github.io/sharedtasks/2017/)
+- [SIGMORPHON 2016 Shared Task](https://sigmorphon.github.io/sharedtasks/2016/)
 
-### Annotated Languages
+## Annotated Languages
 
 The following 51 languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
 
@@ -78,33 +79,38 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/sqi">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/sqi/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Albanian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li>
+              <span class="detail1">
+                <b>Download Data:</b>
+              </span>
+              <a href="https://github.com/unimorph/sqi">repo</a>
+            </li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/sqi/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Albanian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -124,33 +130,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ara">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ara/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>yes</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Arabic_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ara">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ara/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> yes</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Arabic_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -170,33 +176,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/hye">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/hye/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Armenian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/hye">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/hye/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Armenian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -216,33 +222,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/eus">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/eus/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Basque_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/eus">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/eus/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Basque_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -262,33 +268,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ben">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ben/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Bengali_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ben">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ben/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Bengali_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -308,33 +314,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/bul">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/bul/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Bulgarian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/bul">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/bul/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Bulgarian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -354,33 +360,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/cat">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/cat/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Catalan_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/cat">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/cat/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Catalan_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -400,33 +406,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ckb">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ckb/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Central Kurdish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ckb">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ckb/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Central Kurdish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -446,33 +452,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ces">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ces/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Czech_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ces">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ces/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Czech_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -492,33 +498,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/dan">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/dan/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Danish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/dan">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/dan/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Danish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -538,33 +544,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nld">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nld/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Dutch_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/nld">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/nld/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Dutch_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -584,33 +590,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/eng">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/eng/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/English_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/eng">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/eng/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/English_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -630,33 +636,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/est">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/est/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Estonian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/est">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/est/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Estonian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -676,33 +682,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/fao">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/fao/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Faroese_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/fao">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/fao/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Faroese_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -722,33 +728,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/fin">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/fin/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Finnish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/fin">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/fin/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Finnish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -768,33 +774,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/fra">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/fra/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/French_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/fra">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/fra/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/French_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -814,33 +820,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/kat">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/kat/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Georgian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/kat">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/kat/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Georgian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -860,33 +866,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/deu">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/deu/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/German_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/deu">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/deu/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/German_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -906,33 +912,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/hai">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/hai/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Haida_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/hai">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/hai/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Haida_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -952,33 +958,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/heb">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/heb/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>yes</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Hebrew_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/heb">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/heb/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> yes</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Hebrew_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -998,33 +1004,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/hin">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/hin/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Hindi_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/hin">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/hin/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Hindi_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1044,33 +1050,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/hun">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/hun/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Hungarian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/hun">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/hun/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Hungarian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1090,33 +1096,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/isl">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/isl/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Icelandic_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/isl">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/isl/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Icelandic_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1136,33 +1142,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/gle">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/gle/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Irish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/gle">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/gle/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Irish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1182,33 +1188,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ita">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ita/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Italian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ita">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ita/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Italian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1228,33 +1234,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/klr">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/klr/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Khaling_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/klr">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/klr/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Khaling_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1274,33 +1280,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/lat">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/lat/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Latin_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Ancient_language">ancient</a></li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/lat">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/lat/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Latin_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> <a href="https://en.wikipedia.org/wiki/Ancient_language">ancient</a></li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1320,33 +1326,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/lav">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/lav/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Latvian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/lav">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/lav/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Latvian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1366,33 +1372,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/lit">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/lit/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Lithuanian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/lit">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/lit/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Lithuanian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1412,33 +1418,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/dsb">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/dsb/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Lower Sorbian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/dsb">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/dsb/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Lower Sorbian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1458,33 +1464,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/mkd">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/mkd/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Macedonian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/mkd">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/mkd/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Macedonian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1504,33 +1510,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nav">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nav/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Navajo_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/nav">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/nav/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Navajo_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1550,33 +1556,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/kmr">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/kmr/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Northern Kurdish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/kmr">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/kmr/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Northern Kurdish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1596,33 +1602,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/sme">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/sme/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Northern Sami_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/sme">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/sme/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Northern Sami_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1642,33 +1648,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nob">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nob/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Norwegian Bokmål_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/nob">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/nob/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Norwegian Bokmål_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1688,33 +1694,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nno">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nno/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Norwegian Nynorsk_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/nno">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/nno/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Norwegian Nynorsk_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1734,33 +1740,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/fas">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/fas/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Persian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/fas">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/fas/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Persian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1780,33 +1786,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/pol">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/pol/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Polish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/pol">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/pol/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Polish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1826,33 +1832,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/por">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/por/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Portuguese_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/por">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/por/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Portuguese_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1872,33 +1878,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/que">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/que/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Quechua_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/que">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/que/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Quechua_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1918,33 +1924,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ron">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ron/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Romanian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ron">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ron/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Romanian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -1964,33 +1970,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/rus">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/rus/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Russian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/rus">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/rus/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Russian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2010,33 +2016,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/gla">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/gla/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Scottish Gaelic_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/gla">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/gla/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Scottish Gaelic_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2056,33 +2062,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/slk">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/slk/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Slovak_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/slk">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/slk/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Slovak_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2102,33 +2108,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/slv">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/slv/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Slovenian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/slv">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/slv/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Slovenian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2148,33 +2154,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/spa">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/spa/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Spanish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/spa">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/spa/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Spanish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2194,33 +2200,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/swe">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/swe/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Swedish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/swe">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/swe/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Swedish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2240,33 +2246,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/tur">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/tur/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Turkish_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/tur">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/tur/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Turkish_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2286,33 +2292,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ukr">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ukr/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Ukrainian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ukr">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ukr/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Ukrainian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2332,33 +2338,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/urd">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/urd/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Urdu_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/urd">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/urd/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Urdu_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
 
 
@@ -2378,33 +2384,33 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <td colspan="11">
       <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/cym">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/cym/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span><a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Welsh_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/cym">repo</a></li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/cym/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Welsh_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
       </div>
     </td>
-</tr>
+  </tr>
 
   
 </table>

@@ -55,7 +55,7 @@ Note that this yields a mapping, which associates the entire inflected word with
 The Russian word *сказал* has a very similar representation as the lemma *сказать* plus the bundle [`FIN;IND;PFV;PST;2;SG;INFM;MASC`], differing from *hablaste* only in the fact that it additionally marks the gender feature.
 We remark that the Russian past tense is a case of [syncretism](https://en.wikipedia.org/wiki/Syncretism_linguistics): one form has many possible bundles—a context is required to disambiguate. See [Figure 1](#spanish-russian) for a comparison between Spanish and Russian.
 Note that for both languages, the representation differs only by what distinctions in meaning the language marks.
-Because the meaning of features does not differ across languages, the featural representation of words from different languages is directly comparable.
+Because the meaning of features does not differ across languages, the feature representation of words from different languages is directly comparable.
 This is an essential feature of the UniMorph that allows inflectional material to be faithfully translated and enhances
 comparability across languages.
 
@@ -65,4 +65,4 @@ Discussion on this topic may be found on the [Universal Dependencies website](ht
 
 ### Dimensions of meaning and their features
 
-Coming soon! Until then, refer to [Sylak-Glassman, 2016]({{ site.baseurl }}/doc/unimorph-schema.pdf). The document's appendices also provide a complete list of the UniMorph features and their categories.
+Coming soon! Until then, refer to [Sylak-Glassman (2016)]({{ site.baseurl }}/doc/unimorph-schema.pdf). The document's appendices also provide a complete list of the UniMorph features and their categories.
