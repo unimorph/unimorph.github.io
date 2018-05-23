@@ -7,7 +7,7 @@ title: Software
 The following software artifacts have been released for use on data annotated according to the UniMorph schema. Please let us know if you would like your software listed on this part of the website.
 
 - [Aharoni and Goldberg (2017)](https://github.com/roeeaharoni/morphological-reinflection)
-- [CoNLL-SIGMORPHON 2017 baseline system](https://github.com/sigmorphon/conll2017/tree/master/baseline)
+- [CoNLL–SIGMORPHON 2017 baseline system](https://github.com/sigmorphon/conll2017/tree/master/baseline)
 
 ### Pre-trained Tools
 
