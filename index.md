@@ -51,7 +51,7 @@ The following 51 languages have been annotated according to the UniMorph schema.
   <tr>
     <th></th>
     <th>Language</th>
-    <th>ISO-639-3</th>
+    <th>ISO 639-3</th>
     <th>Forms</th>
     <th>Paradigms</th>
     <th>Nouns</th>
@@ -2423,7 +2423,7 @@ The following languages are in the process of being annotated according to the U
   <tr>
     <th></th>
     <th>Language</th>
-    <th>ISO-639-3</th>
+    <th>ISO 639-3</th>
     <th>Forms</th>
     <th>Paradigms</th>
     <th>Nouns</th>
