@@ -359,7 +359,7 @@ function BibtexDisplay() {
       // Process author names
       if (arrayString[i].indexOf(',') > -1) { // It's in the string
         parts = arrayString[i].split(",")
-        author = (parts[1] + " " + parts[0]).strip()
+        author = (parts[1] + " " + parts[0])
       }
       else {
         author = arrayString[i]
