@@ -355,6 +355,13 @@ function BibtexDisplay() {
     string = string.replace(/[ ]+/g, " ");
     var arrayString = string.split(new RegExp("[\\s]+and[\\s]+"));
     var newString = arrayString[0];
+
+    // Correct the first string, if needed.
+    if (newString.indexOf(',') > -1) { // It's in the string
+      parts = newString.split(",")
+      newString = parts[1] + " " + parts[0]
+    }
+
     for (i = 1; i < arrayString.length; i++) {
       // Process author names
       if (arrayString[i].indexOf(',') > -1) { // It's in the string
