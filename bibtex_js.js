@@ -357,8 +357,12 @@ function BibtexDisplay() {
     var newString = arrayString[0];
     for (i = 1; i < arrayString.length; i++) {
       if(i+1>=arrayString.length) {
-        newString += "; and " + arrayString[i];
+        parts = arrayString[i].split(",")
+        author = parts[1] + " " + parts[0]
+        newString += "; and " + author;
       } else {
+        parts = arrayString[i].split(",")
+        author = parts[1] + " " + parts[0]
         newString += "; " + arrayString[i];
       }
     }
