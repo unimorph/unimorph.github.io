@@ -356,14 +356,20 @@ function BibtexDisplay() {
     var arrayString = string.split(new RegExp("[\\s]+and[\\s]+"));
     var newString = arrayString[0];
     for (i = 1; i < arrayString.length; i++) {
-      if(i+1>=arrayString.length) {
+      // Process author names
+      if (arrayString[i].indexOf(',') > -1) { // It's in the string
         parts = arrayString[i].split(",")
-        author = parts[1] + " " + parts[0]
+        author = (parts[1] + " " + parts[0]).strip()
+      }
+      else {
+        author = arrayString[i]
+      }
+
+      // Create output string
+      if(i+1>=arrayString.length) {
         newString += "; and " + author;
       } else {
-        parts = arrayString[i].split(",")
-        author = parts[1] + " " + parts[0]
-        newString += "; " + arrayString[i];
+        newString += "; " + author;
       }
     }
     return newString;
