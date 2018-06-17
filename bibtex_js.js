@@ -374,9 +374,12 @@ function BibtexDisplay() {
 
       // Create output string
       if(i+1>=arrayString.length) {
-        newString += "; and " + author;
+        if (arrayString.length == 2)
+          newString += " and " + author;
+        else
+          newString += ", and " + author;
       } else {
-        newString += "; " + author;
+        newString += ", " + author;
       }
     }
     return newString;
