@@ -47,6 +47,8 @@ The specification of the schema is described [here]({{ site.baseurl }}/schema) a
 
 The following 51 languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
 
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll">
+
 <table class="table table-responsive" id="annotated">
   <tr>
     <th></th>
@@ -2415,9 +2417,13 @@ The following 51 languages have been annotated according to the UniMorph schema.
   
 </table>
 
+</div>
+
 ### Coming Attractions!
 
 The following languages are in the process of being annotated according to the UniMorph specification.
+
+<div class="table-wrapper" markdown="block" style="overflow-x: scroll">
 
 <table class="table table-responsive" id="coming">
   <tr>
@@ -7173,6 +7179,8 @@ The following languages are in the process of being annotated according to the U
 
   
 </table>
+
+</div>
 
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
