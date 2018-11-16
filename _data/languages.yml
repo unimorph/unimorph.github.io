@@ -1,0 +1,11 @@
+- name: Albanian
+  iso: sqi
+  flag: "AL.svg"
+  forms: 33483
+  paradigms: 589
+  nouns: yes
+  verbs: yes
+  adjectives: no
+
+- name: Zulu
+  iso: zul
