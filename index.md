@@ -47,6 +47,8 @@ The specification of the schema is described [here]({{ site.baseurl }}/schema) a
 
 The following 51 languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
 
+{% assign sorted_langs = site.data.languages | sort:"name" %}
+
 <div class="table-wrapper" markdown="block" style="overflow-x: scroll">
 
 <table class="table table-responsive" id="annotated">
@@ -63,8 +65,8 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <th>License</th>
     <th></th>
   </tr>
-  
-{% for language in site.data.languages %}
+ 
+{% for language in sorted_langs %}
 <tr>
     <td>{% if language.flag %}<span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
     <td>{{ language.name }}</td>
