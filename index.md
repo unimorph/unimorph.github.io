@@ -144,51 +144,6 @@ The following languages are in the process of being annotated according to the U
       <th></th>
     </tr>
 
-
-    <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/BO.svg"/></span></td>
-    <td>!Xóõ</td>
-    <td>nmn</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nmn">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nmn/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span>no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/!Xóõ_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span>living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
   {% for language in sorted_coming %}
   <tr>
     <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>    {% endif %}</td>
@@ -231,51 +186,6 @@ The following languages are in the process of being annotated according to the U
   </tr>
 
   {% endfor %}
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/SA.svg"/></span></td>
-    <td>Afrikaans</td>
-    <td>afr</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/afr">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/afr/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span>{{ language.typology }}</li>
-            <li><span class="detail2"><b>Templatic:</b></span>no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span>{{ language.type }}</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
 
 
   <tr>

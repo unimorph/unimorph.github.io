@@ -1,6 +1,14 @@
+- name: \!Xóõ
+  iso: nmn
+  flag: BO.svg
+  typology: fusional
+  templatic: no
+  type: living
+
 - name: Afrikaans
   iso: afr
   flag: SA.svg
   typology: fusional
   templatic: no
   type: living
+
