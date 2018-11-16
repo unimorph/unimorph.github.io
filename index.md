@@ -119,52 +119,6 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
 
   <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/ES-PV.svg"/></span></td>
-    <td>Basque</td>
-    <td>eus</td>
-    <td>11889</td>
-    <td>26</td>
-    <td></td>
-    <td>&#x2714;</td>
-    <td></td>
-    <td></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/eus">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/eus/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span> no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Basque_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-
-
-  <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/BD.svg"/></span></td>
     <td>Bengali</td>
     <td>ben</td>

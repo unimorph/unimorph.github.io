@@ -59,12 +59,33 @@
 
 - name: Basque
   iso: eus
+  flag: ES-PV.svg
+  forms: 11889
+  paradigms: 26
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Basque_language
 
 - name: Belarusian
   iso: bel
 
 - name: Bengali
   iso: ben
+  flag: BD.svg
+  forms: 4443
+  paradigms: 136
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Bengali_language
 
 - name: Breton
   iso: bre
