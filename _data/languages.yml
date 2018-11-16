@@ -609,4 +609,163 @@
   templatic: no
   type: living
 
+- name: German
+  iso: deu
+  flag: DE.svg
+  forms: 179339
+  paradigms: 15060
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Haida
+  iso: hai
+  flag: HA.svg
+  forms: 7040
+  paradigms: 41
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Hebrew
+  iso: heb
+  flag: IL.svg
+  forms: 13818
+  paradigms: 510
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: yes
+  type: living
+
+- name: Hindi
+  iso: hin
+  flag: IN.svg
+  forms: 54438
+  paradigms: 258
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Hungarian
+  iso: hun
+  flag: HU.svg
+  forms: 490394
+  paradigms: 13989
+  nouns: yes
+  verbs: yes
+  splits:
+    sixteen: yes
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Icelandic
+  iso: isl
+  flag: IC.svg
+  forms: 76915
+  paradigms: 4775
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Irish
+  iso: gle
+  flag: ID.svg
+  forms: 107298
+  paradigms: 7464
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Irish
+  iso: ita
+  flag: IT.svg
+  forms: 509574
+  paradigms: 10009
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Khaling
+  iso: klr
+  flag: NP.svg
+  forms: 156097
+  paradigms: 591
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Latin
+  iso: lat
+  flag: VA.svg
+  forms: 509182
+  paradigms: 17214
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: ancient
+
+- name: Latvian
+  iso: lav
+  flag: LA.svg
+  forms: 136998
+  paradigms: 7548
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Lithuanian
+  iso: lit
+  flag: BG.svg
+  forms: 34130
+  paradigms: 1458
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+
+
 
