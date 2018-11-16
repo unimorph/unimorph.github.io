@@ -11,6 +11,21 @@
     seventeen: yes
   wiki: https://en.wikipedia.org/wiki/Albanian_language
 
+- name: Arabic
+  iso: ara
+  flag: "SA-AL.svg"
+  forms: 140003
+  paradigms: 4134
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    sixteen: yes
+    seventeen: yes
+  typology: fusional
+  templatic: yes
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Arabic_language
 
 - name: Zulu
   iso: zul
