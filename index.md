@@ -79,6 +79,39 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <td><div class="arrow"></div></td>
 </tr>
 <tr>
+    <td colspan="11">
+      <div class="detail-box">
+        <div class="mylist">
+          <ul class="unstyled">
+            <li>
+              <span class="detail1">
+                <b>Download Data:</b>
+              </span>
+              <a href="https://github.com/unimorph/{{ language.iso }}">repo</a>
+            </li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/{{ language.iso }}/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Albanian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
+      </div>
+    </td>
 </tr>
 {% endfor %}
 
@@ -112,7 +145,7 @@ The following 51 languages have been annotated according to the UniMorph schema.
         <div class="mylist">
           <ul class="unstyled">
             <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.2017 %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>  
           </ul>
         </div>
         <div class="mylist">
