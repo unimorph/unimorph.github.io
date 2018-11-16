@@ -242,21 +242,51 @@
 
 - name: Telugu
   iso: tel
+  flag: IN.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Telugu_language
 
 - name: Tibetan
   iso: bod
+  flag: TB.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Tibetan_language
 
 - name: Turkmen
   iso: tuk
+  flag: TM.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Turkmen_language
 
 - name: Uzbek
   iso: uzb
+  flag: UZ.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Uzbek_language
 
 - name: Venetian
   iso: vec
+  flag: VE.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Venetian_language
 
 - name: Votic
   iso: vot
+  flag: VO.svg
+  typology: agglutinative
+  templatic: yes
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Votic_language
 
 - name: West Frisian
   iso: fry
