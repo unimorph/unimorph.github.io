@@ -55,12 +55,27 @@
 
 - name: Asturian
   iso: ast
+  flag: AS.svg
+  typology: fusional
+  type: living
+  templatic: no
+  wiki: https://en.wikipedia.org/wiki/Asturian_language
 
-- name: Azeri
+- name: Azerbaijani
   iso: aze
+  flag: AZ.svg
+  typology: agglutinative
+  type: living
+  templatic: no
+  wiki: https://en.wikipedia.org/wiki/Azerbaijani_language
 
 - name: Bashkir
   iso: bak
+  flag: BA.svg
+  typology: fusional
+  type: living
+  templatic: no
+  wiki: https://en.wikipedia.org/wiki/Bashkir_language
 
 - name: Basque
   iso: eus
@@ -77,6 +92,11 @@
 
 - name: Belarusian
   iso: bel
+  flag: BE.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Belarusian_language
 
 - name: Bengali
   iso: ben
@@ -94,6 +114,11 @@
 
 - name: Breton
   iso: bre
+  flag: BR.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Breton_language
 
 - name: Bulgarian
   iso: bul
@@ -106,12 +131,27 @@
 
 - name: Classical Syriac
   iso: syc
+  flag: SY.svg
+  typology: fusional
+  type: historical
+  templatic: yes
+  wiki: https://en.wikipedia.org/wiki/Classical_Syriac_language
 
 - name: Cornish
   iso: cor
+  flag: CW.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Cornish_language
 
 - name: Crimean Tatar
   iso: crh
+  flag: TA.svg
+  typology: fusional
+  type: living
+  templatic: no
+  wiki: https://en.wikipedia.org/wiki/Crimean_Tatar_language
 
 - name: Czech
   iso: ces
@@ -133,12 +173,27 @@
 
 - name: Friulian
   iso: fur
+  flag: FL.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Friulian_language
 
 - name: Galician
   iso: gal
+  flag: GC.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Galician_language
 
 - name: Gothic
   iso: got
+  flag: GO.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Gothic_language
 
 - name: Modern Greek
   iso: ell
@@ -148,12 +203,27 @@
 
 - name: Ingrian
   iso: izh
+  flag: IG.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Ingrian_language
 
 - name: Kabardian
   iso: kbd
+  flag: KA.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Kabardian_language
 
 - name: Kannada
   iso: kan
+  flag: IN.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Kannada_language
 
 - name: Karelian
   iso: krl
@@ -209,11 +279,22 @@
 - name: Occitan
   iso: oci
 
-- name: Old Armenian
+- name: Classical Armenian
   iso: xcl
+  flag: AM.svg
+  typology: fusional
+  templatic: no
+  type: historical
+  wiki: https://en.wikipedia.org/wiki/Classical Armenian_language
+
 
 - name: Old Church Slavonic
   iso: chu
+  flag: MORAVA.svg
+  typology: fusional
+  type: ancient
+  templatic: no
+  wiki: https://en.wikipedia.org/wiki/Old_Church_Slavonic
 
 - name: Old English
   iso: ang
