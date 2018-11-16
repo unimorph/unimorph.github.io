@@ -66,19 +66,52 @@ The following 51 languages have been annotated according to the UniMorph schema.
   
   {% for language in site.data.languages %}
   <tr>
-    <td>{% if language.flag %}<span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
-    <td>{{ language.name }}</td>
-    <td>{{ language.iso }}</td>
-    <td>{{ language.forms }}</td>
-    <td>{{ language.paradigms }}</td>
-    <td>{% if language.nouns %}&#x2714;{% endif %}</td>
-    <td>{% if language.verbs %}&#x2714;{% endif %}</td>
-    <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
+    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
+    <td>Albanian</td>
+    <td>sqi</td>
+    <td>33483</td>
+    <td>589</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td></td>
     <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
     <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
+    <td colspan="11">
+      <div class="detail-box">
+        <div class="mylist">
+          <ul class="unstyled">
+            <li>
+              <span class="detail1">
+                <b>Download Data:</b>
+              </span>
+              <a href="https://github.com/unimorph/sqi">repo</a>
+            </li>
+            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/sqi/issues">issues</a></li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+            <li><span class="detail2"><b>Templatic:</b></span> no</li>
+          </ul>
+        </div>
+        <div class="mylist">
+          <ul class="unstyled">
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Albanian_language">wikipedia</a></li>
+            <li><span class="detail3"><b>Type:</b></span> living</li>  
+          </ul>
+        </div>
+      </div>
+    </td>
   </tr>
   {% endfor %}
 	
