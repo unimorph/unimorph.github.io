@@ -34,11 +34,26 @@
 - name: Armenian
   iso: hye
 
+- name: Asturian
+  iso: ast
+
+- name: Azeri
+  iso: aze
+
+- name: Bashkir
+  iso: bak
+
 - name: Basque
   iso: eus
 
+- name: Belarusian
+  iso: bel
+
 - name: Bengali
   iso: ben
+
+- name: Breton
+  iso: bre
 
 - name: Bulgarian
   iso: bul
@@ -48,6 +63,15 @@
 
 - name: Central Kurdish
   iso: ckb
+
+- name: Classical Syriac
+  iso: syc
+
+- name: Cornish
+  iso: cor
+
+- name: Crimean Tatar
+  iso: crh
 
 - name: Czech
   iso: ces
@@ -67,7 +91,153 @@
 - name: Finnish
   iso: fin
 
+- name: Friulian
+  iso: fur
 
+- name: Galician
+  iso: gal
+
+- name: Gothic
+  iso: got
+
+- name: Greek
+  iso: ell
+
+- name: Greenlandic
+  iso: kal
+
+- name: Ingrian
+  iso: izh
+
+- name: Kabardian
+  iso: kbd
+
+- name: Kannada
+  iso: kan
+
+- name: Karelian
+  iso: krl
+
+- name: Kashubian
+  iso: csb
+
+- name: Kazakh
+  iso: kaz
+
+- name: Khakas
+  iso: kjh
+
+- name: Ladin
+  iso: lld
+
+- name: Livonian
+  iso: liv
+
+- name: Low German
+  iso: nds
+
+- name: Maltese
+  iso: mlt
+
+- name: Manx
+  iso: glv
+
+- name: Mapudungun
+  iso: arn
+
+- name: Middle French
+  iso: frm
+
+- name: Middle High German
+  iso: gmh
+
+- name: Middle Low German
+  iso: gml
+
+- name: Murrinhpatha
+  iso: mwf
+
+- name: Neapolitan
+  iso: nap
+
+- name: Norman
+  iso: xno
+
+- name: North Frisian
+  iso: frr
+
+- name: Occitan
+  iso: oci
+
+- name: Old Armenian
+  iso: xcl
+
+- name: Old Church Slavonic
+  iso: chu
+
+- name: Old English
+  iso: ang
+
+- name: Old French
+  iso: fro
+
+- name: Old Irish
+  iso: sga
+
+- name: Old Saxon
+  iso: osx
+
+- name: Pashto
+  iso: pus
+
+- name: Sanskrit
+  iso: san
+
+- name: Serbo Croatian
+  iso: hbs
+
+- name: Swahili
+  iso: swc
+
+- name: Tajik
+  iso: tgk
+
+- name: Tatar
+  iso: tat
+
+- name: Telugu
+  iso: tel
+
+- name: Tibetan
+  iso: bod
+
+- name: Turkmen
+  iso: tuk
+
+- name: Uzbek
+  iso: uzb
+
+- name: Venetian
+  iso: vec
+
+- name: Votic
+  iso: vot
+
+- name: West Frisian
+  iso: fry
+  flag: WF.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Western Frisian_language
+
+- name: Yiddish
+  iso: yid
+  flag: "IL.svg"
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Yiddish_language
 
 - name: Zulu
   iso: zul
