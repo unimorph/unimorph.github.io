@@ -63,7 +63,8 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <th>License</th>
     <th></th>
   </tr>
-  	
+  
+
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
     <td>Albanian</td>
@@ -2413,50 +2414,7 @@ The following 51 languages have been annotated according to the UniMorph schema.
     </td>
   </tr>
 
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/SA.svg"/></span></td>
-    <td>Zulu</td>
-    <td>zul</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/zul">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/zul/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Zulu_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
+  
 </table>
 
 </div>
@@ -7082,6 +7040,142 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
+
+  <tr>
+    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IL.svg"/></span></td>
+    <td>Yiddish</td>
+    <td>yid</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><div class="arrow"></div></td>
+  </tr>
+  <tr>
+    <td colspan="11">
+      <div class="detail-box">
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/yid">repo</a></li>
+      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/yid/issues">issues</a></li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
+      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
+      <li><span class="detail2"><b>Templatic:</b></span>no</li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Yiddish_language">wikipedia</a></li>
+      <li><span class="detail3"><b>Type:</b></span>living</li>  
+      </ul>
+      </div>
+      </div>
+    </td>
+</tr>
+
+
+
+  <tr>
+    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/MN.svg"/></span></td>
+    <td>Yucatec Maya</td>
+    <td>yua</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><div class="arrow"></div></td>
+  </tr>
+  <tr>
+    <td colspan="11">
+      <div class="detail-box">
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/yua">repo</a></li>
+      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/yua/issues">issues</a></li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
+      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+      <li><span class="detail2"><b>Templatic:</b></span>no</li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Yucatec Maya_language">wikipedia</a></li>
+      <li><span class="detail3"><b>Type:</b></span>living</li>  
+      </ul>
+      </div>
+      </div>
+    </td>
+</tr>
+
+
+
+  <tr>
+    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/SA.svg"/></span></td>
+    <td>Zulu</td>
+    <td>zul</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td>&#x2714;</td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><div class="arrow"></div></td>
+  </tr>
+  <tr>
+    <td colspan="11">
+      <div class="detail-box">
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/zul">repo</a></li>
+      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/zul/issues">issues</a></li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
+      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
+      <li><span class="detail2"><b>Templatic:</b></span>no</li>
+      </ul>
+      </div>
+      <div class="mylist">
+      <ul class="unstyled">
+      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Zulu_language">wikipedia</a></li>
+      <li><span class="detail3"><b>Type:</b></span>living</li>  
+      </ul>
+      </div>
+      </div>
+    </td>
+</tr>
 
   
 </table>
