@@ -12,8 +12,8 @@
   splits:
     sixteen: no
     seventeen: yes
-  wiki: https://en.wikipedia.org/wiki/Albanian_language
   type: living
+  wiki: https://en.wikipedia.org/wiki/Albanian_language
 
 - name: Arabic
   iso: ara
@@ -71,3 +71,8 @@
 
 - name: Zulu
   iso: zul
+  flag: "SA.svg"
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Zulu_language
