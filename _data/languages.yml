@@ -111,6 +111,17 @@
 
 - name: Bulgarian
   iso: bul
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Catalan
   iso: cat
@@ -161,21 +172,101 @@
 
 - name: Czech
   iso: ces
+  flag: CZ.svg
+  forms: 134527
+  paradigms: 5125
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Danish
+  iso: dan
+  flag: DK.svg
+  forms: 25503
+  paradigms: 3193
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
 
 - name: Dutch
   iso: nld
+  flag: NL.svg
+  forms: 55467
+  paradigms: 4993
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: English
   iso: eng
+  flag: EN.svg
+  forms: 115523
+  paradigms: 22765
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Estonian
   iso: est
+  flag: EE.svg
+  forms: 38215
+  paradigms: 886
+  nouns: yes
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
 
 - name: Faroese
   iso: fao
+  flag: FO.svg
+  forms: 45474
+  paradigms: 3077
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
 
 - name: Finnish
   iso: fin
+  flag: FI.svg
+  forms: 2490377
+  paradigms: 57642
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    sixteen: yes
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
 
 - name: Friulian
   iso: fur
@@ -490,3 +581,32 @@
   typology: agglutinative
   templatic: no
   type: living
+
+- name: French
+  iso: fra
+  flag: FR.svg
+  forms: 367732
+  paradigms: 7535
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Georgian
+  iso: kat
+  flag: BG.svg
+  forms: 74412
+  paradigms: 3782
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    sixteen: yes
+    seventeen: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
+
