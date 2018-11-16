@@ -64,6 +64,14 @@ The following 51 languages have been annotated according to the UniMorph schema.
     <th></th>
   </tr>
   
+{% for language in site.data.languages %}
+<tr>
+  <td></td>
+  <td>{{ language.name }}</td>
+</tr>
+<tr>
+</tr>
+{% endfor %}
 
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
