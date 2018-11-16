@@ -96,20 +96,20 @@ The following 51 languages have been annotated according to the UniMorph schema.
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> {% if language.splits.sixteen  %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>
             <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.seventeen  %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>  
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> {% if language.typology %}<a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a>{% endif %}</li>
-            <li><span class="detail2"><b>Templatic:</b></span> {% if language.templatic %}no{% endif %}</li>
+            <li><span class="detail2"><b>Typology:</b></span> language.typology</li>
+            <li><span class="detail2"><b>Templatic:</b></span> language.templatic</li>
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
             <li><span class="detail3"><b>Info:</b></span>  {% if language.wiki %}<a href="{{ language.wiki }}">wikipedia</a>{% endif %}</li>
-            <li><span class="detail3"><b>Type:</b></span> {% if language.type %}living{% endif %}</li>  
+            <li><span class="detail3"><b>Type:</b></span> language.type</li>  
           </ul>
         </div>
       </div>
