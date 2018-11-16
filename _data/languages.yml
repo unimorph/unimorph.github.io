@@ -45,6 +45,27 @@
 - name: Catalan
   iso: cat
 
+- name: Central Kurdish
+  iso: ckb
+
+- name: Czech
+  iso: ces
+
+- name: Dutch
+  iso: nld
+
+- name: English
+  iso: eng
+
+- name: Estonian
+  iso: est
+
+- name: Faroese
+  iso: fao
+
+- name: Finnish
+  iso: fin
+
 
 
 - name: Zulu
