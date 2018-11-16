@@ -102,14 +102,14 @@ The following {{ site.data.languages | size }} languages have been annotated acc
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> language.typology</li>
-            <li><span class="detail2"><b>Templatic:</b></span> language.templatic</li>
+            <li><span class="detail2"><b>Typology:</b></span> {{ language.typology }}</li>
+            <li><span class="detail2"><b>Templatic:</b></span> {{ language.templatic }}</li>
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
             <li><span class="detail3"><b>Info:</b></span>  {% if language.wiki %}<a href="{{ language.wiki }}">wikipedia</a>{% endif %}</li>
-            <li><span class="detail3"><b>Type:</b></span> language.type</li>  
+            <li><span class="detail3"><b>Type:</b></span> {{ language.type }}</li>  
           </ul>
         </div>
       </div>
