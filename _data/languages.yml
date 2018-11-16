@@ -374,6 +374,8 @@
   iso: mlt
   flag: MT.svg
   typology: fusional
+  splits:
+    sixteen: yes
   templatic: no
   type: living
 
@@ -617,6 +619,7 @@
   nouns: yes
   verbs: yes
   splits:
+    sixteen: yes
     seventeen: yes
   typology: fusional
   templatic: no
@@ -754,7 +757,7 @@
 
 - name: Lithuanian
   iso: lit
-  flag: BG.svg
+  flag: LT.svg
   forms: 34130
   paradigms: 1458
   nouns: yes
@@ -768,9 +771,9 @@
 
 - name: Lower Sorbian
   iso: dsb
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: SB.svg
+  forms: 20121
+  paradigms: 994
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -782,9 +785,9 @@
 
 - name: Macedonian
   iso: mkd
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: MK.svg
+  forms: 168057
+  paradigms: 10313
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -796,23 +799,23 @@
 
 - name: Navajo
   iso: nav
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: NV.svg
+  forms: 12354
+  paradigms: 674
   nouns: yes
   verbs: yes
-  adjectives: yes
   splits:
+    sixteen: yes
     seventeen: yes
-  typology: fusional
+  typology: agglutinative
   templatic: no
   type: living
 
 - name: Northern Kurdish
   iso: kmr
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: IQ-KRD.svg
+  forms: 216370
+  paradigms: 15083
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -824,9 +827,9 @@
 
 - name: Northern Sami
   iso: sme
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: SAMI.svg
+  forms: 62677
+  paradigms: 2103
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -838,9 +841,9 @@
 
 - name: Norwegian Bokmål
   iso: nob
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: NO.svg
+  forms: 19238
+  paradigms: 5527
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -852,9 +855,9 @@
 
 - name: Norwegian Nynorsk
   iso: nno
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: NO.svg
+  forms: 15319
+  paradigms: 4689
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -866,12 +869,10 @@
 
 - name: Persian
   iso: fas
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
-  nouns: yes
+  flag: IR.svg
+  forms: 37128
+  paradigms: 273
   verbs: yes
-  adjectives: yes
   splits:
     seventeen: yes
   typology: fusional
@@ -880,9 +881,9 @@
 
 - name: Polish
   iso: pol
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: PL.svg
+  forms: 201024
+  paradigms: 10185
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -894,12 +895,10 @@
 
 - name: Portuguese
   iso: por
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
-  nouns: yes
+  flag: PT.svg
+  forms: 303996
+  paradigms: 4001
   verbs: yes
-  adjectives: yes
   splits:
     seventeen: yes
   typology: fusional
@@ -908,23 +907,23 @@
 
 - name: Quechua
   iso: que
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: QU.svg
+  forms: 180004
+  paradigms: 1006
   nouns: yes
   verbs: yes
   adjectives: yes
   splits:
     seventeen: yes
-  typology: fusional
+  typology: agglutinative
   templatic: no
   type: living
 
 - name: Romanian
   iso: ron
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: RO.svg
+  forms: 80266
+  paradigms: 4405
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -936,13 +935,14 @@
 
 - name: Russian
   iso: rus
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: RU.svg
+  forms: 473481
+  paradigms: 28068
   nouns: yes
   verbs: yes
   adjectives: yes
   splits:
+    sixteen: yes
     seventeen: yes
   typology: fusional
   templatic: no
@@ -950,10 +950,9 @@
 
 - name: Scottish Gaelic
   iso: gla
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
-  nouns: yes
+  flag: ST.svg
+  forms: 781
+  paradigms: 73
   verbs: yes
   adjectives: yes
   splits:
@@ -964,11 +963,10 @@
 
 - name: Slovak
   iso: slk
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: SK.svg
+  forms: 14796
+  paradigms: 1046
   nouns: yes
-  verbs: yes
   adjectives: yes
   splits:
     seventeen: yes
@@ -978,9 +976,9 @@
 
 - name: Slovenian
   iso: slv
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: SI.svg
+  forms: 60110
+  paradigms: 2535
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -992,13 +990,12 @@
 
 - name: Spanish
   iso: spa
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
-  nouns: yes
+  flag: ES.svg
+  forms: 382955
+  paradigms: 5460
   verbs: yes
-  adjectives: yes
   splits:
+    sixteen: yes
     seventeen: yes
   typology: fusional
   templatic: no
@@ -1006,9 +1003,9 @@
 
 - name: Swedish
   iso: swe
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: SE.svg
+  forms: 78411
+  paradigms: 10553
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -1020,23 +1017,24 @@
 
 - name: Turkish
   iso: tur
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: TR.svg
+  forms: 275460
+  paradigms: 3579
   nouns: yes
   verbs: yes
   adjectives: yes
   splits:
+    sixteen: yes
     seventeen: yes
-  typology: fusional
+  typology: agglutinative
   templatic: no
   type: living
 
 - name: Ukrainian
   iso: ukr
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: UK.svg
+  forms: 20904
+  paradigms: 1493
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -1048,12 +1046,11 @@
 
 - name: Urdu
   iso: urd
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
+  flag: PK.svg
+  forms: 12572
+  paradigms: 182
   nouns: yes
   verbs: yes
-  adjectives: yes
   splits:
     seventeen: yes
   typology: fusional
@@ -1062,12 +1059,10 @@
 
 - name: Welsh
   iso: cym
-  flag: BG.svg
-  forms: 55730
-  paradigms: 2468
-  nouns: yes
+  flag: WA.svg
+  forms: 10641
+  paradigms: 183
   verbs: yes
-  adjectives: yes
   splits:
     seventeen: yes
   typology: fusional
