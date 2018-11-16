@@ -164,99 +164,6 @@ The following {{ site.data.languages | size }} languages have been annotated acc
   </tr>
 
 
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/ES-CT.svg"/></span></td>
-    <td>Catalan</td>
-    <td>cat</td>
-    <td>81576</td>
-    <td>1547</td>
-    <td></td>
-    <td>&#x2714;</td>
-    <td></td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/cat">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/cat/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span> no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Catalan_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IQ-KRD.svg"/></span></td>
-    <td>Central Kurdish</td>
-    <td>ckb</td>
-    <td>22990</td>
-    <td>274</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ckb">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ckb/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span> no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Central Kurdish_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/CZ.svg"/></span></td>
     <td>Czech</td>
@@ -2533,7 +2440,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/CE.svg"/></span></td>
     <td>Chechen</td>
@@ -2668,7 +2574,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
 
 
   <tr>
@@ -2806,7 +2711,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/TR.svg"/></span></td>
     <td>Hittite</td>
@@ -2897,7 +2801,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IS.svg"/></span></td>
     <td>Istriot</td>
@@ -2943,7 +2846,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/JP.svg"/></span></td>
     <td>Japanese</td>
@@ -2987,7 +2889,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
 
 
   <tr>
@@ -3081,144 +2982,6 @@ The following languages are in the process of being annotated according to the U
 
 
   <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/KB.svg"/></span></td>
-    <td>Kashubian</td>
-    <td>csb</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/csb">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/csb/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Kashubian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/KZ.svg"/></span></td>
-    <td>Kazakh</td>
-    <td>kaz</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/kaz">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/kaz/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Kazakh_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/KH.svg"/></span></td>
-    <td>Khakas</td>
-    <td>kjh</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/kjh">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/kjh/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Khakas_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/KG.svg"/></span></td>
     <td>Kirghiz</td>
     <td>kir</td>
@@ -3307,53 +3070,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/LD.svg"/></span></td>
-    <td>Ladin</td>
-    <td>lld</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/lld">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/lld/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Ladin_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
 
 
   <tr>
@@ -3445,99 +3161,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/LV.svg"/></span></td>
-    <td>Liv</td>
-    <td>liv</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/liv">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/liv/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Liv_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/DE.svg"/></span></td>
-    <td>Low German</td>
-    <td>nds</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nds">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nds/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Low German_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
 
 
   <tr>
@@ -3769,53 +3392,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/MT.svg"/></span></td>
-    <td>Maltese</td>
-    <td>mlt</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/mlt">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/mlt/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span><a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Maltese_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/CN.svg"/></span></td>
     <td>Mandarin Chinese</td>
@@ -3853,98 +3429,6 @@ The following languages are in the process of being annotated according to the U
       <div class="mylist">
       <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Mandarin Chinese_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IM.svg"/></span></td>
-    <td>Manx</td>
-    <td>glv</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/glv">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/glv/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Manx_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/MA.svg"/></span></td>
-    <td>Mapudungun</td>
-    <td>arn</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/arn">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/arn/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Mapudungun_language">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span>living</li>  
       </ul>
       </div>
@@ -4001,144 +3485,6 @@ The following languages are in the process of being annotated according to the U
 
 
   <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/FR.svg"/></span></td>
-    <td>Middle French</td>
-    <td>frm</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/frm">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/frm/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Middle French_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/DE.svg"/></span></td>
-    <td>Middle High German</td>
-    <td>gmh</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/gmh">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/gmh/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Middle High German_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/DE.svg"/></span></td>
-    <td>Middle Low German</td>
-    <td>gml</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/gml">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/gml/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Middle Low German_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/MI.svg"/></span></td>
     <td>Mirandese</td>
     <td>mwl</td>
@@ -4181,145 +3527,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/GR.svg"/></span></td>
-    <td>Modern Greek</td>
-    <td>ell</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ell">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ell/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Modern Greek_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/NE.svg"/></span></td>
-    <td>Neapolitan</td>
-    <td>nap</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/nap">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/nap/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Neapolitan_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/NF.svg"/></span></td>
-    <td>Northern Frisian</td>
-    <td>frr</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/frr">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/frr/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Northern Frisian_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
 
 
   <tr>
@@ -4365,53 +3572,6 @@ The following languages are in the process of being annotated according to the U
       </div>
     </td>
 </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/OC.svg"/></span></td>
-    <td>Occitan</td>
-    <td>oci</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/oci">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/oci/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Occitan_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
 
 
   <tr>
@@ -4497,144 +3657,6 @@ The following languages are in the process of being annotated according to the U
       <div class="mylist">
       <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Old Dutch_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/EN.svg"/></span></td>
-    <td>Old English</td>
-    <td>ang</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/ang">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/ang/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Old English_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/FR-ROYAL.svg"/></span></td>
-    <td>Old French</td>
-    <td>fro</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/fro">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/fro/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Old French_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/ID.svg"/></span></td>
-    <td>Old Irish</td>
-    <td>sga</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/sga">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/sga/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Old Irish_language">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
       </ul>
       </div>
@@ -4783,52 +3805,6 @@ The following languages are in the process of being annotated according to the U
 
 
   <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/WE.svg"/></span></td>
-    <td>Old Saxon</td>
-    <td>osx</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/osx">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/osx/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Old Saxon_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Historical_language">historical</a></li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IN.svg"/></span></td>
     <td>Panjabi</td>
     <td>pan</td>
@@ -4865,52 +3841,6 @@ The following languages are in the process of being annotated according to the U
       <div class="mylist">
       <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Panjabi_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AF.svg"/></span></td>
-    <td>Pushto</td>
-    <td>pus</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/pus">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/pus/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Pushto_language">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span>living</li>  
       </ul>
       </div>
@@ -5004,52 +3934,6 @@ The following languages are in the process of being annotated according to the U
       <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Romany_language">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/IN.svg"/></span></td>
-    <td>Sanskrit</td>
-    <td>san</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/san">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/san/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Sanskrit_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span><a href="https://en.wikipedia.org/wiki/Ancient_language">ancient</a></li>  
       </ul>
       </div>
       </div>
@@ -5287,53 +4171,6 @@ The following languages are in the process of being annotated according to the U
 </tr>
 
 
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/KE.svg"/></span></td>
-    <td>Swahili</td>
-    <td>swa</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/swa">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/swa/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Swahili_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
   <tr>
     <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/CH.svg"/></span></td>
     <td>Swiss German</td>
@@ -5371,98 +4208,6 @@ The following languages are in the process of being annotated according to the U
       <div class="mylist">
       <ul class="unstyled">
       <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Swiss German_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/TJ.svg"/></span></td>
-    <td>Tajik</td>
-    <td>tgk</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/tgk">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/tgk/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Tajik_language">wikipedia</a></li>
-      <li><span class="detail3"><b>Type:</b></span>living</li>  
-      </ul>
-      </div>
-      </div>
-    </td>
-</tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/TT.svg"/></span></td>
-    <td>Tatar</td>
-    <td>tat</td>
-    <td>0</td>
-    <td>0</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/tat">repo</a></li>
-      <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/tat/issues">issues</a></li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail4"><b>2016 Shared Task Splits:</b></span>no</li>
-      <li><span class="detail4"><b>2017 Shared Task Splits:</b></span>no</li>  
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail2"><b>Typology:</b></span><a href="https://en.wikipedia.org/wiki/Agglutinative_language">agglutinative</a></li>
-      <li><span class="detail2"><b>Templatic:</b></span>no</li>
-      </ul>
-      </div>
-      <div class="mylist">
-      <ul class="unstyled">
-      <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/Tatar_language">wikipedia</a></li>
       <li><span class="detail3"><b>Type:</b></span>living</li>  
       </ul>
       </div>

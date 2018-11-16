@@ -4,7 +4,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Adyghe_language
 
 - name: Albanian
   iso: sqi
@@ -20,7 +19,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Albanian_language
 
 - name: Arabic
   iso: ara
@@ -36,7 +34,6 @@
   typology: fusional
   templatic: yes
   type: living
-  wiki: https://en.wikipedia.org/wiki/Arabic_language
 
 - name: Armenian
   iso: hye
@@ -51,7 +48,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Armenian_language
 
 - name: Asturian
   iso: ast
@@ -59,7 +55,6 @@
   typology: fusional
   type: living
   templatic: no
-  wiki: https://en.wikipedia.org/wiki/Asturian_language
 
 - name: Azerbaijani
   iso: aze
@@ -67,7 +62,6 @@
   typology: agglutinative
   type: living
   templatic: no
-  wiki: https://en.wikipedia.org/wiki/Azerbaijani_language
 
 - name: Bashkir
   iso: bak
@@ -75,7 +69,6 @@
   typology: fusional
   type: living
   templatic: no
-  wiki: https://en.wikipedia.org/wiki/Bashkir_language
 
 - name: Basque
   iso: eus
@@ -88,7 +81,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Basque_language
 
 - name: Belarusian
   iso: bel
@@ -96,7 +88,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Belarusian_language
 
 - name: Bengali
   iso: ben
@@ -110,7 +101,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Bengali_language
 
 - name: Breton
   iso: bre
@@ -118,16 +108,35 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Breton_language
 
 - name: Bulgarian
   iso: bul
 
 - name: Catalan
   iso: cat
+  flag: ES-CT.svg
+  forms: 81576
+  paradigms: 1547
+  verbs: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Central Kurdish
   iso: ckb
+  flag: IQ-KRD.svg
+  forms: 22990
+  paradigms: 274
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Classical Syriac
   iso: syc
@@ -135,7 +144,6 @@
   typology: fusional
   type: historical
   templatic: yes
-  wiki: https://en.wikipedia.org/wiki/Classical_Syriac_language
 
 - name: Cornish
   iso: cor
@@ -143,7 +151,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Cornish_language
 
 - name: Crimean Tatar
   iso: crh
@@ -151,7 +158,6 @@
   typology: fusional
   type: living
   templatic: no
-  wiki: https://en.wikipedia.org/wiki/Crimean_Tatar_language
 
 - name: Czech
   iso: ces
@@ -177,7 +183,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Friulian_language
 
 - name: Galician
   iso: gal
@@ -185,7 +190,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Galician_language
 
 - name: Gothic
   iso: got
@@ -193,10 +197,13 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Gothic_language
 
 - name: Modern Greek
   iso: ell
+  flag: GR.svg
+  typology: fusional
+  type: living
+  templatic: no
 
 - name: Greenlandic
   iso: kal
@@ -207,7 +214,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Ingrian_language
 
 - name: Kabardian
   iso: kbd
@@ -215,7 +221,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Kabardian_language
 
 - name: Kannada
   iso: kan
@@ -223,7 +228,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Kannada_language
 
 - name: Karelian
   iso: krl
@@ -231,7 +235,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Karelian_language
 
 - name: Kashubian
   iso: csb
@@ -239,56 +242,111 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Kashubian_language
 
 
 - name: Kazakh
   iso: kaz
+  flag: KZ.svg
+  typology: agglutinative
+  templatic: no
+  type: living
 
 - name: Khakas
   iso: kjh
+  flag: KH.svg
+  typology: agglutinative
+  templatic: no
+  type: living
 
 - name: Ladin
   iso: lld
+  flag: LD.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Livonian
   iso: liv
+  flag: LV.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Low German
   iso: nds
+  flag: DE.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Maltese
   iso: mlt
+  flag: MT.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Manx
   iso: glv
+  flag: IM.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Mapudungun
   iso: arn
+  flag: MA.svg
+  typology: agglutinative
+  templatic: no
+  type: living
 
 - name: Middle French
   iso: frm
+  flag: FR.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Middle High German
   iso: gmh
+  flag: DE.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Middle Low German
   iso: gml
+  flag: DE.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Murrinhpatha
   iso: mwf
 
 - name: Neapolitan
   iso: nap
+  flag: NE.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Norman
   iso: xno
 
 - name: North Frisian
   iso: frr
+  flag: NF.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Occitan
   iso: oci
+  flag: OC.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Classical Armenian
   iso: xcl
@@ -296,8 +354,6 @@
   typology: fusional
   templatic: no
   type: historical
-  wiki: https://en.wikipedia.org/wiki/Classical Armenian_language
-
 
 - name: Old Church Slavonic
   iso: chu
@@ -305,37 +361,72 @@
   typology: fusional
   type: ancient
   templatic: no
-  wiki: https://en.wikipedia.org/wiki/Old_Church_Slavonic
 
 - name: Old English
   iso: ang
+  flag: EN.svg
+  templatic: no
+  typology: fusional
+  type: historical
 
 - name: Old French
   iso: fro
+  flag: FR-ROYAL.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Old Irish
   iso: sga
+  flag: ID.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Old Saxon
   iso: osx
+  flag: WE.svg
+  typology: fusional
+  templatic: no
+  type: historical
 
 - name: Pashto
   iso: pus
+  flag: AF.svg
+  typology: fusional
+  type: living
+  templatic: no
 
 - name: Sanskrit
   iso: san
+  flag: IN.svg
+  typology: fusional
+  templatic: no
+  type: ancient
 
 - name: Serbo Croatian
   iso: hbs
 
 - name: Swahili
   iso: swc
+  flag: KE.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Tajik
   iso: tgk
+  flag: TJ.svg
+  typology: fusional
+  templatic: no
+  type: living
 
 - name: Tatar
   iso: tat
+  flag: TT.svg
+  typology: agglutinative
+  templatic: no
+  type: living
 
 - name: Telugu
   iso: tel
@@ -343,7 +434,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Telugu_language
 
 - name: Tibetan
   iso: bod
@@ -351,7 +441,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Tibetan_language
 
 - name: Turkmen
   iso: tuk
@@ -359,7 +448,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Turkmen_language
 
 - name: Uzbek
   iso: uzb
@@ -367,7 +455,6 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Uzbek_language
 
 - name: Venetian
   iso: vec
@@ -375,7 +462,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Venetian_language
 
 - name: Votic
   iso: vot
@@ -383,7 +469,6 @@
   typology: agglutinative
   templatic: yes
   type: living
-  wiki: https://en.wikipedia.org/wiki/Votic_language
 
 - name: West Frisian
   iso: fry
@@ -391,7 +476,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Western Frisian_language
 
 - name: Yiddish
   iso: yid
@@ -399,7 +483,6 @@
   typology: fusional
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Yiddish_language
 
 - name: Zulu
   iso: zul
@@ -407,4 +490,3 @@
   typology: agglutinative
   templatic: no
   type: living
-  wiki: https://en.wikipedia.org/wiki/Zulu_language
