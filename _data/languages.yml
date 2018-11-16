@@ -6,6 +6,11 @@
   nouns: yes
   verbs: yes
   adjectives: no
+  splits:
+    sixteen: no
+    seventeen: yes
+  wiki: https://en.wikipedia.org/wiki/Albanian_language
+
 
 - name: Zulu
   iso: zul
