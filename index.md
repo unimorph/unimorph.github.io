@@ -199,8 +199,8 @@ The following languages are in the process of being annotated according to the U
     <td></td>
     <td></td>
     <td></td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td></td>
+    <td></td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
@@ -208,26 +208,22 @@ The following languages are in the process of being annotated according to the U
       <div class="detail-box">
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span><a href="https://github.com/unimorph/{{ language.iso }}">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span><a href="https://github.com/unimorph/{{ language.iso }}/issues">issues</a></li>
+            <li><span class="detail2"><b>Typology:</b></span> {{ language.typology }}</li>
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li></li>
-            <li></li>  
+            <li><span class="detail2"><b>Templatic:</b></span> {{ language.templatic }}</li>
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> {{     language.typology }}</li>
-            <li><span class="detail2"><b>Templatic:</b></span> {{     language.templatic }}</li>
+            <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">wikipedia</a></li>
           </ul>
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="    https://en.wikipedia.org/wiki/{{ language.name }}_language"    >wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> {{     language.type }}</li>  
+            <li><span class="detail3"><b>Type:</b></span> {{ language.type }}</li>  
           </ul>
         </div>
       </div>
