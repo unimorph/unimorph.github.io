@@ -766,6 +766,314 @@
   templatic: no
   type: living
 
+- name: Lower Sorbian
+  iso: dsb
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Macedonian
+  iso: mkd
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Navajo
+  iso: nav
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Northern Kurdish
+  iso: kmr
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Northern Sami
+  iso: sme
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Norwegian Bokmål
+  iso: nob
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Norwegian Nynorsk
+  iso: nno
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Persian
+  iso: fas
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Polish
+  iso: pol
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Portuguese
+  iso: por
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Quechua
+  iso: que
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Romanian
+  iso: ron
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Russian
+  iso: rus
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Scottish Gaelic
+  iso: gla
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Slovak
+  iso: slk
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Slovenian
+  iso: slv
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Spanish
+  iso: spa
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Swedish
+  iso: swe
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Turkish
+  iso: tur
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Ukrainian
+  iso: ukr
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Urdu
+  iso: urd
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Welsh
+  iso: cym
+  flag: BG.svg
+  forms: 55730
+  paradigms: 2468
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+
 
 
 

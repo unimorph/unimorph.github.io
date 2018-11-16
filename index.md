@@ -108,7 +108,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  {% if language.wiki %}<a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">wikipedia</a>{% endif %}</li>
+            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">wikipedia</a></li>
             <li><span class="detail3"><b>Type:</b></span> {{ language.type }}</li>  
           </ul>
         </div>
@@ -1132,7 +1132,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
 </div>
 
-### Coming Attractions!
+## Coming Attractions!
 
 The following languages are in the process of being annotated according to the UniMorph specification.
 
