@@ -1,3 +1,6 @@
+- name: Adyghe
+  iso: ady
+
 - name: Albanian
   iso: sqi
   flag: "AL.svg"
@@ -26,6 +29,23 @@
   templatic: yes
   type: living
   wiki: https://en.wikipedia.org/wiki/Arabic_language
+
+- name: Armenian
+  iso: hye
+
+- name: Basque
+  iso: eus
+
+- name: Bengali
+  iso: ben
+
+- name: Bulgarian
+  iso: bul
+
+- name: Catalan
+  iso: cat
+
+
 
 - name: Zulu
   iso: zul
