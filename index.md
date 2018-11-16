@@ -68,7 +68,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
     {% for language in sorted_langs %}
     <tr>
-    <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>    {% endif %}</td>
+    <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
     <td>{{ language.name }}</td>
     <td>{{ language.iso }}</td>
     <td>{{ language.forms }}</td>
@@ -76,8 +76,8 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td>{% if language.nouns %}&#x2714;{% endif %}</td>
     <td>{% if language.verbs %}&#x2714;{% endif %}</td>
     <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/    wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"    /></span></td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
     <td><div class="arrow"></div></td>
     </tr>
     <tr>
@@ -89,27 +89,27 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <span class="detail1">
     <b>Download Data:</b>
     </span>
-    <a href="https://github.com/unimorph/{{ language.iso }}">    repo</a>
+    <a href="https://github.com/unimorph/{{ language.iso }}">repo</a>
     </li>
-    <li><span class="detail1"><b>Report Errors:</b></span> <a     href="https://github.com/unimorph/{{ language.iso }}/issues    ">issues</a></li>
+    <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/{{ language.iso }}/issues">issues</a></li>
     </ul>
     </div>
     <div class="mylist">
     <ul class="unstyled">
-    <li><span class="detail4"><b>2016 Shared Task Splits:</b></    span> {% if language.splits.sixteen  %}<a href="    https://github.com/ryancotterell/sigmorphon2016/">yes</a>    {% else %}no{% endif %}</li>
-    <li><span class="detail4"><b>2017 Shared Task Splits:</b></    span> {% if language.splits.seventeen  %}<a href="    https://github.com/sigmorphon/conll2017">yes</a>{% else     %}no{% endif %}</li>  
+    <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> {% if language.splits.sixteen %}<a href=" https://github.com/ryancotterell/sigmorphon2016/">yes</a>{% else %}no{% endif %}</li>
+    <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.seventeen %}<a href="https://github.com/sigmorphon/conll2017">yes</a>{% else %}no{% endif %}</li>  
     </ul>
     </div>
     <div class="mylist">
     <ul class="unstyled">
-    <li><span class="detail2"><b>Typology:</b></span> {{     language.typology }}</li>
-    <li><span class="detail2"><b>Templatic:</b></span> {{     language.templatic }}</li>
+    <li><span class="detail2"><b>Typology:</b></span> {{ language.typology }}</li>
+    <li><span class="detail2"><b>Templatic:</b></span> {{ language.templatic }}</li>
     </ul>
     </div>
     <div class="mylist">
     <ul class="unstyled">
-    <li><span class="detail3"><b>Info:</b></span>  <a href="    https://en.wikipedia.org/wiki/{{ language.name }}_language"    >wikipedia</a></li>
-    <li><span class="detail3"><b>Type:</b></span> {{     language.type }}</li>  
+    <li><span class="detail3"><b>Info:</b></span> <a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">wikipedia</a></li>
+    <li><span class="detail3"><b>Type:</b></span> {{ language.type }}</li>  
     </ul>
     </div>
     </div>
