@@ -12,6 +12,8 @@
   splits:
     sixteen: no
     seventeen: yes
+  typology: fusional
+  templatic: no
   type: living
   wiki: https://en.wikipedia.org/wiki/Albanian_language
 
@@ -33,6 +35,18 @@
 
 - name: Armenian
   iso: hye
+  flag: "AM.svg"
+  forms: 338461
+  paradigms: 7033
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  splits:
+    seventeen: yes
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Armenian_language
 
 - name: Asturian
   iso: ast

@@ -96,8 +96,8 @@ The following {{ site.data.languages | size }} languages have been annotated acc
         </div>
         <div class="mylist">
           <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> {% if language.splits.sixteen  %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.seventeen  %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>  
+            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> {% if language.splits.sixteen  %}<a href="https://github.com/ryancotterell/sigmorphon2016/">yes</a>{% else %}no{% endif %}</li>
+            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.seventeen  %}<a href="https://github.com/sigmorphon/conll2017">yes</a>{% else %}no{% endif %}</li>  
           </ul>
         </div>
         <div class="mylist">
@@ -116,148 +116,6 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     </td>
 </tr>
 {% endfor %}
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AL.svg"/></span></td>
-    <td>Albanian</td>
-    <td>sqi</td>
-    <td>33483</td>
-    <td>589</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td></td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li>
-              <span class="detail1">
-                <b>Download Data:</b>
-              </span>
-              <a href="https://github.com/unimorph/sqi">repo</a>
-            </li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/sqi/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> {% if language.splits.seventeen  %}<a href="http://www.sigmorphon.org/conll2017">yes</a>{% else %}no{% endif %}</li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> {% if language.typology %}<a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a>{% endif %}</li>
-            <li><span class="detail2"><b>Templatic:</b></span> {% if language.templatic %}no{% endif %}</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  {% if language.wiki %}<a href="{{ language.wiki }}">wikipedia</a>{% endif %}</li>
-            <li><span class="detail3"><b>Type:</b></span> {% if language.type %}living{% endif %}</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/SA-AL.svg"/></span></td>
-    <td>Arabic</td>
-    <td>ara</td>
-    <td>140003</td>
-    <td>4134</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/ara">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/ara/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> <a href="http://ryancotterell.github.io/sigmorphon2016/">yes</a></li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span> yes</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Arabic_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-
-
-  <tr>
-    <td><span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/AM.svg"/></span></td>
-    <td>Armenian</td>
-    <td>hye</td>
-    <td>338461</td>
-    <td>7033</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td>&#x2714;</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
-    <td><div class="arrow"></div></td>
-  </tr>
-  <tr>
-    <td colspan="11">
-      <div class="detail-box">
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail1"><b>Download Data:</b></span> <a href="https://github.com/unimorph/hye">repo</a></li>
-            <li><span class="detail1"><b>Report Errors:</b></span> <a href="https://github.com/unimorph/hye/issues">issues</a></li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail4"><b>2016 Shared Task Splits:</b></span> no</li>
-            <li><span class="detail4"><b>2017 Shared Task Splits:</b></span> <a href="http://www.sigmorphon.org/conll2017">yes</a></li>  
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail2"><b>Typology:</b></span> <a href="https://en.wikipedia.org/wiki/Fusional_language">fusional</a></li>
-            <li><span class="detail2"><b>Templatic:</b></span> no</li>
-          </ul>
-        </div>
-        <div class="mylist">
-          <ul class="unstyled">
-            <li><span class="detail3"><b>Info:</b></span>  <a href="https://en.wikipedia.org/wiki/Armenian_language">wikipedia</a></li>
-            <li><span class="detail3"><b>Type:</b></span> living</li>  
-          </ul>
-        </div>
-      </div>
-    </td>
-  </tr>
-
 
 
   <tr>
