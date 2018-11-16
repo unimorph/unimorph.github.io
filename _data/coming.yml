@@ -1,0 +1,6 @@
+- name: Afrikaans
+  iso: afr
+  flag: SA.svg
+  typology: fusional
+  templatic: no
+  type: living
