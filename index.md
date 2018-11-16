@@ -66,8 +66,17 @@ The following 51 languages have been annotated according to the UniMorph schema.
   
 {% for language in site.data.languages %}
 <tr>
-  <td></td>
-  <td>{{ language.name }}</td>
+    <td>{% if language.flag %}<span class="flagspan"><img class="flag" src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
+    <td>{{ language.name }}</td>
+    <td>{{ language.iso }}</td>
+    <td>{{ language.forms }}</td>
+    <td>{{ language.paradigms }}</td>
+    <td>{% if language.nouns %}&#x2714;{% endif %}</td>
+    <td>{% if language.verbs %}&#x2714;{% endif %}</td>
+    <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
+    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td><div class="arrow"></div></td>
 </tr>
 <tr>
 </tr>
