@@ -227,9 +227,20 @@
 
 - name: Karelian
   iso: krl
+  flag: KL.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Karelian_language
 
 - name: Kashubian
   iso: csb
+  flag: KB.svg
+  typology: fusional
+  templatic: no
+  type: living
+  wiki: https://en.wikipedia.org/wiki/Kashubian_language
+
 
 - name: Kazakh
   iso: kaz
