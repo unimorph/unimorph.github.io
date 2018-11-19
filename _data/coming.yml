@@ -1,4 +1,4 @@
-- name: \!Xóõ
+- name: "!Xóõ"
   iso: nmn
   flag: BO.svg
   typology: fusional
@@ -12,3 +12,23 @@
   templatic: no
   type: living
 
+- name: Ancient Greek
+  iso: grc
+  flag: GR.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
+- name: Aragonese
+  iso: arg
+  flag: AR.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Aramaic
+  iso: arc
+  flag: SY.svg
+  typology: fusional
+  templatic: yes
+  type: ancient
