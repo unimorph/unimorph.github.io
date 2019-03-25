@@ -20,6 +20,13 @@
   templatic: no
   type: living
 
+- name: Ancient Greek
+  iso: grc
+  flag: GR.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
 - name: Arabic
   iso: ara
   flag: "SA-AL.svg"
