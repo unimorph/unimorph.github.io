@@ -8,6 +8,11 @@ The following software artifacts have been released for use on data annotated ac
 
 - [Aharoni and Goldberg (2017)](https://github.com/roeeaharoni/morphological-reinflection)
 - [CoNLL–SIGMORPHON 2017 baseline system](https://github.com/sigmorphon/conll2017/tree/master/baseline)
+- [CoNLL–SIGMORPHON 2018 baseline system](https://github.com/sigmorphon/conll2018)
+
+### Extraction Tools
+
+The majority of our data is extracted from [Wiktionary](https://www.wiktionary.org). We provide tools for such extraction [here](https://github.com/unimorph/wiktionary-tools). Revisions and pull requests are welcome. 
 
 ### Pre-trained Tools
 
