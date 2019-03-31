@@ -305,6 +305,7 @@
 
 - name: Greenlandic
   iso: kal
+  flag: GL.svg
 
 - name: Ingrian
   iso: izh

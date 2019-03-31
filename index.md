@@ -39,6 +39,7 @@ The specification of the schema is described [here]({{ site.baseurl }}/schema) a
 
 ## UniMorph Events
 
+- [SIGMORPHON 2019 Shared Task](https://sigmorphon.github.io/sharedtasks/2019/)
 - [CoNLL–SIGMORPHON 2018 Shared Task](https://sigmorphon.github.io/sharedtasks/2018/)
 - [CoNLL–SIGMORPHON 2017 Shared Task](https://sigmorphon.github.io/sharedtasks/2017/)
 - [SIGMORPHON 2016 Shared Task](https://sigmorphon.github.io/sharedtasks/2016/)
