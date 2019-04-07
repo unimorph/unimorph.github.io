@@ -848,13 +848,6 @@
   templatic: no
   type: living
 
-- name: Yiddish
-  iso: yid
-  flag: "IL.svg"
-  typology: fusional
-  templatic: no
-  type: living
-
 - name: Zulu
   iso: zul
   flag: "SA.svg"
@@ -1360,3 +1353,6 @@
   nouns: yes
   verbs: yes
   adjectives: yes
+  typology: fusional
+  templatic: no
+  type: living
