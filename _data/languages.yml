@@ -1,6 +1,11 @@
 - name: Adyghe
   iso: ady
   flag: CI.svg
+  forms: 20475
+  paradigms: 1666
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
@@ -23,6 +28,11 @@
 - name: Ancient Greek
   iso: grc
   flag: GR.svg
+  forms: 41593
+  paradigms: 2431
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: fusional
   templatic: no
   type: historical
@@ -59,6 +69,11 @@
 - name: Asturian
   iso: ast
   flag: AS.svg
+  forms: 29797
+  paradigms: 436
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   type: living
   templatic: no
@@ -66,6 +81,11 @@
 - name: Azerbaijani
   iso: aze
   flag: AZ.svg
+  forms: 8004
+  paradigms: 340
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: agglutinative
   type: living
   templatic: no
@@ -73,6 +93,11 @@
 - name: Bashkir
   iso: bak
   flag: BA.svg
+  forms: 12168
+  paradigms: 1084
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: fusional
   type: living
   templatic: no
@@ -92,6 +117,11 @@
 - name: Belarusian
   iso: bel
   flag: BE.svg
+  forms: 16113
+  paradigms: 1027
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: living
@@ -112,6 +142,11 @@
 - name: Breton
   iso: bre
   flag: BR.svg
+  forms: 2294
+  paradigms: 44
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -159,6 +194,11 @@
 - name: Classical Syriac
   iso: syc
   flag: SY.svg
+  forms: 3652
+  paradigms: 160
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: fusional
   type: historical
   templatic: yes
@@ -166,6 +206,11 @@
 - name: Cornish
   iso: cor
   flag: CW.svg
+  forms: 469
+  paradigms: 9
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -173,6 +218,11 @@
 - name: Crimean Tatar
   iso: crh
   flag: TA.svg
+  forms: 7514
+  paradigms: 1230
+  nouns: yes
+  verbs: yes
+  adjectives: yes 
   typology: fusional
   type: living
   templatic: no
@@ -278,6 +328,11 @@
 - name: Friulian
   iso: fur
   flag: FL.svg
+  forms: 8071
+  paradigms: 168
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -285,6 +340,11 @@
 - name: Galician
   iso: gal
   flag: GC.svg
+  forms: 36801
+  paradigms: 486
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -299,6 +359,11 @@
 - name: Modern Greek
   iso: ell
   flag: GR.svg
+  forms: 199763
+  paradigms: 11906
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   type: living
   templatic: no
@@ -306,10 +371,20 @@
 - name: Greenlandic
   iso: kal
   flag: GL.svg
+  forms: 368
+  paradigms: 23
+  nouns: yes
+  verbs: no
+  adjectives: no
 
 - name: Ingrian
   iso: izh
   flag: IG.svg
+  forms: 1099
+  paradigms: 50
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: fusional
   templatic: no
   type: living
@@ -317,6 +392,11 @@
 - name: Kabardian
   iso: kbd
   flag: KA.svg
+  forms: 3092
+  paradigms: 250
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
@@ -324,6 +404,11 @@
 - name: Kannada
   iso: kan
   flag: IN.svg
+  forms: 6402
+  paradigms: 159
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -331,6 +416,11 @@
 - name: Karelian
   iso: krl
   flag: KL.svg
+  forms: 682 
+  paradigms: 20
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
@@ -338,6 +428,11 @@
 - name: Kashubian
   iso: csb
   flag: KB.svg
+  forms: 509
+  paradigms: 37
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -346,6 +441,11 @@
 - name: Kazakh
   iso: kaz
   flag: KZ.svg
+  forms: 357
+  paradigms: 26
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -353,6 +453,11 @@
 - name: Khakas
   iso: kjh
   flag: KH.svg
+  forms: 1200
+  paradigms: 75
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -360,6 +465,11 @@
 - name: Ladin
   iso: lld
   flag: LD.svg
+  forms: 180
+  paradigms: 7656
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -367,6 +477,11 @@
 - name: Livonian
   iso: liv
   flag: LV.svg
+  forms: 3987 
+  paradigms: 203
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: living
@@ -374,6 +489,11 @@
 - name: Low German
   iso: nds
   flag: DE.svg
+  forms:  
+  paradigms:
+  nouns:
+  verbs:
+  adjectives:
   typology: fusional
   templatic: no
   type: living
@@ -381,6 +501,11 @@
 - name: Maltese
   iso: mlt
   flag: MT.svg
+  forms: 3584
+  paradigms: 112
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   splits:
     sixteen: yes
@@ -390,6 +515,11 @@
 - name: Manx
   iso: glv
   flag: IM.svg
+  forms: 14
+  paradigms: 1
+  nouns: no
+  verbs: no
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -397,6 +527,11 @@
 - name: Mapudungun
   iso: arn
   flag: MA.svg
+  forms: 783
+  paradigms: 26
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -404,6 +539,11 @@
 - name: Middle French
   iso: frm
   flag: FR.svg
+  forms: 36970
+  paradigms: 603
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: historical
@@ -411,6 +551,11 @@
 - name: Middle High German
   iso: gmh
   flag: DE.svg
+  forms: 708
+  paradigms: 29
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: historical
@@ -418,26 +563,51 @@
 - name: Middle Low German
   iso: gml
   flag: DE.svg
+  forms: 1513
+  paradigms: 52
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: historical
 
 - name: Murrinhpatha
   iso: mwf
+  forms: 1110
+  paradigms: 29
+  nouns: no
+  verbs: yes
+  adjectives: no
 
 - name: Neapolitan
   iso: nap
   flag: NE.svg
+  forms: 1808
+  paradigms: 40
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
 
 - name: Norman
   iso: xno
+  forms: 280
+  paradigms: 5
+  nouns: no
+  verbs: yes
+  adjectives: no
 
 - name: North Frisian
   iso: frr
   flag: NF.svg
+  forms: 3204
+  paradigms: 51
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -445,6 +615,11 @@
 - name: Occitan
   iso: oci
   flag: OC.svg
+  forms: 8316
+  paradigms: 174
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -452,6 +627,11 @@
 - name: Classical Armenian
   iso: xcl
   flag: AM.svg
+  forms: 97181
+  paradigms: 4300
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: historical
@@ -459,6 +639,11 @@
 - name: Old Church Slavonic
   iso: chu
   flag: MORAVA.svg
+  forms: 4148
+  paradigms: 152
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: fusional
   type: ancient
   templatic: no
@@ -466,6 +651,11 @@
 - name: Old English
   iso: ang
   flag: EN.svg
+  forms: 42425 
+  paradigms: 1867
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   templatic: no
   typology: fusional
   type: historical
@@ -473,6 +663,11 @@
 - name: Old French
   iso: fro
   flag: FR-ROYAL.svg
+  forms: 123374 
+  paradigms: 1700
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: historical
@@ -480,6 +675,11 @@
 - name: Old Irish
   iso: sga
   flag: ID.svg
+  forms: 1089
+  paradigms: 49
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: historical
@@ -487,6 +687,11 @@
 - name: Old Saxon
   iso: osx
   flag: WE.svg
+  forms: 22287
+  paradigms: 863
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: historical
@@ -494,6 +699,11 @@
 - name: Pashto
   iso: pus
   flag: AF.svg
+  forms: 6945
+  paradigms: 395
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   type: living
   templatic: no
@@ -501,16 +711,31 @@
 - name: Sanskrit
   iso: san
   flag: IN.svg
+  forms: 33847 
+  paradigms: 917
+  nouns: yes
+  verbs: no
+  adjectives: yes
   typology: fusional
   templatic: no
   type: ancient
 
 - name: Serbo Croatian
   iso: hbs
+  forms: 840799
+  paradigms: 24419
+  nouns: yes
+  verbs: yes
+  adjectives: yes
 
 - name: Swahili
   iso: swc
   flag: KE.svg
+  forms: 10092 
+  paradigms: 100
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: fusional
   templatic: no
   type: living
@@ -518,6 +743,11 @@
 - name: Tajik
   iso: tgk
   flag: TJ.svg
+  forms: 77 
+  paradigms: 75
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -525,6 +755,11 @@
 - name: Tatar
   iso: tat
   flag: TT.svg
+  forms: 7832
+  paradigms: 1283
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
@@ -532,6 +767,11 @@
 - name: Telugu
   iso: tel
   flag: IN.svg
+  forms: 1548 
+  paradigms: 127
+  nouns: yes
+  verbs: yes
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -539,6 +779,11 @@
 - name: Tibetan
   iso: bod
   flag: TB.svg
+  forms: 353 
+  paradigms: 65
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -546,6 +791,11 @@
 - name: Turkmen
   iso: tuk
   flag: TM.svg
+  forms: 810 
+  paradigms: 68
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -553,6 +803,11 @@
 - name: Uzbek
   iso: uzb
   flag: UZ.svg
+  forms: 1260 
+  paradigms: 15
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: living
@@ -560,6 +815,11 @@
 - name: Venetian
   iso: vec
   flag: VE.svg
+  forms: 18227 
+  paradigms: 368
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -567,6 +827,11 @@
 - name: Votic
   iso: vot
   flag: VO.svg
+  forms: 1430
+  paradigms: 55
+  nouns: yes
+  verbs: no
+  adjectives: no
   typology: agglutinative
   templatic: yes
   type: living
@@ -574,6 +839,11 @@
 - name: West Frisian
   iso: fry
   flag: WF.svg
+  forms: 1429
+  paradigms: 85
+  nouns: no
+  verbs: yes
+  adjectives: no
   typology: fusional
   templatic: no
   type: living
@@ -588,6 +858,11 @@
 - name: Zulu
   iso: zul
   flag: "SA.svg"
+  forms: 49119 
+  paradigms: 566
+  nouns: yes
+  verbs: yes
+  adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
@@ -1077,6 +1352,11 @@
   templatic: no
   type: living
 
-
-
-
+- name: Yiddish
+  iso: yid
+  flag: YD.svg
+  forms: 7986
+  paradigms: 803
+  nouns: yes
+  verbs: yes
+  adjectives: yes
