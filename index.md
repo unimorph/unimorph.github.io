@@ -27,6 +27,36 @@ layout: default
   });
 </script>
 
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+
+
 <!-- Custom CSS UniMorph CSS -->
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" href="css/bib-publication-list.css"/>
@@ -78,7 +108,9 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td>{% if language.verbs %}&#x2714;{% endif %}</td>
     <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
     <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td><span><img class="check" src="{{ site.baseurl }}/images/cc.png"/></span></td>
+    <td>{% if language.license == "unknown" %}{% else %}
+    <span class="tooltip"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><span class="tooltiptext">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></span></span>
+    {% endif %}</td>
     <td><div class="arrow"></div></td>
     </tr>
     <tr>

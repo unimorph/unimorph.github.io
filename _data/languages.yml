@@ -113,6 +113,7 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
 
 - name: Belarusian
   iso: bel
@@ -190,6 +191,7 @@
   typology: fusional
   templatic: no
   type: living
+  license: unknown
 
 - name: Classical Syriac
   iso: syc
@@ -912,6 +914,7 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
 
 - name: Hebrew
   iso: heb
@@ -1002,6 +1005,7 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
 
 - name: Latin
   iso: lat
@@ -1100,6 +1104,7 @@
   typology: fusional
   templatic: no
   type: living
+  license: unknown
 
 - name: Northern Sami
   iso: sme
