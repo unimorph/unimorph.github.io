@@ -27,35 +27,6 @@ layout: default
   });
 </script>
 
-<style>
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
-}
-
-/* Tooltip text */
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 300px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
- 
-  /* Position the tooltip text - see examples below! */
-  position: absolute;
-  z-index: 1;
-}
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-
 
 <!-- Custom CSS UniMorph CSS -->
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
@@ -87,13 +58,13 @@ The following {{ site.data.languages | size }} languages have been annotated acc
       <th></th>
       <th>Language</th>
       <th>ISO 639-3</th>
-      <th>Forms</th>
-      <th>Paradigms</th>
-      <th>Nouns</th>
-      <th>Verbs</th>
-      <th>Adjectives</th>
-      <th>Source</th>
-      <th>License</th>
+      <th style="text-align:right">Forms</th>
+      <th style="text-align:right">Paradigms</th>
+      <th style="text-align:right">Nouns</th>
+      <th style="text-align:right">Verbs</th>
+      <th style="text-align:right">Adjectives</th>
+      <th style="text-align:right">Source</th>
+      <th style="text-align:right">License</th>
       <th></th>
     </tr>
 
