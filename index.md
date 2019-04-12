@@ -101,7 +101,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <tr>
     <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
     <td>{{ language.name }}</td>
-    <td>{{ language.iso }}</td>
+    <td style="font-family: monospace">{{ language.iso }}</td>
     <td style="text-align:right">{{ language.forms }}</td>
     <td style="text-align:right">{{ language.paradigms }}</td>
     <td style="text-align:right">{% if language.nouns %}&#x2714;{% endif %}</td>
