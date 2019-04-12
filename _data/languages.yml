@@ -905,7 +905,7 @@
 
 - name: Haida
   iso: hai
-  flag: HA.svg
+  flag: HA.png
   forms: 7040
   paradigms: 41
   verbs: yes
