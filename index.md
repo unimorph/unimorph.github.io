@@ -105,7 +105,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td style="text-align:right">{{ language.forms }}</td>
     <td style="text-align:right">{{ language.paradigms }}</td>
     <td style="text-align:right">{% if language.nouns %}&#x2714;{% endif %}</td>
-    <t style="text-align:right" d>{% if language.verbs %}&#x2714;{% endif %}</td>
+    <td style="text-align:right">{% if language.verbs %}&#x2714;{% endif %}</td>
     <td style="text-align:right">{% if language.adjectives %}&#x2714;{% endif %}</td>
     <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
     <td style="text-align:right">{% case language.license %}
