@@ -108,7 +108,16 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td>{% if language.verbs %}&#x2714;{% endif %}</td>
     <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
     <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td>{% if language.license == "unknown" %}{% else %}
+    <td>{% case language.license %}
+      {% when 'unknown' %}
+      	???
+      {% when 'lgpllr' %}
+       <a rel="license" href="https://spdx.org/licenses/LGPLLR.html">LGPLLR</a>
+      {% when nil %}
+       <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img class="check" alt="Creative Commons License"  src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+    {% endcase %}</td>
+    
+    {% if language.license == "unknown" %}{% else %}
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img class="check" alt="Creative Commons License"  src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
     {% endif %}</td>
     <td><div class="arrow"></div></td>

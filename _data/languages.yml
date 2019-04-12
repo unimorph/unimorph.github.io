@@ -191,7 +191,7 @@
   typology: fusional
   templatic: no
   type: living
-  license: unknown
+  license: lgpllr
 
 - name: Classical Syriac
   iso: syc
@@ -1005,7 +1005,7 @@
   typology: agglutinative
   templatic: no
   type: living
-  license: unknown
+  license: lgpllr
 
 - name: Latin
   iso: lat
@@ -1104,7 +1104,7 @@
   typology: fusional
   templatic: no
   type: living
-  license: unknown
+  license: lgpllr
 
 - name: Northern Sami
   iso: sme
