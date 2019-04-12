@@ -102,15 +102,15 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
     <td>{{ language.name }}</td>
     <td>{{ language.iso }}</td>
-    <td>{{ language.forms }}</td>
-    <td>{{ language.paradigms }}</td>
-    <td>{% if language.nouns %}&#x2714;{% endif %}</td>
-    <td>{% if language.verbs %}&#x2714;{% endif %}</td>
-    <td>{% if language.adjectives %}&#x2714;{% endif %}</td>
+    <td style="text-align:right">{{ language.forms }}</td>
+    <td style="text-align:right">{{ language.paradigms }}</td>
+    <td style="text-align:right">{% if language.nouns %}&#x2714;{% endif %}</td>
+    <t style="text-align:right" d>{% if language.verbs %}&#x2714;{% endif %}</td>
+    <td style="text-align:right">{% if language.adjectives %}&#x2714;{% endif %}</td>
     <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
-    <td>{% case language.license %}
+    <td style="text-align:right">{% case language.license %}
       {% when 'unknown' %}
-      	???
+      	–
       {% when 'lgpllr' %}
        <a rel="license" href="https://spdx.org/licenses/LGPLLR.html">LGPLLR</a>
       {% when nil %}
