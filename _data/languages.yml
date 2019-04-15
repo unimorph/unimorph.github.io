@@ -1361,3 +1361,24 @@
   typology: fusional
   templatic: no
   type: living
+
+- name: Ludian
+  iso: lud
+  flag: FI.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Livvi
+  iso: olo
+  flag: FI.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Veps (Vepsian)
+  iso: vep
+  flag: FI.svg
+  typology: agglutinative
+  templatic: no
+  type: living
