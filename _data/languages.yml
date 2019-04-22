@@ -1368,6 +1368,7 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
 
 - name: Livvi
   iso: olo
@@ -1375,6 +1376,7 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
 
 - name: Veps (Vepsian)
   iso: vep
@@ -1382,3 +1384,4 @@
   typology: agglutinative
   templatic: no
   type: living
+  license: unknown
