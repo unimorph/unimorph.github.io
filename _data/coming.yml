@@ -299,13 +299,6 @@
   templatic: no
   type: living
 
-- name: Old Norse
-  iso: non
-  flag: RA.svg
-  typology: fusional
-  templatic: no
-  type: living
-
 - name: Swiss German
   iso: gsw
   flag: CH.svg
@@ -327,13 +320,6 @@
   templatic: no
   type: living
 
-- name: Old Norse
-  iso: non
-  flag: RA.svg
-  typology: fusional
-  templatic: no
-  type: living
-
 - name: Võro
   iso: vro
   flag: VR.svg
@@ -350,14 +336,14 @@
 
 - name: Wymysorys
   iso: wym
-  flag: VR.svg
+  flag: WI.svg
   typology: fusional
   templatic: no
   type: living
 
 - name: Yucatec Maya
   iso: yua
-  flag: VR.svg
+  flag: MN.svg
   typology: agglutinative
   templatic: no
   type: living
