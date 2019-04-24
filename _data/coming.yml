@@ -25,3 +25,171 @@
   typology: fusional
   templatic: yes
   type: ancient
+
+- name: Buriat
+  iso: bua
+  flag: BY.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Chechen
+  iso: che
+  flag: CE.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Classical Nahuatl
+  iso: nci
+  flag: MX.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
+- name: Corsican
+  iso: cos
+  flag: CO.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Egyptian Arabic
+  iso: arz
+  flag: EG.svg
+  typology: fusional
+  templatic: yes
+  type: living
+
+- name: Gagauz
+  iso: gag
+  flag: GG.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Hausa
+  iso: hau
+  flag: NI.svg
+  typology: fusional
+  templatic: yes
+  type: living
+
+- name: Hittite
+  iso: hit
+  flag: TR.svg
+  typology: fusional
+  templatic: no
+  type: ancient
+
+- name: Inuktitut
+  iso: iku
+  flag: CE.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Istriot
+  iso: ist
+  flag: IS.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Japanese
+  iso: jpn
+  flag: JP.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Jèrriais
+  iso: nrf
+  flag: JE.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Kalaallisut
+  iso: kal
+  flag: GL.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Kirghiz
+  iso: kir
+  flag: KG.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Korean
+  iso: kor
+  flag: KO.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Ladino
+  iso: lad
+  flag: IL.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Limburgan
+  iso: lim
+  flag: LI.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Luxembourgish
+  iso: ltz
+  flag: LU.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Macedo-Romanian
+  iso: rup
+  flag: AO.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Malagasy
+  iso: mlg
+  flag: MD.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Malay
+  iso: msa
+  flag: MY.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Malayalam
+  iso: mal
+  flag: IN.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Mandarin Chinese
+  iso: cmn
+  flag: CN.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Middle Dutch
+  iso: dum
+  flag: NL.svg
+  typology: fusional
+  templatic: no
+  type: historical
