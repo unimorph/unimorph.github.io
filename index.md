@@ -152,7 +152,7 @@ The following languages are in the process of being annotated according to the U
   <tr>
     <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>    {% endif %}</td>
     <td>{{ language.name }}</td>
-    <td>{{ language.iso }}</td>
+    <td style="font-family: monospace">{{ language.iso }}</td>
     <td><div class="arrow"></div></td>
   </tr>
   <tr>
