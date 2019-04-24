@@ -193,3 +193,171 @@
   typology: fusional
   templatic: no
   type: historical
+
+- name: Mirandese
+  iso: mwl
+  flag: MI.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Northern Tiwa
+  iso: twf
+  flag: NMX.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Ojibwa
+  iso: oji
+  flag: CA.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Old Dutch
+  iso: odt
+  flag: NL.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
+- name: Old Norse
+  iso: non
+  flag: RA.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
+- name: Old Portuguese
+  iso: pto
+  flag: PT.svg
+  typology: fusional
+  templatic: no
+  type: historical
+
+- name: Old Provençal
+  iso: pro
+  flag: PR.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Panjabi
+  iso: pan
+  flag: IN.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Romansch
+  iso: roh
+  flag: CH.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Romany
+  iso: rom
+  flag: RM.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Sardinian
+  iso: srd
+  flag: SD.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Saterfriesisch
+  iso: stq
+  flag: SF.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Serbian
+  iso: srp
+  flag: RS.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Sicilian
+  iso: scn
+  flag: SC.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Skolt Sami
+  iso: sms
+  flag: SAMI.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Old Norse
+  iso: non
+  flag: RA.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Swiss German
+  iso: gsw
+  flag: CH.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Tswana
+  iso: tsn
+  flag: SA.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Uighur
+  iso: uig
+  flag: CN.svg
+  typology: agglutinative
+  templatic: no
+  type: living
+
+- name: Old Norse
+  iso: non
+  flag: RA.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Võro
+  iso: vro
+  flag: VR.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Walloon
+  iso: wln
+  flag: WL.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Wymysorys
+  iso: wym
+  flag: VR.svg
+  typology: fusional
+  templatic: no
+  type: living
+
+- name: Yucatec Maya
+  iso: yua
+  flag: VR.svg
+  typology: agglutinative
+  templatic: no
+  type: living
