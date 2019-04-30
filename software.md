@@ -22,7 +22,7 @@ The UniMorph project will also release pre-trained tools for morphological gener
 
 ### Compatibility with Universal Dependencies
 
-The [Universal Dependencies project](http://universaldependencies.org) also annotates morphosyntactic features of language. Their resources are token-level (annotating running text), unlike our type-level tables. To inter-operate between these resources, we recommend using [our UD to UniMorph converter](https://github.com/unimorph/ud-compatibility). It is designed to maximize harmony between UD and UniMorph annotations, and it has been hand-engineered for a number of languages.
+The [Universal Dependencies project](http://universaldependencies.org) also annotates morphosyntactic features of language. Their resources are token-level (annotating running text), unlike our type-level tables. To inter-operate between these resources, we recommend using [our UD to UniMorph converter](https://github.com/unimorph/ud-compatibility). It is designed to maximize harmony between UD and UniMorph annotations, and it has been hand-engineered for a number of languages. If you use it, please [cite it](https://www.aclweb.org/anthology/papers/W/W18/W18-6011.bib).
 
 ### GitHub
 

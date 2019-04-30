@@ -61,7 +61,7 @@ comparability across languages.
 
 ### Comparison to Universal Dependencies features
 
-Discussion on this topic may be found on the [Universal Dependencies website](http://universaldependencies.org/v2/features.html). A conversion script between the two is coming soon.
+Discussion on this topic may be found on the [Universal Dependencies website](http://universaldependencies.org/v2/features.html). A converter from Universal Dependencies into UniMorph is available through our [software page](/software).
 
 ### Dimensions of meaning and their features
 
