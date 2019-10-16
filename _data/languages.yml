@@ -1242,19 +1242,6 @@
   templatic: no
   type: living
 
-- name: Slovak
-  iso: slk
-  flag: SK.svg
-  forms: 14796
-  paradigms: 1046
-  nouns: yes
-  adjectives: yes
-  splits:
-    seventeen: yes
-  typology: fusional
-  templatic: no
-  type: living
-
 - name: Slovenian
   iso: slv
   flag: SI.svg
