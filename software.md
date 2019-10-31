@@ -37,6 +37,7 @@ The [Universal Dependencies project](http://universaldependencies.org) also anno
 
 The following software artifacts have been released for use on data annotated according to the UniMorph schema. Please let us know if you would like your software listed on this part of the website.
 
+- [CityLex: a free multisource English lexical database](https://github.com/kylebgorman/citylex)
 - [Aharoni and Goldberg (2017)](https://github.com/roeeaharoni/morphological-reinflection)
 - [CoNLL–SIGMORPHON 2017 baseline system](https://github.com/sigmorphon/conll2017/tree/master/baseline)
 - [CoNLL–SIGMORPHON 2018 baseline system](https://github.com/sigmorphon/conll2018)
