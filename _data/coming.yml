@@ -306,6 +306,12 @@
   templatic: no
   type: living
 
+- name: Tagalog
+  iso: tgl
+  typology: agglutinative
+  templatic: no
+  type: living
+
 - name: Tswana
   iso: tsn
   flag: SA.svg

@@ -1352,6 +1352,8 @@
 - name: Ludian
   iso: lud
   flag: FI.svg
+  forms: 400
+  lemmas: 124
   typology: agglutinative
   templatic: no
   type: living
@@ -1360,6 +1362,8 @@
 - name: Livvi
   iso: olo
   flag: FI.svg
+  forms: 3987
+  lemmas: 203
   typology: agglutinative
   templatic: no
   type: living
@@ -1368,6 +1372,8 @@
 - name: Veps (Vepsian)
   iso: vep
   flag: FI.svg
+  forms: 33196
+  leemas: 868
   typology: agglutinative
   templatic: no
   type: living
