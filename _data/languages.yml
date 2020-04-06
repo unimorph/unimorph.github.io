@@ -876,7 +876,7 @@
 
 - name: Georgian
   iso: kat
-  flag: BG.svg
+  flag: GE.svg
   forms: 74412
   paradigms: 3782
   nouns: yes
