@@ -1,7 +1,7 @@
 
 name: UniMorph
 
-description: Universal Morphological Annotation
+description: Schema and datasets for universal morphological annotation
 
 url: https://unimorph.github.io
 baseurl: ""
