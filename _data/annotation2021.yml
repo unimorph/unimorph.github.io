@@ -90,4 +90,59 @@
   apertium: no
   unimorph: no
 
+- name: Shipibo-Konibo
+  family: Panoan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Arturo Oncevay
+  apertium: no
+  unimorph: no
+
+- name: Stoney (Nakoda) 
+  family: Siouan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Tseltal
+  family: Mayan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Yanesha
+  family: Arawakan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Arturo Oncevay, Gema
+  apertium: no
+  unimorph: no
+
+- name: Yine
+  family: Arawakan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Arturo Oncevay, Gildo, Adriano
+  apertium: no
+  unimorph: no
+
+- name: Yucatec Maya
+  family: Mayan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Upper Necaxa Totonac
+  family:  Totozoquean
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: 
+  family:
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
 
