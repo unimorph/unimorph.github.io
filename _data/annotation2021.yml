@@ -139,10 +139,220 @@
   apertium: no
   unimorph: no
 
-- name: 
-  family:
-  group: https://groups.google.com/g/unimorph-american
+- name: Khmer
+  family: Austroasiatic
+  group:
+  annotators: Karolina Stanczak
+  apertium: no
+  unimorph: no
+
+- name: Vietnamese
+  family: Austroasiatic
+  group: 
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Ahamb
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Tihomir Rangelov
+  apertium: no
+  unimorph: no
+
+- name: Indonesian
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Clara Vania, Totok S, Radityo E. P., Alham F. A.
+  apertium: yes
+  unimorph: no
+
+- name: Kambera
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Yustinus Ghanggo Ate
+  apertium: no
+  unimorph: no
+
+- name: Kodi
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Yustinus Ghanggo Ate
+  apertium: no
+  unimorph: no
+
+- name: Lamaholot
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Yustinus Ghanggo Ate
+  apertium: no
+  unimorph: no
+
+- name: Malagasy
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
   annotators: Volunteer!
   apertium: no
   unimorph: no
+
+- name: Malay
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Tagalog
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Ryan Cotterell, Jennifer White
+  apertium: no
+  unimorph: ST2021
+
+
+- name: Tetum
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+
+- name: Wamesa
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Weyewa
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Yustinus Ghanggo Ate
+  apertium: no
+  unimorph: no
+
+- name: Weyewa
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Yustinus Ghanggo Ate
+  apertium: no
+  unimorph: no
+
+- name: Silesian
+  family:  Slavic
+  group: https://groups.google.com/g/unimorph-slavic/
+  annotators: Ekaterina Vylomova
+  apertium: yes
+  unimorph: no
+
+- name: Slovak
+  family:  Slavic
+  group: https://groups.google.com/g/unimorph-slavic/
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Chewa
+  family:  Niger-Congo/Bantu
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Kinyarwanda
+  family:  Niger-Congo/Bantu
+  group: TBA
+  annotators: Samuel Rutunda
+  apertium: no
+  unimorph: no
+
+- name: Kongo
+  family:  Niger-Congo
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Lingala
+  family:  Niger-Congo
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: ST2021
+
+- name: Luganda
+  family:  Niger-Congo
+  group: TBA
+  annotators: Edoardo Ponti
+  apertium: no
+  unimorph: ST2021
+
+- name: Medumba
+  family:  Niger-Congo
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Setswana
+  family:  Niger-Congo
+  group: TBA
+  annotators: Ryan Cotterell
+  apertium: no
+  unimorph: no
+
+- name: Shona
+  family:  Niger-Congo
+  group: TBA
+  annotators: Rowan Hall Maudslay
+  apertium: no
+  unimorph: no
+
+- name: Sotho
+  family:  Niger-Congo
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Sotho
+  family:  Niger-Congo/Bantu
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Swati
+  family: Niger-Congo/Bantu
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Wolof
+  family: Niger-Congo/Bantu
+  group: TBA
+  annotators: Ryan Cotterell
+  apertium: yes
+  unimorph: ST2021
+
+- name: Zulu
+  family:  Niger-Congo/Bantu
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: St2021
+
+
+
+- name: Khaling
+  family:  Sino-Tibetan
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+
+
 
