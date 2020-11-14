@@ -44,8 +44,8 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
 
   <table class="table table-responsive" id="annotation">
     <tr>
-      <th>Language</th>
-      <th>Family</th>
+      <th><strong>Language</strong></th>
+      <th><strong>Family</strong></th>
       <th style="text-align:right"><strong>Group</strong></th>
       <th style="text-align:right"><strong>Annotators</strong></th>
       <th style="text-align:right"><strong>Apertium</strong></th>
@@ -56,7 +56,7 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
     <tr>
     <td>{{ language.name }}</td>
     <td style="text-align:right">{{ language.family }}</td>
-    <td style="text-align:right">[{{ language.group }}]({{ language.group }})</td>
+    <td style="text-align:right"><a href="{{ language.group }}">{{ language.group }}</a></td>
     <td style="text-align:right">{{ language.annotators }}</td>
     <td style="text-align:right">{{ language.apertium }}</td>
     <td style="text-align:right">{{ language.unimorph }}</td>
