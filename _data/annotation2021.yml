@@ -6,6 +6,27 @@
   unimorph: no 
 
 
+- name: Arapaho 
+  family: Algic
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Xingyuan Zhao, Mans Hulden 
+  apertium: no
+  unimorph: no
+
+- name: Mohawk
+  family: Iroquoian
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Xingyuan Zhao
+  apertium: no
+  unimorph: no
+
+- name: Jaqaru
+  family: Aymaran
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Matt Coler, Eleanor Chodroff
+  apertium: no
+  unimorph: no
+
 - name: Cree  
   family: Algic
   group: https://groups.google.com/g/unimorph-american
@@ -414,6 +435,13 @@
   apertium: no
   unimorph: no
 
+- name: Inuktitut
+  family: Eskimo-Aleut
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Antonis Anastasopoulos
+  apertium: no
+  unimorph: no
+
 - name: Yiddish
   family: Indo-European
   group: TBA
@@ -561,6 +589,398 @@
   apertium: yes
   unimorph: no
 
+- name: Kunwinjku
+  family: Arnhem
+  group: https://groups.google.com/g/unimorph-australian
+  annotators: William Lane, Alexandra Markey
+  apertium: no
+  unimorph: no
+
+- name: Warlpiri
+  family: Pama–Nyungan
+  group: https://groups.google.com/g/unimorph-australian
+  annotators: Carmel O'Shannessy
+  apertium: no
+  unimorph: no
+
+- name: Light Warlpiri
+  family: Pama–Nyungan
+  group: https://groups.google.com/g/unimorph-australian
+  annotators: Carmel O'Shannessy
+  apertium: no
+  unimorph: no
+
+- name: Ende
+  family: Trans-Fly
+  group: https://groups.google.com/g/unimorph-australian
+  annotators: Kate Lindsey, Ekaterina Vylomova
+  apertium: no
+  unimorph: no
+
+- name: Aimele
+  family: Trans–New Guinea
+  group: https://groups.google.com/g/unimorph-australian
+  annotators: Grant Aiton
+  apertium: no
+  unimorph: no
+
+- name: Syriac
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Charbel El-Khaissi, Saliha Muradoglu
+  apertium: no
+  unimorph: no
+
+- name: Egyptian_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Salam Khalifa, Nizar Habash
+  apertium: no
+  unimorph: no
+
+- name: Gulf_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Salam Khalifa, Nizar Habash
+  apertium: no
+  unimorph: no
+
+- name: Levantine_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Salam Khalifa, Nizar Habash
+  apertium: no
+  unimorph: no
+
+- name: Standard_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Salam Khalifa, Nizar Habash
+  apertium: yes
+  unimorph: yes
+
+- name: Moroccan_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Badr Abdullah
+  apertium: no
+  unimorph: no
+
+- name: Yemeni_Arabic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Badr Abdullah
+  apertium: no
+  unimorph: no
+
+- name: Assyrian
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Antonis Anastasopoulos
+  apertium: no
+  unimorph: no
+
+- name: Maltese
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Claudia Borg, Clara Meister
+  apertium: yes
+  unimorph: no
+
+- name: Modern_Hebrew
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Omer Goldman, Yuval Pinter
+  apertium: yes
+  unimorph: yes
+
+- name: Tigrinya
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Adam Wiemerslage, Michael Gasser
+  apertium: no
+  unimorph: no
+
+- name: Tigrinya
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Tiago Pimentel, Adam Wiemerslage, Michael Gasser
+  apertium: no
+  unimorph: no
+
+- name: Akkadian
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Aramaic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Kikuyu
+  family: Niger-Congo/Bantu
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Kokborok
+  family: Sino-Tibetan
+  group: TBA
+  annotators: Ritesh Kumar
+  apertium: yes
+  unimorph: no
+
+- name: Evenki
+  family: Tungusic
+  group: https://groups.google.com/g/unimorph-tungusic
+  annotators: Elena Klyachko, Karina Mischenkova, Jason Xu, Eleanor Chodroff
+  apertium: yes
+  unimorph: yes
+
+- name: Nanai
+  family: Tungusic
+  group: https://groups.google.com/g/unimorph-tungusic
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Xibe
+  family: Tungusic
+  group: https://groups.google.com/g/unimorph-tungusic
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Azerbaijani
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Buryat
+  family: Mongolic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Gagauz
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Sevilay Bayatlı (?), Maria Ryskina
+  apertium: yes
+  unimorph: no
+
+- name: Kazakh
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Aibek Makazhanov, Maria Ryskina
+  apertium: yes
+  unimorph: no
+
+- name: Kumyk
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Mongolian
+  family: Mongolic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Nogai
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Northern Azerbaijani
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Oirat
+  family: Mongolic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Ottoman_Turkish
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Tuvan
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Maria Ryskina
+  apertium: yes
+  unimorph: no
+
+- name: Sakha
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Sardana Ivanova (?), Anisia Katinskaia (?), Maria Ryskina
+  apertium: yes
+  unimorph: no
+
+- name: Southern_Altay
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Uyghur
+  family: Turkic
+  group: https://groups.google.com/g/unimorph-turkic-mong
+  annotators: Jason Xu, Eleanor Chodroff
+  apertium: yes
+  unimorph: no
+
+- name: Karelian
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  apertium: yes
+  unimorph: yes
+
+- name: Kven
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Mans Hulden
+  apertium: no
+  unimorph: no
+
+- name: Mari
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+
+- name: Nenets
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Nganasan
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Selkup
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Elena Klyachko
+  apertium: no
+  unimorph: no
+
+- name: Udmurt
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Võro
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Ekaterina Vylomova
+  apertium: yes
+  unimorph: ST2021
+
+- name: Livvi
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  apertium: yes
+  unimorph: yes
+
+- name: Ludian
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  apertium: no
+  unimorph: yes
+
+- name: Veps
+  family: Uralic
+  group: https://groups.google.com/g/unimorph-uralic
+  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  apertium: no
+  unimorph: yes
+
+- name: Nivkh
+  family: Isolate
+  group: 
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
+- name: Okinawan
+  family: Japonic
+  group: TBA
+  annotators: Jennifer White
+  apertium: no
+  unimorph: no
+
+- name: Japanese
+  family: Japonic
+  group: TBA
+  annotators: Jennifer White
+  apertium: yes
+  unimorph: no
+
+- name: Guarani
+  family: Tupian
+  group: TBA
+  annotators: Adam Wiemerslage
+  apertium: yes
+  unimorph: no
+
+- name: Ainu
+  family: Ainu
+  group: TBA
+  annotators: Jennifer White
+  apertium: no
+  unimorph: no
+
+- name: Wolaytta
+  family: Afro-Asiatic
+  group: TBA
+  annotators: Ryan Cotterell
+  apertium: yes
+  unimorph: no
+
+- name: Sahidic_Coptic
+  family: Afro-Asiatic
+  group: TBA
+  annotators: Mans Hulden
+  apertium: yes
+  unimorph: no
 
 - name: Khaling
   family:  Sino-Tibetan
