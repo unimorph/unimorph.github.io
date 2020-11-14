@@ -56,7 +56,7 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
     <tr>
     <td>{{ language.name }}</td>
     <td style="text-align:right">{{ language.family }}</td>
-    <td style="text-align:right font-size: 10px"">[{{ language.group }}]({{ language.group }})</td>
+    <td style="text-align:right">[{{ language.group }}]({{ language.group }})</td>
     <td style="text-align:right">{{ language.annotators }}</td>
     <td style="text-align:right">{{ language.apertium }}</td>
     <td style="text-align:right">{{ language.unimorph }}</td>
