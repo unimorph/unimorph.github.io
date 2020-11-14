@@ -1,5 +1,5 @@
 - name: Ashaninka
-  family:
+  family: Arawakan
   group: https://groups.google.com/g/unimorph-american
   annotators: Arturo Oncevay, Jaime 
   apertium: no
@@ -11,5 +11,5 @@
   group: https://groups.google.com/g/unimorph-american
   annotators: Eleanor Chodroff 
   apertium: no
-  unimorph: yes,ST2021
+  unimorph: ST2021
 
