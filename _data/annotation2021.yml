@@ -13,3 +13,60 @@
   apertium: no
   unimorph: ST2021
 
+- name: Dakota  
+  family: Siouan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Eleanor Chodroff 
+  apertium: no
+  unimorph: ST2021
+
+- name: Kwak’wala
+  family: Wakashan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Antonis Anastasopoulos 
+  apertium: no
+  unimorph: no
+
+- name: Kʼicheʼ 
+  family: Mayan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Lakota
+  family: Siouan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Xingyuan Zhao, Mans Hulden
+  apertium: yes
+  unimorph: no
+
+- name: Lushootseed
+  family: Salishan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Tiago Pimentel
+  apertium: no
+  unimorph: no
+
+- name: Mapudungun
+  family: Araucanian
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Antonis Anastasopoulos
+  apertium: no
+  unimorph: no
+
+- name: Odawa
+  family: Algic
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Ryan Cotterell
+  apertium: no
+  unimorph: no
+
+- name: Papago (O'odham)
+  family: Uto-Aztecan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Eleanor Chodroff, Antonis Anastasopoulos
+  apertium: no
+  unimorph: ST2021
+
+
