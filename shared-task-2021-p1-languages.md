@@ -38,7 +38,7 @@ layout: default
 
 The following {{ site.data.annotation2021 | size }} languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
 
-{% assign sorted_langs = site.data.annotation2021 | sort:"name" %}
+{% assign sorted_langs = site.data.annotation2021 | sort:"family" %}
 
 <div class="table-wrapper" markdown="block" style="overflow-x: scroll">
 
