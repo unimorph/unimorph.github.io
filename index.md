@@ -42,7 +42,7 @@ Plus, we're now available in a [Python package](https://pypi.org/project/unimorp
 
 ## UniMorph Events
 
-- [SIGMORPHON 2020 Shared Task](https://sigmorphon.github.io/sharedtasks/2020/task1/)
+- [SIGMORPHON 2020 Shared Task](https://sigmorphon.github.io/sharedtasks/2020/task0/)
 - [SIGMORPHON 2019 Shared Task](https://sigmorphon.github.io/sharedtasks/2019/)
 - [CoNLL–SIGMORPHON 2018 Shared Task](https://sigmorphon.github.io/sharedtasks/2018/)
 - [CoNLL–SIGMORPHON 2017 Shared Task](https://sigmorphon.github.io/sharedtasks/2017/)
