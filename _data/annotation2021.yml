@@ -1,0 +1,15 @@
+- name: Ashaninka
+  family:
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Arturo Oncevay, Jaime 
+  apertium: no
+  unimorph: no 
+
+
+- name: Cree  
+  family: Algic
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Eleanor Chodroff 
+  apertium: no
+  unimorph: yes,ST2021
+
