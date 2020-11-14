@@ -232,22 +232,15 @@
   apertium: no
   unimorph: no
 
-- name: Weyewa
-  family:  Austronesian
-  group: https://groups.google.com/g/unimorph-austronesian
-  annotators: Yustinus Ghanggo Ate
-  apertium: no
-  unimorph: no
-
 - name: Silesian
-  family:  Slavic
+  family:  Indo-European
   group: https://groups.google.com/g/unimorph-slavic/
   annotators: Ekaterina Vylomova
   apertium: yes
   unimorph: no
 
 - name: Slovak
-  family:  Slavic
+  family:  Indo-European
   group: https://groups.google.com/g/unimorph-slavic/
   annotators: Volunteer!
   apertium: yes
@@ -342,8 +335,231 @@
   group: TBA
   annotators: Volunteer!
   apertium: yes
-  unimorph: St2021
+  unimorph: ST2021
 
+- name: Adyghe
+  family: Northwest Caucasian
+  group: TBA
+  annotators: Ekaterina Vylomova
+  apertium: yes
+  unimorph: no
+
+- name: Georgian
+  family: Kartvelian
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Kabardian
+  family: Northwest Caucasian
+  group: TBA
+  annotators: Ekaterina Vylomova
+  apertium: yes
+  unimorph: yes
+
+- name: Mehweb Dargwa
+  family: Northeast Caucasian
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Bagvalal
+  family: Northeast Caucasian
+  group: TBA
+  annotators: Alexey Sorokin, Svetlana Toldova
+  apertium: no
+  unimorph: no
+
+- name: Tsez
+  family: Northeast Caucasian
+  group: TBA
+  annotators: Daniel Wilson, Nicholas Howell
+  apertium: no
+  unimorph: no
+
+- name: Malayalam
+  family: Dravidian
+  group: TBA
+  annotators: Sai Prasanna
+  apertium: yes
+  unimorph: no
+
+- name: Tamil
+  family: Dravidian
+  group: TBA
+  annotators: Sai Prasanna
+  apertium: yes
+  unimorph: no
+
+- name: Telugu
+  family: Dravidian
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Greenlandic
+  family: Eskimo-Aleut
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Ryan Cotterell, Mans Hulden
+  apertium: no
+  unimorph: yes
+
+- name: Central Siberian Yupik
+  family: Eskimo-Aleut
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Antonis Anastasopoulos
+  apertium: no
+  unimorph: no
+
+- name: Yiddish
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Middle Low German
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: yes
+
+- name: Middle High German
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: yes
+
+- name: West Frisian
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: no
+  unimorph: yes
+
+- name: Norwegian Bokmål
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Norwegian Nynorsk
+  family: Indo-European
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: yes
+
+- name: Eastern Armenian
+  family: Indo-European
+  group: TBA
+  annotators: Marat M. Yavrumyan
+  apertium: yes
+  unimorph: yes
+
+- name: Bengali
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Ritesh Kumar
+  apertium: yes
+  unimorph: yes
+
+- name: Gujarati
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aakanksha Naik, Ritesh Kumar
+  apertium: yes
+  unimorph: yes
+
+- name: Konkani
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aakanksha Naik, Sanjay Kamath
+  apertium: yes
+  unimorph: no
+
+- name: Marathi
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aakanksha Naik, Ritesh Kumar
+  apertium: yes
+  unimorph: no
+
+- name: Nepali
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Oyesh Mann Singh, Sushil Awale
+  apertium: no
+  unimorph: no
+
+- name: Punjabi
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Singhi
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aakanksha Naik
+  apertium: yes
+  unimorph: no
+
+- name: Sinhala
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Torwali
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aakanksha Naik, Ritesh Kumar
+  apertium: yes
+  unimorph: no
+
+- name: Vlax Romani
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
+- name: Magahi
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Ritesh Kumar
+  apertium: no
+  unimorph: no
+
+- name: Bhojpuri
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Ritesh Kumar
+  apertium: no
+  unimorph: no
+
+- name: Braj
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Ritesh Kumar
+  apertium: no
+  unimorph: no
+
+- name: Ossetian
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-iranian
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
 
 
 - name: Khaling
