@@ -36,7 +36,8 @@ layout: default
 
 ## Annotated Languages
 
-The following {{ site.data.annotation2021 | size }} languages have been annotated according to the UniMorph schema. Missing parts of speech will be filled in soon.
+The following {{ site.data.annotation2021 | size }} languages will soon be annotated according to the UniMorph schema. If you work on or speak any of these languages and would like to contribute, please join the corresponding Google Group! 
+Each Google Group contains links to detailed instructions and a shared Google drive folder to store the data.
 
 {% assign sorted_langs = site.data.annotation2021 | sort:"family" %}
 
@@ -46,7 +47,7 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
     <tr>
       <th><strong>Language</strong></th>
       <th><strong>Family</strong></th>
-      <th style="text-align:right"><strong>Group</strong></th>
+      <th style="text-align:right"><strong>Working Group</strong></th>
       <th style="text-align:right"><strong>Annotators</strong></th>
       <th style="text-align:right"><strong>Apertium</strong></th>
       <th style="text-align:right"><strong>UniMorph</strong></th>
