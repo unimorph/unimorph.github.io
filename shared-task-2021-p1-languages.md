@@ -54,7 +54,7 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
 
     {% for language in sorted_langs %}
     <tr>
-    <td>{{ language.name }}</td>
+    <td><a href="https://en.wikipedia.org/wiki/{{ language.name }}_language">{{ language.name }}</a></td>
     <td style="text-align:right">{{ language.family }}</td>
     <td style="text-align:right"><a href="{{ language.group }}">{{ language.group }}</a></td>
     <td style="text-align:right">{{ language.annotators }}</td>
