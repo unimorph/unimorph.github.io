@@ -69,4 +69,25 @@
   apertium: no
   unimorph: ST2021
 
+- name: Passamaquoddy-Maliseet
+  family: Algic
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Ryan Cotterell, Eleanor Chodroff
+  apertium: no
+  unimorph: no
+
+- name: Quechua
+  family: Quechuan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Elizabeth Salesky, Arturo Oncevay
+  apertium: yes
+  unimorph: no
+
+- name: Sarsi (Tsuutina)
+  family: Athabaskan
+  group: https://groups.google.com/g/unimorph-american
+  annotators: Volunteer!
+  apertium: no
+  unimorph: no
+
 
