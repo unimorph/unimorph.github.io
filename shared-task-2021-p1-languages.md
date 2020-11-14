@@ -46,17 +46,17 @@ The following {{ site.data.annotation2021 | size }} languages have been annotate
     <tr>
       <th>Language</th>
       <th>Family</th>
-      <th style="text-align:right">Group</th>
-      <th style="text-align:right">Annotators</th>
-      <th style="text-align:right">Apertium</th>
-      <th style="text-align:right">UniMorph</th>
+      <th style="text-align:right"><strong>Group</strong></th>
+      <th style="text-align:right"><strong>Annotators</strong></th>
+      <th style="text-align:right"><strong>Apertium</strong></th>
+      <th style="text-align:right"><strong>UniMorph</strong></th>
     </tr>
 
     {% for language in sorted_langs %}
     <tr>
     <td>{{ language.name }}</td>
     <td style="text-align:right">{{ language.family }}</td>
-    <td style="text-align:right">{{ language.group }}</td>
+    <td style="text-align:right font-size: 10px"">[{{ language.group }}]({{ language.group }})</td>
     <td style="text-align:right">{{ language.annotators }}</td>
     <td style="text-align:right">{{ language.apertium }}</td>
     <td style="text-align:right">{{ language.unimorph }}</td>
