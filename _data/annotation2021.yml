@@ -782,14 +782,14 @@
 - name: Nanai
   family: Tungusic
   group: https://groups.google.com/g/unimorph-tungusic
-  annotators: Volunteer!
+  annotators: Elena Klyachko
   apertium: yes
   unimorph: no
 
 - name: Xibe
   family: Tungusic
   group: https://groups.google.com/g/unimorph-tungusic
-  annotators: Volunteer!
+  annotators: Elena Klyachko
   apertium: yes
   unimorph: no
 
