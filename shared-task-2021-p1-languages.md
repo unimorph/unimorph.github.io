@@ -36,8 +36,8 @@ layout: default
 
 ## Annotated Languages
 
-The following {{ site.data.annotation2021 | size }} languages will soon be annotated according to the UniMorph schema. If you work on or speak any of these languages and would like to contribute, please join the corresponding Google Group! 
-Each Google Group contains links to detailed instructions and a shared Google drive folder to store the data.
+The following {{ site.data.annotation2021 | size }} languages will soon be annotated according to the UniMorph schema. If you work on or speak any of these languages and would like to contribute, please join the corresponding Google Group! For most languages we have data from existing FS analyzers or grammar books. Francis Tyers will help us to work with Apertium data.
+Each Google Group contains links to detailed instructions and a shared Google drive folder to store the data. Some groups are still missing but will be created shortly. 
 
 {% assign sorted_langs = site.data.annotation2021 | sort:"family" %}
 
