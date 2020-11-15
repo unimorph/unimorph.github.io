@@ -162,8 +162,15 @@
 
 - name: Khmer
   family: Austroasiatic
-  group:
+  group: TBA
   annotators: Karolina Stanczak
+  apertium: no
+  unimorph: no
+
+- name: Khasi
+  family: Austroasiatic
+  group: TBA
+  annotators: Ritesh Kumar
   apertium: no
   unimorph: no
 
@@ -185,6 +192,14 @@
   family:  Austronesian
   group: https://groups.google.com/g/unimorph-austronesian
   annotators: Clara Vania, Totok S, Radityo E. P., Alham F. A.
+  apertium: no
+  unimorph: no
+
+
+- name: Javanese
+  family:  Austronesian
+  group: https://groups.google.com/g/unimorph-austronesian
+  annotators: Clara Vania, Totok Suhardijanto
   apertium: yes
   unimorph: no
 
@@ -351,6 +366,13 @@
   apertium: yes
   unimorph: ST2021
 
+- name: Yoruba
+  family: Niger-Congo
+  group: TBA
+  annotators: Volunteer!
+  apertium: yes
+  unimorph: no
+
 - name: Zulu
   family:  Niger-Congo/Bantu
   group: TBA
@@ -488,6 +510,13 @@
   family: Indo-European
   group: TBA
   annotators: Marat M. Yavrumyan
+  apertium: yes
+  unimorph: yes
+
+- name: Latin
+  family: Indo-European
+  group: TBA
+  annotators: Xingyuan Zhao, Jared Desjardins
   apertium: yes
   unimorph: yes
 
@@ -778,6 +807,13 @@
   apertium: yes
   unimorph: no
 
+- name: Chukchi
+  family: Chukotko-Kamchatkan
+  group: TBA
+  annotators: Maria Ryskina
+  apertium: yes
+  unimorph: no
+
 - name: Gagauz
   family: Turkic
   group: https://groups.google.com/g/unimorph-turkic-mong
@@ -961,6 +997,13 @@
   apertium: yes
   unimorph: no
 
+- name: Tokunoshima
+  family: Japonic
+  group: TBA
+  annotators: Ryan Cotterell
+  apertium: no
+  unimorph: no
+
 - name: Guarani
   family: Tupian
   group: TBA
@@ -972,6 +1015,13 @@
   family: Ainu
   group: TBA
   annotators: Jennifer White
+  apertium: no
+  unimorph: no
+
+- name: Amazigh
+  family: Afro-Asiatic
+  group: TBA
+  annotators: Volunteer!
   apertium: no
   unimorph: no
 
