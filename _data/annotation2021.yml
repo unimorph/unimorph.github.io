@@ -431,7 +431,7 @@
 - name: Central Siberian Yupik
   family: Eskimo-Aleut
   group: https://groups.google.com/g/unimorph-american
-  annotators: Antonis Anastasopoulos
+  annotators: Lane Schwartz, Antonis Anastasopoulos, Aakanksha Naik, Ritesh Kumar
   apertium: no
   unimorph: no
 
@@ -532,6 +532,13 @@
   annotators: Volunteer!
   apertium: yes
   unimorph: no
+
+- name: Sanskrit
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Luke Hartwig
+  apertium: yes
+  unimorph: yes
 
 - name: Singhi
   family: Indo-European
@@ -739,7 +746,7 @@
 - name: Evenki
   family: Tungusic
   group: https://groups.google.com/g/unimorph-tungusic
-  annotators: Elena Klyachko, Karina Mischenkova, Jason Xu, Eleanor Chodroff
+  annotators: Elena Klyachko, Karina Mishchenkova, Jason Xu, Eleanor Chodroff
   apertium: yes
   unimorph: yes
 
