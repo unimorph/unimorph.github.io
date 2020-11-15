@@ -624,6 +624,13 @@
   apertium: no
   unimorph: no
 
+- name: Amharic
+  family: Semitic
+  group: https://groups.google.com/g/unimorph-semitic/
+  annotators: Binyam Ephrem, Tiago Pimentel, Adam Wiemerslage, Michael Gasser
+  apertium: no
+  unimorph: no
+
 - name: Syriac
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
