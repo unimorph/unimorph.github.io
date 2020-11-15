@@ -708,13 +708,6 @@
   apertium: no
   unimorph: no
 
-- name: Tigrinya
-  family: Semitic
-  group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Tiago Pimentel, Adam Wiemerslage, Michael Gasser
-  apertium: no
-  unimorph: no
-
 - name: Akkadian
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
