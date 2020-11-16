@@ -32,14 +32,14 @@
   group: https://groups.google.com/g/unimorph-american
   annotators: Eleanor Chodroff 
   apertium: no
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Dakota  
   family: Siouan
   group: https://groups.google.com/g/unimorph-american
   annotators: Eleanor Chodroff 
   apertium: no
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Kwak’wala
   family: Wakashan
@@ -88,7 +88,7 @@
   group: https://groups.google.com/g/unimorph-american
   annotators: Eleanor Chodroff<br/>Antonis Anastasopoulos
   apertium: no
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Passamaquoddy-Maliseet
   family: Algic
@@ -243,7 +243,7 @@
   group: https://groups.google.com/g/unimorph-austronesian
   annotators: Ryan Cotterell<br/>Jennifer White
   apertium: no
-  unimorph: ST2021
+  unimorph: ST2020
 
 
 - name: Tetum
@@ -287,7 +287,7 @@
   group: TBA
   annotators: Volunteer!
   apertium: no
-  unimorph: no
+  unimorph: ST2020
 
 - name: Kinyarwanda
   family:  Niger-Congo/Bantu
@@ -299,23 +299,23 @@
 - name: Kongo
   family:  Niger-Congo
   group: TBA
-  annotators: Volunteer!
+  annotators: Jennifer White
   apertium: no
-  unimorph: no
+  unimorph: ST2020
 
 - name: Lingala
   family:  Niger-Congo
   group: TBA
   annotators: Volunteer!
   apertium: yes
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Luganda
   family:  Niger-Congo
   group: TBA
   annotators: Edoardo Ponti
   apertium: no
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Medumba
   family:  Niger-Congo
@@ -336,21 +336,14 @@
   group: TBA
   annotators: Rowan Hall Maudslay
   apertium: no
-  unimorph: no
-
-- name: Sotho
-  family:  Niger-Congo
-  group: TBA
-  annotators: Volunteer!
-  apertium: no
-  unimorph: no
+  unimorph: ST2020
 
 - name: Sotho
   family:  Niger-Congo/Bantu
   group: TBA
   annotators: Volunteer!
   apertium: no
-  unimorph: no
+  unimorph: ST2020
 
 - name: Swati
   family: Niger-Congo/Bantu
@@ -364,7 +357,7 @@
   group: TBA
   annotators: Ryan Cotterell
   apertium: yes
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Yoruba
   family: Niger-Congo
@@ -378,7 +371,7 @@
   group: TBA
   annotators: Ling Liu
   apertium: yes
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Adyghe
   family: Northwest Caucasian
@@ -974,7 +967,7 @@
   group: https://groups.google.com/g/unimorph-uralic
   annotators: Ekaterina Vylomova
   apertium: yes
-  unimorph: ST2021
+  unimorph: ST2020
 
 - name: Livvi
   family: Uralic
