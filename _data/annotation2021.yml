@@ -821,6 +821,13 @@
   apertium: yes
   unimorph: no
 
+- name: Itelmen
+  family: Chukotko-Kamchatkan
+  group: TBA
+  annotators: Karina Mishchenkova
+  apertium: no
+  unimorph: no
+
 - name: Chukchi
   family: Chukotko-Kamchatkan
   group: TBA
