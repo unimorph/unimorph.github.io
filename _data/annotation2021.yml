@@ -1,7 +1,7 @@
 - name: Ashaninka
   family: Arawakan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Arturo Oncevay, Jaime 
+  annotators: Arturo Oncevay<br/>Jaime 
   apertium: no
   unimorph: no 
 
@@ -9,7 +9,7 @@
 - name: Arapaho 
   family: Algic
   group: https://groups.google.com/g/unimorph-american
-  annotators: Xingyuan Zhao, Mans Hulden 
+  annotators: Xingyuan Zhao<br/>Mans Hulden 
   apertium: no
   unimorph: no
 
@@ -23,7 +23,7 @@
 - name: Jaqaru
   family: Aymaran
   group: https://groups.google.com/g/unimorph-american
-  annotators: Matt Coler, Eleanor Chodroff
+  annotators: Matt Coler<br/>Eleanor Chodroff
   apertium: no
   unimorph: no
 
@@ -58,7 +58,7 @@
 - name: Lakota
   family: Siouan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Xingyuan Zhao, Mans Hulden
+  annotators: Xingyuan Zhao<br/>Mans Hulden
   apertium: yes
   unimorph: no
 
@@ -86,21 +86,21 @@
 - name: Papago (O'odham)
   family: Uto-Aztecan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Eleanor Chodroff, Antonis Anastasopoulos
+  annotators: Eleanor Chodroff<br/>Antonis Anastasopoulos
   apertium: no
   unimorph: ST2021
 
 - name: Passamaquoddy-Maliseet
   family: Algic
   group: https://groups.google.com/g/unimorph-american
-  annotators: Ryan Cotterell, Eleanor Chodroff
+  annotators: Ryan Cotterell<br/>Eleanor Chodroff
   apertium: no
   unimorph: no
 
 - name: Quechua
   family: Quechuan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Elizabeth Salesky, Arturo Oncevay
+  annotators: Elizabeth Salesky<br/>Arturo Oncevay
   apertium: yes
   unimorph: no
 
@@ -135,14 +135,14 @@
 - name: Yanesha
   family: Arawakan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Arturo Oncevay, Gema
+  annotators: Arturo Oncevay<br/>Gema
   apertium: no
   unimorph: no
 
 - name: Yine
   family: Arawakan
   group: https://groups.google.com/g/unimorph-american
-  annotators: Arturo Oncevay, Gildo, Adriano
+  annotators: Arturo Oncevay<br/>Gildo<br/>Adriano
   apertium: no
   unimorph: no
 
@@ -191,7 +191,7 @@
 - name: Indonesian
   family:  Austronesian
   group: https://groups.google.com/g/unimorph-austronesian
-  annotators: Clara Vania, Totok S, Radityo E. P., Alham F. A.
+  annotators: Clara Vania<br/>Totok S<br/>Radityo E. P.<br/>Alham F. A.
   apertium: no
   unimorph: no
 
@@ -241,7 +241,7 @@
 - name: Tagalog
   family:  Austronesian
   group: https://groups.google.com/g/unimorph-austronesian
-  annotators: Ryan Cotterell, Jennifer White
+  annotators: Ryan Cotterell<br/>Jennifer White
   apertium: no
   unimorph: ST2021
 
@@ -411,14 +411,14 @@
 - name: Bagvalal
   family: Northeast Caucasian
   group: TBA
-  annotators: Alexey Sorokin, Svetlana Toldova
+  annotators: Alexey Sorokin<br/>Svetlana Toldova
   apertium: no
   unimorph: no
 
 - name: Tsez
   family: Northeast Caucasian
   group: TBA
-  annotators: Daniel Wilson, Nicholas Howell
+  annotators: Daniel Wilson<br/>Nicholas Howell
   apertium: no
   unimorph: no
 
@@ -446,14 +446,14 @@
 - name: Greenlandic
   family: Eskimo-Aleut
   group: https://groups.google.com/g/unimorph-american
-  annotators: Ryan Cotterell, Mans Hulden
+  annotators: Ryan Cotterell<br/>Mans Hulden
   apertium: no
   unimorph: yes
 
 - name: Central Siberian Yupik
   family: Eskimo-Aleut
   group: https://groups.google.com/g/unimorph-american
-  annotators: Lane Schwartz, Antonis Anastasopoulos, Aakanksha Naik, Ritesh Kumar
+  annotators: Lane Schwartz<br/>Antonis Anastasopoulos<br/>Aakanksha Naik<br/>Ritesh Kumar
   apertium: no
   unimorph: no
 
@@ -516,7 +516,7 @@
 - name: Latin
   family: Indo-European
   group: TBA
-  annotators: Xingyuan Zhao, Jared Desjardins
+  annotators: Xingyuan Zhao<br/>Jared Desjardins
   apertium: yes
   unimorph: yes
 
@@ -530,28 +530,28 @@
 - name: Gujarati
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Aakanksha Naik, Ritesh Kumar
+  annotators: Aakanksha Naik<br/>Ritesh Kumar
   apertium: yes
   unimorph: yes
 
 - name: Konkani
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Aakanksha Naik, Sanjay Kamath
+  annotators: Aakanksha Naik<br/>Sanjay Kamath
   apertium: yes
   unimorph: no
 
 - name: Marathi
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Aakanksha Naik, Ritesh Kumar
+  annotators: Aakanksha Naik<br/>Ritesh Kumar
   apertium: yes
   unimorph: no
 
 - name: Nepali
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Oyesh Mann Singh, Sushil Awale
+  annotators: Oyesh Mann Singh<br/>Sushil Awale
   apertium: no
   unimorph: no
 
@@ -586,7 +586,7 @@
 - name: Torwali
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Aakanksha Naik, Ritesh Kumar
+  annotators: Aakanksha Naik<br/>Ritesh Kumar
   apertium: yes
   unimorph: no
 
@@ -628,7 +628,7 @@
 - name: Kunwinjku
   family: Arnhem
   group: https://groups.google.com/g/unimorph-australian
-  annotators: William Lane, Steven Bird, Alexandra Marley
+  annotators: William Lane<br/>Steven Bird<br/>Alexandra Marley
   apertium: no
   unimorph: no
 
@@ -649,7 +649,7 @@
 - name: Ende
   family: Trans-Fly
   group: https://groups.google.com/g/unimorph-australian
-  annotators: Kate Lindsey, Ekaterina Vylomova
+  annotators: Kate Lindsey<br/>Ekaterina Vylomova
   apertium: no
   unimorph: no
 
@@ -663,42 +663,42 @@
 - name: Amharic
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Binyam Ephrem, Tiago Pimentel, Adam Wiemerslage, Michael Gasser
+  annotators: Binyam Ephrem<br/>Tiago Pimentel<br/>Adam Wiemerslage<br/>Michael Gasser
   apertium: no
   unimorph: no
 
 - name: Syriac
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Charbel El-Khaissi, Saliha Muradoglu
+  annotators: Charbel El-Khaissi<br/>Saliha Muradoglu
   apertium: no
   unimorph: no
 
 - name: Egyptian_Arabic
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Salam Khalifa, Nizar Habash
+  annotators: Salam Khalifa<br/>Nizar Habash
   apertium: no
   unimorph: no
 
 - name: Gulf_Arabic
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Salam Khalifa, Nizar Habash
+  annotators: Salam Khalifa<br/>Nizar Habash
   apertium: no
   unimorph: no
 
 - name: Levantine_Arabic
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Salam Khalifa, Nizar Habash
+  annotators: Salam Khalifa<br/>Nizar Habash
   apertium: no
   unimorph: no
 
 - name: Standard_Arabic
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Salam Khalifa, Nizar Habash
+  annotators: Salam Khalifa<br/>Nizar Habash
   apertium: yes
   unimorph: yes
 
@@ -726,21 +726,21 @@
 - name: Maltese
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Claudia Borg, Clara Meister
+  annotators: Claudia Borg<br/>Clara Meister
   apertium: yes
   unimorph: no
 
 - name: Modern_Hebrew
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Omer Goldman, Yuval Pinter
+  annotators: Omer Goldman<br/>Yuval Pinter
   apertium: yes
   unimorph: yes
 
 - name: Tigrinya
   family: Semitic
   group: https://groups.google.com/g/unimorph-semitic/
-  annotators: Adam Wiemerslage, Michael Gasser
+  annotators: Adam Wiemerslage<br/>Michael Gasser
   apertium: no
   unimorph: no
 
@@ -775,7 +775,7 @@
 - name: Evenki
   family: Tungusic
   group: https://groups.google.com/g/unimorph-tungusic
-  annotators: Elena Klyachko, Karina Mishchenkova, Jason Xu, Eleanor Chodroff
+  annotators: Elena Klyachko<br/>Karina Mishchenkova<br/>Jason Xu<br/>Eleanor Chodroff
   apertium: yes
   unimorph: yes
 
@@ -817,14 +817,14 @@
 - name: Gagauz
   family: Turkic
   group: https://groups.google.com/g/unimorph-turkic-mong
-  annotators: Sevilay Bayatlı (?), Maria Ryskina
+  annotators: Sevilay Bayatlı (?)<br/>Maria Ryskina
   apertium: yes
   unimorph: no
 
 - name: Kazakh
   family: Turkic
   group: https://groups.google.com/g/unimorph-turkic-mong
-  annotators: Aibek Makazhanov, Maria Ryskina
+  annotators: Aibek Makazhanov<br/>Maria Ryskina
   apertium: yes
   unimorph: no
 
@@ -880,7 +880,7 @@
 - name: Sakha
   family: Turkic
   group: https://groups.google.com/g/unimorph-turkic-mong
-  annotators: Sardana Ivanova (?), Anisia Katinskaia (?), Maria Ryskina
+  annotators: Sardana Ivanova (?)<br/>Anisia Katinskaia (?)<br/>Maria Ryskina
   apertium: yes
   unimorph: no
 
@@ -894,14 +894,14 @@
 - name: Uyghur
   family: Turkic
   group: https://groups.google.com/g/unimorph-turkic-mong
-  annotators: Jason Xu, Eleanor Chodroff
+  annotators: Jason Xu<br/>Eleanor Chodroff
   apertium: yes
   unimorph: no
 
 - name: Karelian
   family: Uralic
   group: https://groups.google.com/g/unimorph-uralic
-  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  annotators: Andrey Krizhanovsky<br/>Natalia Krizhanovsky 
   apertium: yes
   unimorph: yes
 
@@ -958,21 +958,21 @@
 - name: Livvi
   family: Uralic
   group: https://groups.google.com/g/unimorph-uralic
-  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  annotators: Andrey Krizhanovsky<br/>Natalia Krizhanovsky 
   apertium: yes
   unimorph: yes
 
 - name: Ludian
   family: Uralic
   group: https://groups.google.com/g/unimorph-uralic
-  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  annotators: Andrey Krizhanovsky<br/>Natalia Krizhanovsky 
   apertium: no
   unimorph: yes
 
 - name: Veps
   family: Uralic
   group: https://groups.google.com/g/unimorph-uralic
-  annotators: Andrey Krizhanovsky, Natalia Krizhanovsky 
+  annotators: Andrey Krizhanovsky<br/>Natalia Krizhanovsky 
   apertium: no
   unimorph: yes
 
