@@ -46,9 +46,9 @@ Each Google Group contains links to detailed instructions and a shared Google dr
   <table class="table table-responsive" id="annotation" style="width: 100%">
     <colgroup>
         <col span="1" style="width: 10%;">
-	<col span="1" style="width: 20%;">
+	<col span="1" style="width: 15%;">
         <col span="1" style="width: 30%;">
-	<col span="1" style="width: 30%;">
+	<col span="1" style="width: 35%;">
         <col span="1" style="width: 5%;">
 	<col span="1" style="width: 5%;">
     </colgroup>
