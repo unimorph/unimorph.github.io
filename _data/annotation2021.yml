@@ -199,7 +199,7 @@
 - name: Javanese
   family:  Austronesian
   group: https://groups.google.com/g/unimorph-austronesian
-  annotators: Clara Vania, Totok Suhardijanto
+  annotators: Clara Vania <br/> Totok Suhardijanto
   apertium: yes
   unimorph: no
 
@@ -376,7 +376,7 @@
 - name: Zulu
   family:  Niger-Congo/Bantu
   group: TBA
-  annotators: Volunteer!
+  annotators: Ling Liu
   apertium: yes
   unimorph: ST2021
 
