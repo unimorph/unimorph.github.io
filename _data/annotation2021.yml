@@ -284,91 +284,91 @@
 
 - name: Chewa
   family:  Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: no
   unimorph: ST2020
 
 - name: Kinyarwanda
   family:  Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Samuel Rutunda
   apertium: no
   unimorph: no
 
 - name: Kongo
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Jennifer White
   apertium: no
   unimorph: ST2020
 
 - name: Lingala
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: yes
   unimorph: ST2020
 
 - name: Luganda
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Edoardo Ponti
   apertium: no
   unimorph: ST2020
 
 - name: Medumba
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: yes
   unimorph: no
 
 - name: Setswana
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Ryan Cotterell
   apertium: no
   unimorph: no
 
 - name: Shona
   family:  Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Rowan Hall Maudslay
   apertium: no
   unimorph: ST2020
 
 - name: Sotho
   family:  Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: no
   unimorph: ST2020
 
 - name: Swati
   family: Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: yes
   unimorph: no
 
 - name: Wolof
   family: Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Ryan Cotterell
   apertium: yes
   unimorph: ST2020
 
 - name: Yoruba
   family: Niger-Congo
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: yes
   unimorph: no
 
 - name: Zulu
   family:  Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Ling Liu
   apertium: yes
   unimorph: ST2020
@@ -767,7 +767,7 @@
 
 - name: Kikuyu
   family: Niger-Congo/Bantu
-  group: TBA
+  group: https://groups.google.com/g/unimorph-niger-congo
   annotators: Volunteer!
   apertium: yes
   unimorph: no
