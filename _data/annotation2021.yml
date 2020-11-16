@@ -527,6 +527,13 @@
   apertium: yes
   unimorph: yes
 
+- name: Hindi
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aryaman Arora
+  apertium: yes
+  unimorph: yes
+
 - name: Gujarati
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
@@ -558,7 +565,7 @@
 - name: Punjabi
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Volunteer!
+  annotators: Aryaman Arora
   apertium: yes
   unimorph: no
 
@@ -590,6 +597,13 @@
   apertium: yes
   unimorph: no
 
+- name: Urdu
+  family: Indo-European
+  group: https://groups.google.com/g/unimorph-indo-aryan/
+  annotators: Aryaman Arora
+  apertium: yes
+  unimorph: yes
+
 - name: Vlax Romani
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
@@ -600,7 +614,7 @@
 - name: Magahi
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Ritesh Kumar
+  annotators: Ritesh Kumar <br/> Mohit Raj
   apertium: no
   unimorph: no
 
@@ -614,7 +628,7 @@
 - name: Braj
   family: Indo-European
   group: https://groups.google.com/g/unimorph-indo-aryan/
-  annotators: Ritesh Kumar
+  annotators: Ritesh Kumar <br/> Shyam Ratan
   apertium: no
   unimorph: no
 
