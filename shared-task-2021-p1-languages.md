@@ -43,7 +43,16 @@ Each Google Group contains links to detailed instructions and a shared Google dr
 
 <div class="table-wrapper" markdown="block" style="overflow-x: scroll">
 
-  <table class="table table-responsive" id="annotation">
+  <table class="table table-responsive" id="annotation" style="width: 100%">
+    <colgroup>
+        <col span="1" style="width: 10%;">
+	<col span="1" style="width: 20%;">
+        <col span="1" style="width: 30%;">
+	<col span="1" style="width: 30%;">
+        <col span="1" style="width: 5%;">
+	<col span="1" style="width: 5%;">
+    </colgroup>
+   <tbody>
     <tr>
       <th><strong>Language</strong></th>
       <th><strong>Family</strong></th>
@@ -63,7 +72,7 @@ Each Google Group contains links to detailed instructions and a shared Google dr
     <td style="text-align:right">{{ language.unimorph }}</td>
     </tr>
     {% endfor %}
-
+  </tbody>
   </table>
 
 </div>
