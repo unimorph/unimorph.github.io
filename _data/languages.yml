@@ -1378,3 +1378,124 @@
   templatic: no
   type: living
   license: unknown
+
+
+- name: San Pedro Amuzgos Amuzgo
+  iso: azg
+  forms: 12204
+  paradigms: 332
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Chichimeca-Jonaz
+  iso: pei
+  forms: 15120
+  paradigms: 123
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: vulnerable
+  license: unknown
+
+- name: Tlatepuzco Chinantec
+  iso: cpa
+  forms: 7893
+  paradigms: 697
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Yoloxóchitl Mixtec
+  iso: xty
+  forms: 3057
+  paradigms: 594
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Mezquital Otomi
+  iso: ote
+  forms: 33162
+  paradigms: 2028
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Sierra Otomi
+  iso: otm
+  forms: 31380
+  paradigms: 1909
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Eastern Highland Chatino
+  iso: cly
+  forms: 4716
+  paradigms: 185
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Yaitepec Chatino
+  iso: ctp
+  forms: 3796
+  paradigms: 223
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Zenzontepec Chatino
+  iso: czn
+  forms: 1567
+  paradigms: 386
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
+
+- name: Chichicapan Zapotec
+  iso: zpv
+  forms: 1164
+  paradigms: 379
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: tonal
+  templatic: no
+  type: endangered
+  license: unknown
