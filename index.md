@@ -81,7 +81,15 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td style="text-align:right">{% if language.nouns %}&#x2714;{% endif %}</td>
     <td style="text-align:right">{% if language.verbs %}&#x2714;{% endif %}</td>
     <td style="text-align:right">{% if language.adjectives %}&#x2714;{% endif %}</td>
-    <td><span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span></td>
+    <td>{% case language.source %}
+	{% when 'surrey' %}
+	 <a rel="source" href="https://oto-manguean.surrey.ac.uk/">Surrey</a>
+	{% when 'vepkar' %}
+	<a rel="source" href="http://dictorpus.krc.karelia.ru/">VepKar</a>
+	 {% when nil %}
+	<span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span>
+	{% endcase %}
+      </td>
     <td style="text-align:right">{% case language.license %}
       {% when 'unknown' %}
       	–

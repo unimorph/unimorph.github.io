@@ -1357,7 +1357,7 @@
   typology: agglutinative
   templatic: no
   type: living
-  license: unknown
+  source: vepkar
 
 - name: Livvi
   iso: olo
@@ -1367,7 +1367,7 @@
   typology: agglutinative
   templatic: no
   type: living
-  license: unknown
+  source: vepkar
 
 - name: Veps (Vepsian)
   iso: vep
@@ -1377,8 +1377,7 @@
   typology: agglutinative
   templatic: no
   type: living
-  license: unknown
-
+  source: vepkar
 
 - name: San Pedro Amuzgos Amuzgo
   iso: azg
@@ -1390,7 +1389,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Chichimeca-Jonaz
   iso: pei
@@ -1402,7 +1401,7 @@
   typology: tonal
   templatic: no
   type: vulnerable
-  license: unknown
+  source: surrey
 
 - name: Tlatepuzco Chinantec
   iso: cpa
@@ -1414,7 +1413,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Yoloxóchitl Mixtec
   iso: xty
@@ -1426,7 +1425,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Mezquital Otomi
   iso: ote
@@ -1438,7 +1437,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Sierra Otomi
   iso: otm
@@ -1450,7 +1449,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Eastern Highland Chatino
   iso: cly
@@ -1462,7 +1461,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Yaitepec Chatino
   iso: ctp
@@ -1474,7 +1473,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Zenzontepec Chatino
   iso: czn
@@ -1486,7 +1485,7 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
 
 - name: Chichicapan Zapotec
   iso: zpv
@@ -1498,4 +1497,4 @@
   typology: tonal
   templatic: no
   type: endangered
-  license: unknown
+  source: surrey
