@@ -805,13 +805,14 @@
 - name: Uzbek
   iso: uzb
   flag: UZ.svg
-  forms: 1260 
-  paradigms: 15
+  forms: 37291 
+  paradigms: 443
   nouns: yes
-  verbs: no
+  verbs: yes
   adjectives: no
   typology: agglutinative
   templatic: no
+  source: ling
   type: living
 
 - name: Venetian

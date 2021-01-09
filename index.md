@@ -82,6 +82,8 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     <td style="text-align:right">{% if language.verbs %}&#x2714;{% endif %}</td>
     <td style="text-align:right">{% if language.adjectives %}&#x2714;{% endif %}</td>
     <td>{% case language.source %}
+	{% when 'ling' %}
+	 <a rel="source" href="">&#8466;</a>
 	{% when 'surrey' %}
 	 <a rel="source" href="https://oto-manguean.surrey.ac.uk/">Surrey</a>
 	{% when 'vepkar' %}
