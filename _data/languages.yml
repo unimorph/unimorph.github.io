@@ -50,7 +50,33 @@
     seventeen: yes
   typology: fusional
   templatic: yes
+  source: PATB
   type: living
+
+- name: Gulf Arabic
+  iso: afb
+  forms: 32236
+  paradigms: 6707
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: fusional
+  templatic: yes
+  source: AGC
+  type: living
+
+- name: Egyptian Arabic
+  iso: arz
+  forms: 25394
+  paradigms: 6347
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: fusional
+  templatic: yes
+  source: ARZATB
+  type: living
+
 
 - name: Armenian
   iso: hye
