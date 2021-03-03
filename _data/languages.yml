@@ -1525,3 +1525,52 @@
   templatic: no
   type: endangered
   source: surrey
+
+
+- name: Ashaninka
+  iso: cni
+  forms: 10952
+  paradigms: 407
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: 
+  templatic: no
+  type: endangered
+  source: 
+
+- name: Yanesha
+  iso: ame
+  forms: 3039
+  paradigms: 327
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: 
+  templatic: no
+  type: endangered
+  source: 
+
+- name: Aymara
+  iso: aym
+  forms: 336341
+  paradigms: 3410
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: 
+  templatic: no
+  type: endangered
+  source: 
+
+- name: Seneca
+  iso: see
+  forms: 5460
+  paradigms: 140
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: 
+  templatic: no
+  type: endangered
+  source: 
