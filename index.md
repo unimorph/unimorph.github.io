@@ -88,9 +88,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 	 <a rel="source" href="https://oto-manguean.surrey.ac.uk/">Surrey</a>
 	{% when 'vepkar' %}
 	<a rel="source" href="http://dictorpus.krc.karelia.ru/">VepKar</a>	
-       {% when 'ling' %}
-	<a rel="source" href="">&#8466;</a>
-	 {% when nil %}
+       {% when nil %}
 	<span><img class="source" src="{{ site.baseurl }}/images/wiki.png"/></span>
 	{% endcase %}
       </td>
