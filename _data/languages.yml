@@ -1537,7 +1537,7 @@
   typology: 
   templatic: no
   type: endangered
-  source: 
+  source: ling
 
 - name: Yanesha
   iso: ame
@@ -1549,7 +1549,7 @@
   typology: 
   templatic: no
   type: endangered
-  source: 
+  source: ling
 
 - name: Aymara
   iso: aym
@@ -1561,7 +1561,7 @@
   typology: 
   templatic: no
   type: endangered
-  source: 
+  source: ling
 
 - name: Seneca
   iso: see
@@ -1573,4 +1573,4 @@
   typology: 
   templatic: no
   type: endangered
-  source: 
+  source: ling
