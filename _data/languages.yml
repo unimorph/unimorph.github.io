@@ -1574,3 +1574,15 @@
   templatic: no
   type: endangered
   source: ling
+
+- name: Kodi
+  iso: kod
+  forms: 462
+  paradigms: 65
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: 
+  templatic: no
+  type: endangered
+  source: ling
