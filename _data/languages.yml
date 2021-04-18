@@ -807,8 +807,8 @@
 - name: Tibetan
   iso: bod
   flag: TB.svg
-  forms: 353 
-  paradigms: 65
+  forms: 1355
+  paradigms: 1355
   nouns: no
   verbs: yes
   adjectives: no
