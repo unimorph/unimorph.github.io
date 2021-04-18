@@ -1190,8 +1190,8 @@
 - name: Polish
   iso: pol
   flag: PL.svg
-  forms: 201024
-  paradigms: 10185
+  forms: 13882543
+  paradigms: 274550
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -1200,6 +1200,7 @@
   typology: fusional
   templatic: no
   type: living
+  source: ling
 
 - name: Portuguese
   iso: por
