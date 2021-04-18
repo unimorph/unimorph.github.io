@@ -159,12 +159,6 @@
   templatic: no
   type: living
 
-- name: Malagasy
-  iso: mlg
-  flag: MD.svg
-  typology: fusional
-  templatic: no
-  type: living
 
 - name: Malay
   iso: msa
@@ -303,12 +297,6 @@
   iso: gsw
   flag: CH.svg
   typology: fusional
-  templatic: no
-  type: living
-
-- name: Tagalog
-  iso: tgl
-  typology: agglutinative
   templatic: no
   type: living
 

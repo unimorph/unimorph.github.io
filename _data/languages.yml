@@ -1104,6 +1104,80 @@
   templatic: no
   type: living
 
+
+- name: Indonesian
+  iso: ind
+  forms: 27714
+  paradigms: 3877
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Malagasy
+  iso: mlg
+  flag: MD.svg
+  forms: 644
+  paradigms: 159 
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Tagalog
+  iso: tgl
+  forms: 2912
+  paradigms: 344
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Cebuano
+  iso: ceb
+  forms: 618
+  paradigms: 97 
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Hiligaynon
+  iso: hil
+  forms: 1256
+  paradigms: 97
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Maori
+  iso: mao
+  forms: 214
+  paradigms: 104 
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
 - name: Navajo
   iso: nav
   flag: NV.svg
