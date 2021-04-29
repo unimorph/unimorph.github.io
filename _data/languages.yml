@@ -815,6 +815,7 @@
   typology: fusional
   templatic: no
   type: living
+  source: ling
 
 - name: Turkmen
   iso: tuk
@@ -1660,4 +1661,17 @@
   typology: 
   templatic: no
   type: endangered
+  source: ling
+
+
+- name: Shona
+  iso: sna
+  forms: 3030
+  paradigms: 86
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
   source: ling
