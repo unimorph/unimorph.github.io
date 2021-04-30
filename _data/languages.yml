@@ -607,6 +607,7 @@
   nouns: no
   verbs: yes
   adjectives: no
+  sourse: ling
 
 - name: Neapolitan
   iso: nap
