@@ -759,14 +759,15 @@
 - name: Swahili
   iso: swc
   flag: KE.svg
-  forms: 10092 
-  paradigms: 100
+  forms: 14130 
+  paradigms: 185
   nouns: yes
   verbs: yes
   adjectives: yes
   typology: fusional
   templatic: no
   type: living
+  source: ling
 
 - name: Tajik
   iso: tgk
@@ -881,14 +882,15 @@
 - name: Zulu
   iso: zul
   flag: "SA.svg"
-  forms: 49119 
-  paradigms: 566
+  forms: 49562 
+  paradigms: 621
   nouns: yes
   verbs: yes
   adjectives: yes
   typology: agglutinative
   templatic: no
   type: living
+  sourse: ling
 
 - name: French
   iso: fra
@@ -1668,6 +1670,90 @@
   iso: sna
   forms: 3030
   paradigms: 86
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Kongo
+  iso: kon
+  forms: 828
+  paradigms: 200
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Lingala
+  iso: lin
+  forms: 228
+  paradigms: 57
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Luganda
+  iso: lug
+  forms: 4895
+  paradigms: 89
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Chewa
+  iso: nya
+  forms: 4370
+  paradigms: 227
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Sotho
+  iso: sot
+  forms: 494
+  paradigms: 26
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Akan
+  iso: aka
+  forms: 4182
+  paradigms: 96
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling
+
+- name: Gã
+  iso: gaa
+  forms: 909
+  paradigms: 95
   nouns: no
   verbs: yes
   adjectives: no
