@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /unimorph2021/
-title: UniMorph Seminar 2021: July, 26th (Online) 
+title: UniMorph Seminar 2021
 ---
 
 # General Information
