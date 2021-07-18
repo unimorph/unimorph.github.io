@@ -19,7 +19,7 @@ The seminar will focus on development of consistent cross-linguistic annotation 
 
 - [Khuyagbaatar Batsuren](https://scholar.google.it/citations?user=JsMdM8oAAAAJ&hl=en), Associate Professor at National University of Mongolia.
 
-- [Reut Tsarfaty](https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx), Associate Professor at Bar Ilan University.
+- [Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/onlp), Associate Professor at Bar Ilan University.
 
 # Agenda
 
