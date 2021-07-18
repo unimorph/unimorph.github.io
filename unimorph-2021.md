@@ -8,6 +8,8 @@ title: UniMorph Seminar 2021
 The seminar will focus on development of consistent cross-linguistic annotation for Universal Dependencies and UniMorph. 
 
 
+
+
 # Keynote Speakers
 
 -- Khuyagbaatar Batsuren
@@ -15,6 +17,8 @@ The seminar will focus on development of consistent cross-linguistic annotation 
 -- Reut Tsarfaty
 
 # Agenda
+
+We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing](https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing)
 
 -- Discussion of annotation schemas for UniMorh and Universal Dependencies:
 
