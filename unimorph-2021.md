@@ -33,13 +33,14 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
 
 2. Derivational vs. Inflectional Morphology:
-(Test10)
+(Test11)
   
-    - Incorporation of derivational morphology into UM (derivational paradigms). 
+  - Incorporation of derivational morphology into UM (derivational paradigms). 
 
 > Khuygaabaatar has extracted derivational paradigms from Wiktionary. [Examples for Finnish](https://drive.google.com/drive/folders/1zRE3GrtkZ6NDTwB8lB2tAxIdbLrnH8Jf), [Examples for Russian](https://drive.google.com/drive/folders/1ZmRyLzwOARy4eI5yvlP89t-pkKmwei-A)
-
-    - Paradigms that incorporate both inflectional and derivation word formation.
+> 
+ - Paradigms that incorporate both inflectional and derivation word formation.
+ 
  > Here is an examples from Witold's Polish data:
  > 
  > jeździć	jeżdżenia	V.MSDR;NEUT;ACC;PL;IPFV
@@ -55,7 +56,7 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
  > jeździć	jeżdżeniu	V.MSDR;NEUT;ESS;SG;IPFV
  > 
  
-    - Polysynthetic languages
+   - Polysynthetic languages
 
 3. Demonstration session:  WebUI for UniMorph annotation [http://unimorph.ethz.ch/](http://unimorph.ethz.ch/)
 
