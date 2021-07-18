@@ -17,7 +17,7 @@ The seminar will focus on development of consistent cross-linguistic annotation 
 
 # Keynote Speakers
 
-- [Khuyagbaatar Batsuren](https://scholar.google.it/citations?user=JsMdM8oAAAAJ&hl=en), an Associate ProfessorNational University of Mongolia.
+- [Khuyagbaatar Batsuren](https://scholar.google.it/citations?user=JsMdM8oAAAAJ&hl=en), an Associate Professor, National University of Mongolia.
 
 - [Reut Tsarfaty](https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx), a Senior Lecturer and the head of the Natural Language Processing Lab at the Computer Science Department at the Open University of Israel. 
 
@@ -33,27 +33,27 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
 
 2. Derivational vs. Inflectional Morphology:
-(Test4)  
+(Test5)  
     - Incorporation of derivational morphology into UM (derivational paradigms). 
 
-   ``` Khuygaabaatar has extracted derivational paradigms from Wiktionary. [Examples for Finnish](https://drive.google.com/drive/folders/1zRE3GrtkZ6NDTwB8lB2tAxIdbLrnH8Jf), [Examples for Russian](https://drive.google.com/drive/folders/1ZmRyLzwOARy4eI5yvlP89t-pkKmwei-A)
-   ```
+   > Khuygaabaatar has extracted derivational paradigms from Wiktionary. [Examples for Finnish](https://drive.google.com/drive/folders/1zRE3GrtkZ6NDTwB8lB2tAxIdbLrnH8Jf), [Examples for Russian](https://drive.google.com/drive/folders/1ZmRyLzwOARy4eI5yvlP89t-pkKmwei-A)
+   
 
     - Paradigms that incorporate both inflectional and derivation word formation.
 
-  ``` Here is an examples from Witold's Polish data:
-  jeździć	jeżdżenia	V.MSDR;NEUT;ACC;PL;IPFV
-  jeździć	jeżdżenia	V.MSDR;NEUT;GEN;SG;IPFV
-  jeździć	jeżdżenia	V.MSDR;NEUT;NOM;PL;IPFV
-  jeździć	jeżdżeniach	V.MSDR;NEUT;ESS;PL;IPFV
-  jeździć	jeżdżeniami	V.MSDR;NEUT;INS;PL;IPFV
-  jeździć	jeżdżenie	V.MSDR;NEUT;ACC;SG;IPFV
-  jeździć	jeżdżenie	V.MSDR;NEUT;NOM;SG;IPFV
-  jeździć	jeżdżeniem	V.MSDR;NEUT;INS;SG;IPFV
-  jeździć	jeżdżeniom	V.MSDR;NEUT;DAT;PL;IPFV
-  jeździć	jeżdżeniu	V.MSDR;NEUT;DAT;SG;IPFV
-  jeździć	jeżdżeniu	V.MSDR;NEUT;ESS;SG;IPFV
-   ```
+  > Here is an examples from Witold's Polish data:
+  > 
+  > jeździć	jeżdżenia	V.MSDR;NEUT;ACC;PL;IPFV
+  > jeździć	jeżdżenia	V.MSDR;NEUT;GEN;SG;IPFV
+  > jeździć	jeżdżenia	V.MSDR;NEUT;NOM;PL;IPFV
+  > jeździć	jeżdżeniach	V.MSDR;NEUT;ESS;PL;IPFV
+  > jeździć	jeżdżeniami	V.MSDR;NEUT;INS;PL;IPFV
+  > jeździć	jeżdżenie	V.MSDR;NEUT;ACC;SG;IPFV
+  > jeździć	jeżdżenie	V.MSDR;NEUT;NOM;SG;IPFV
+  > jeździć	jeżdżeniem	V.MSDR;NEUT;INS;SG;IPFV
+  > jeździć	jeżdżeniom	V.MSDR;NEUT;DAT;PL;IPFV
+  > jeździć	jeżdżeniu	V.MSDR;NEUT;DAT;SG;IPFV
+  > jeździć	jeżdżeniu	V.MSDR;NEUT;ESS;SG;IPFV
    
     - Polysynthetic languages
 
