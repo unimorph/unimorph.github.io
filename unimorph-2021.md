@@ -16,7 +16,7 @@ The seminar will focus on development of consistent cross-linguistic annotation 
 
 - [Khuyagbaatar Batsuren](https://scholar.google.it/citations?user=JsMdM8oAAAAJ&hl=en), an Associate ProfessorNational University of Mongolia.
 
-- [Reut Tsarfaty])(https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx), a Senior Lecturer and the head of the Natural Language Processing Lab at the Computer Science Department at the Open University of Israel. 
+- [Reut Tsarfaty](https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx), a Senior Lecturer and the head of the Natural Language Processing Lab at the Computer Science Department at the Open University of Israel. 
 
 # Agenda
 
