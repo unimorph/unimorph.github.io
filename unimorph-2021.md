@@ -5,6 +5,9 @@ title: UniMorph Seminar 2021
 ---
 
 # General Information
+
+*Date: July,26th 2021  Format: Online (Zoom+Jamboard)*
+
 The seminar will focus on development of consistent cross-linguistic annotation for Universal Dependencies and UniMorph. 
 
 ---
