@@ -22,34 +22,34 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
 1. Discussion of annotation schemas for UniMorh and Universal Dependencies:
 
-	- Annotation consistency
-
-        - UD <---> UM interface
+  - Annotation consistency
+  
+  - UD <---> UM interface
 
 
 2. Derivational vs. Inflectional Morphology:
+  
+  - Incorporation of derivational morphology into UM (derivational paradigms)
 
-        - Incorporation of derivational morphology into UM (derivational paradigms)
+  - Paradigms that incorporate both inflectional and derivation word formation (as in Polish)
 
-        - Paradigms that incorporate both inflectional and derivation word formation (as in Polish)
-
-        - Polysynthetic languages
+  - Polysynthetic languages
 
 3. Demonstration session:  WebUI for UniMorph annotation [http://unimorph.ethz.ch/](http://unimorph.ethz.ch/)
 
 4. MWEs in paradigms:
 
-	- Annotation of clitics
+  - Annotation of clitics
 
-        - Annotation of MWEs that require dependencies
+  - Annotation of MWEs that require dependencies
 
 5. Administrative session:
 
-   - A pipeline for publication & incorporation of new languages
+  - A pipeline for publication & incorporation of new languages
 
-   - Linguistic working groups and their management
+  - Linguistic working groups and their management
 
-   - UM Schema updates & maintaining its documentation (wiki format?)
+  - UM Schema updates & maintaining its documentation (wiki format?)
 
 # Participants
 
