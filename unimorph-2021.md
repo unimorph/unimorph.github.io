@@ -34,9 +34,24 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
 2. Derivational vs. Inflectional Morphology:
   
-    - Incorporation of derivational morphology into UM (derivational paradigms)
+    - Incorporation of derivational morphology into UM (derivational paradigms). 
 
-    - Paradigms that incorporate both inflectional and derivation word formation (as in Polish)
+ > Khuygaabaatar has extracted derivational paradigms from Wiktionary. [Examples for Finnish](https://drive.google.com/drive/folders/1zRE3GrtkZ6NDTwB8lB2tAxIdbLrnH8Jf), [Examples for Russian](https://drive.google.com/drive/folders/1ZmRyLzwOARy4eI5yvlP89t-pkKmwei-A)
+
+    - Paradigms that incorporate both inflectional and derivation word formation.
+
+ > Here is an examples from Witold's Polish data:
+ >  jeździć	jeżdżenia	V.MSDR;NEUT;ACC;PL;IPFV
+ >  jeździć	jeżdżenia	V.MSDR;NEUT;GEN;SG;IPFV
+ > jeździć	jeżdżenia	V.MSDR;NEUT;NOM;PL;IPFV
+ >  jeździć	jeżdżeniach	V.MSDR;NEUT;ESS;PL;IPFV
+ >  jeździć	jeżdżeniami	V.MSDR;NEUT;INS;PL;IPFV
+ >  jeździć	jeżdżenie	V.MSDR;NEUT;ACC;SG;IPFV
+ >  jeździć	jeżdżenie	V.MSDR;NEUT;NOM;SG;IPFV
+ >  jeździć	jeżdżeniem	V.MSDR;NEUT;INS;SG;IPFV
+ >  jeździć	jeżdżeniom	V.MSDR;NEUT;DAT;PL;IPFV
+ >  jeździć	jeżdżeniu	V.MSDR;NEUT;DAT;SG;IPFV
+ >  jeździć	jeżdżeniu	V.MSDR;NEUT;ESS;SG;IPFV
 
     - Polysynthetic languages
 
