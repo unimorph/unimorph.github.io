@@ -33,7 +33,7 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
         -- Paradigms that incorporate both inflectional and derivation word formation (as in Polish)
 
-        -- Polysynthitic languages
+        -- Polysynthetic languages
 
 -- Demonstration session:  WebUI for UniMorph annotation [http://unimorph.ethz.ch/](http://unimorph.ethz.ch/)
 
