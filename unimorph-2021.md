@@ -32,7 +32,7 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
     - UD <---> UM interface. So far, there exists [UD-to-UM conversion tool](https://github.com/unimorph/ud-compatibility).
 
 
-2. Derivational vs. Inflectional Morphology:
+2. Derivational + Inflectional Morphology:
   
     - Incorporation of derivational morphology into UM (derivational paradigms). Khuygaabaatar has extracted derivational paradigms from Wiktionary. [Examples for Finnish](https://drive.google.com/drive/folders/1zRE3GrtkZ6NDTwB8lB2tAxIdbLrnH8Jf), [Examples for Russian](https://drive.google.com/drive/folders/1ZmRyLzwOARy4eI5yvlP89t-pkKmwei-A)
 
