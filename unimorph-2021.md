@@ -22,9 +22,9 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
 1. Discussion of annotation schemas for UniMorh and Universal Dependencies:
 
-  - Annotation consistency
+    - Annotation consistency
   
-  - UD <---> UM interface
+    - UD <---> UM interface
 
 
 2. Derivational vs. Inflectional Morphology:
