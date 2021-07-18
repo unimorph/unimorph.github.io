@@ -38,7 +38,7 @@ We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EV
 
     - Paradigms that incorporate both inflectional and derivational word formation: shall disentangle them? Here is an example from Witold's Polish data: (jeździć, jeżdżenia, V.MSDR;NEUT;ACC;PL;IPFV),(jeździć, jeżdżeniach, V.MSDR;NEUT;ESS;PL;IPFV). It contains two types of transformation: nominalization and declension. 
  
-    - Polysynthetic languages. UM has very few polysynthetic languages ([e.g. Adyghe](https://github.com/unimorph/ady)) for which only small part of their paradigms are listed.
+    - Polysynthetic languages. UM has very few polysynthetic languages ([e.g. Adyghe](https://github.com/unimorph/ady)) and provides a small part of their paradigms.
 
 3. Demonstration session:  WebUI for UniMorph annotation [http://unimorph.ethz.ch/](http://unimorph.ethz.ch/)
 
