@@ -28,17 +28,15 @@ The seminar is organized as a series of 1-3 hour modules (slots), having one mod
 
 We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing](https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing)
 
-1. Module #1: Aug, 16th 1pm--3pm UTC (9am--11am EDT; 3pm--5pm Zurich; 4pm --6pm Haifa; 9pm--11pm Ulaanbaatar; 11pm--01am, Aug17th Melbourne). 
-Theme: Word forms, phrases, or clauses in UniMorph: what level of granularity do we need?
-Leading Speaker: [Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/onlp)
-Title: More Than Morphs: Getting More Out of UniMorph
-Abstract: Morphological processes such as inflection and reinflection are studied and evaluated in NLP nowadays with the help of UniMorph (UM), a large collection of labeled inflection tables of over a hundred typologically different languages. In this talk we look closely at the current version of UniMorph and assess its design and content. Specifically, we ask whether UM is a necessary component of morphological reinflection (or would minimal supervision be enough), whether the current version of UM is sufficient for morphological reinflection (or whether there are some aspects missing), and, importantly, whether the word forms in UM provide the right level of granularity for annotating morphology (as opposed to, for instance, phrase-level or clause-level). We derive answers to these questions from both theoretical arguments and empirical evidence, and conclude with concrete suggestions on steps that may be taken to push UM to the next level of studying computational morphology, in accord with contextualized embeddings and downstream tasks. 
+1. **Module #1: Aug, 16th 1pm--3pm UTC** (9am--11am EDT; 3pm--5pm Zurich; 4pm --6pm Haifa; 9pm--11pm Ulaanbaatar; 11pm--01am, Aug17th Melbourne).   
+ Theme: **Word forms, phrases, or clauses in UniMorph: what level of granularity do we need?**  
+ Leading Speaker: **[Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/onlp)**  
+ Title: More Than Morphs: Getting More Out of UniMorph  
+ Abstract: Morphological processes such as inflection and reinflection are studied and evaluated in NLP nowadays with the help of UniMorph (UM), a large collection of labeled inflection tables of over a hundred typologically different languages. In this talk we look closely at the current version of UniMorph and assess its design and content. Specifically, we ask whether UM is a necessary component of morphological reinflection (or would minimal supervision be enough), whether the current version of UM is sufficient for morphological reinflection (or whether there are some aspects missing), and, importantly, whether the word forms in UM provide the right level of granularity for annotating morphology (as opposed to, for instance, phrase-level or clause-level). We derive answers to these questions from both theoretical arguments and empirical evidence, and conclude with concrete suggestions on steps that may be taken to push UM to the next level of studying computational morphology, in accord with contextualized embeddings and downstream tasks. 
 
-Related:
-
-    - Annotation of clitics. How should we store the paradigms with clitics (they typically(?) copy those that are without; maybe allow rules to be stored and paradigms for them generated on the fly?)
-
-    - Annotation of MWEs that require dependencies. Samples in some language require syntactic information, e.g. `legkaja_ADJ promyshlennost_N'  vs. genitive constructions 'sindrom_N Aspergera_N'. This issue has been [reported here](https://aclanthology.org/K19-1014/).  
+Related:  
+    - Annotation of clitics. How should we store the paradigms with clitics (they typically(?) copy those that are without; maybe allow rules to be stored and paradigms for them generated on the fly?)  
+    - Annotation of MWEs that require dependencies. Samples in some language require syntactic information, e.g. "legkaja_ADJ promyshlennost_N"  vs. genitive constructions "sindrom_N Aspergera_N". This issue has been [reported here](https://aclanthology.org/K19-1014/).  
 
 
 2.  Module #2: Sept, TBA
