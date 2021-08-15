@@ -28,7 +28,9 @@ The seminar is organized as a series of 1-3 hour modules (slots), having one mod
 
 We propose using Jamboard during the seminar: [https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing](https://jamboard.google.com/d/1EVw2bq7Toff6C6yGwUm-XOTdyAzX8TpWeYU9YL7_00I/edit?usp=sharing)
 
-# Module-1:  Aug, 16th 1pm--3pm UTC (9am--11am EDT; 3pm--5pm Zurich; 4pm --6pm Haifa; 9pm--11pm Ulaanbaatar; 11pm--01am, Aug17th Melbourne).
+# UMSeminar-1:  Aug, 16th 1pm--3pm UTC 
+
+(9am--11am EDT; 3pm--5pm Zurich; 4pm --6pm Haifa; 9pm--11pm Ulaanbaatar; 11pm--01am, Aug17th Melbourne).
   
  Theme: **Word forms, phrases, or clauses in UniMorph: what level of granularity do we need?**  
  Leading Speaker: **[Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/onlp)**  
@@ -38,7 +40,7 @@ Related:
     - Annotation of clitics. How should we store the paradigms with clitics (they typically(?) copy those that are without; maybe allow rules to be stored and paradigms for them generated on the fly?)  
     - Annotation of MWEs that require dependencies. Samples in some language require syntactic information, e.g. "legkaja_ADJ promyshlennost_N"  vs. genitive constructions "sindrom_N Aspergera_N". This issue has been [reported here](https://aclanthology.org/K19-1014/).  
 
-# Module-2: Sept, TBA 
+# UMSeminar-2: Sept, TBA 
  
 Theme: **Derivational and Inflectional Morphology**  
 Leading Speaker: **[Khuyagbaatar Batsuren](https://scholar.google.it/citations?user=JsMdM8oAAAAJ&hl=en)**  
@@ -47,20 +49,20 @@ To Discuss:
     - Paradigms that incorporate both inflectional and derivational word formation: shall disentangle them? Here is an example from Witold's Polish data: (jeździć, jeżdżenia, V.MSDR;NEUT;ACC;PL;IPFV),(jeździć, jeżdżeniach, V.MSDR;NEUT;ESS;PL;IPFV). It contains two types of transformation: nominalization and declension.  
     - Polysynthetic languages. UM has very few polysynthetic languages ([e.g. Adyghe](https://github.com/unimorph/ady)) and provides a small part of their paradigms.
 
-# Module-3: Sept, TBA
+# UMSeminar-3: Sept, TBA
 
 Theme: **Discussion of annotation schemas for UniMorph and Universal Dependencies**  
     - Annotation consistency. Consistency between UM and UD annotation. Consistency within UM. In 2020 and 2021, all languages added to UniMorph were checked in terms of their annotation consistency & correctness (tags' presence in the schema) using [um-canonicalize tool](https://github.com/unimorph/um-canonicalize)    
     - UD <---> UM interface. So far, there exists [UD-to-UM conversion tool](https://github.com/unimorph/ud-compatibility)
 
-# Module-4: Sept, TBA
+# UMSeminar-4: Sept, TBA
 
 Theme: **Demonstration session:  WebUI for UniMorph annotation** [http://unimorph.ethz.ch/](http://unimorph.ethz.ch/)
 
-# Module-5: Sept, TBA
+# UMSeminar-5: Sept, TBA
 Theme:  **Incorporation of declension/conjugation classes.** This will allow us to run more meaningful evaluation/comparison
    
-# Module-6: Oct, TBA
+# UMSeminar-6: Oct, TBA
 
 Theme: **Administrative session**  
     - A pipeline for publication & incorporation of new languages. Unimorph schema/language updates are primarily published on LREC (once in two years). Now we are trying to extend it to SIGMORPHON (as a part of SM Shared Task on morphological reinflection report). One possible option for future: book chapters at langsci press (?)   
