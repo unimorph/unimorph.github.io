@@ -322,6 +322,19 @@
   type: living
 
 
+- name: Evenki
+  iso: evn
+  forms: 11408
+  paradigms: 4499
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: agglutinative
+  templatic: no
+  type: endangered
+  source: ling
+
+
 - name: Faroese
   iso: fao
   flag: FO.svg
