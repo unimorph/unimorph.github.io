@@ -1633,7 +1633,7 @@
 
 - name: Yanesha
   iso: ame
-  forms: 3039
+  forms: 3767
   paradigms: 327
   nouns: yes
   verbs: yes
@@ -1824,3 +1824,15 @@
   templatic: no
   type: endangered
   source: ling 
+  
+- name: Chukchi
+  iso: ckt
+  forms: 243
+  paradigms: 197
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
+  source: ling   
