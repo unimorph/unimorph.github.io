@@ -1868,7 +1868,7 @@
   nouns: yes
   verbs: yes
   adjectives: yes
-  typology: agglutinative
+  typology: fusional
   templatic: no
   type: living
   source: ling
@@ -1880,7 +1880,20 @@
   nouns: yes
   verbs: yes
   adjectives: no
-  typology: agglutinative
+  typology: fusional
   templatic: no
   type: endangered
-  source: ling   
+  source: ling
+
+- name: Swiss German
+  iso: gsw
+  forms: 2067
+  paradigms: 145
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: living
+  source: ling  
+  
