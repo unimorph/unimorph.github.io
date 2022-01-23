@@ -1801,3 +1801,15 @@
   type: living
   source: ling
   
+- name: Oromo
+  iso: orm
+  forms: 2046
+  paradigms: 92
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: living
+  source: ling  
+  
