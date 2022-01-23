@@ -1813,3 +1813,14 @@
   type: living
   source: ling  
   
+- name: Plains Cree
+  iso: cre
+  forms: 9,577
+  paradigms: 32
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: endangered
+  source: ling 
