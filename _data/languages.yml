@@ -1909,3 +1909,14 @@
   type: living
   source: ling  
   
+- name: Pomak
+  iso: poma
+  forms: 6557759
+  paradigms: 233533
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: fusional
+  templatic: no
+  type: endangered
+  source: ling  
