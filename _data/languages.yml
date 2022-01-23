@@ -1775,3 +1775,15 @@
   templatic: no
   type: living
   source: ling
+  
+  - name: Võro
+  iso: vro
+  forms: 512
+  paradigms: 63
+  nouns: yes
+  verbs: no
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
+  source: ling
