@@ -1847,4 +1847,16 @@
   typology: agglutinative
   templatic: no
   type: endangered
+  source: ling
+  
+- name: Kunwinjku
+  iso: gup
+  forms: 307
+  paradigms: 73
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
   source: ling   
