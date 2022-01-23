@@ -1895,5 +1895,17 @@
   typology: fusional
   templatic: no
   type: living
+  source: ling 
+
+- name: Slovak
+  iso: slk
+  forms: 28428612
+  paradigms: 366183
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: fusional
+  templatic: no
+  type: living
   source: ling  
   
