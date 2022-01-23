@@ -1776,7 +1776,7 @@
   type: living
   source: ling
   
-  - name: Võro
+- name: Võro
   iso: vro
   forms: 512
   paradigms: 63
@@ -1787,3 +1787,4 @@
   templatic: no
   type: endangered
   source: ling
+  
