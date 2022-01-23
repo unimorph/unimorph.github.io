@@ -1860,3 +1860,15 @@
   templatic: no
   type: endangered
   source: ling   
+
+- name: Braj
+  iso: bra
+  forms: 1821
+  paradigms: 1246
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: agglutinative
+  templatic: no
+  type: endangered
+  source: ling   
