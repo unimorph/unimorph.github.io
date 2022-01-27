@@ -207,7 +207,7 @@
 - name: Central Kurdish
   iso: ckb
   flag: IQ-KRD.svg
-  forms: 22990
+  forms: 24317
   paradigms: 274
   nouns: yes
   verbs: yes
@@ -2040,5 +2040,17 @@
   typology: agglutinative
   templatic: no
   type: endangered
+  source: ling 
+  
+- name: Southern Kurdish
+  iso: sdh
+  forms: 189
+  paradigms: 1
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: living
   source: ling   
    
