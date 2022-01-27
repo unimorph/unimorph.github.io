@@ -2052,5 +2052,28 @@
   typology: fusional
   templatic: no
   type: living
-  source: ling   
+  source: ling 
+  
+- name: Old High German
+  iso: goh
+  forms: 7248
+  paradigms: 482
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: historical  
    
+- name: Assamese
+  iso: asm
+  forms: 94147
+  paradigms: 1877
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling 
+  
