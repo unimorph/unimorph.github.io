@@ -1968,4 +1968,16 @@
   templatic: no
   type: endangered
   source: ling   
+
+- name: Xibe
+  iso: sjo
+  forms: 3054
+  paradigms: 1892
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
+  source: ling   
    
