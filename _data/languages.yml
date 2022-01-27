@@ -1956,4 +1956,16 @@
   templatic: no
   type: living
   source: ling   
+
+- name: Eibela
+  iso: ail
+  forms: 2718
+  paradigms: 642
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: fusional
+  templatic: no
+  type: endangered
+  source: ling   
    
