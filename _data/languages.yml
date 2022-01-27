@@ -1979,5 +1979,17 @@
   typology: agglutinative
   templatic: no
   type: endangered
+  source: ling  
+  
+- name: Sakha
+  iso: sah
+  forms: 590765
+  paradigms: 5622
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
   source: ling   
    
