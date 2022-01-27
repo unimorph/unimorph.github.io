@@ -222,14 +222,15 @@
 - name: Classical Syriac
   iso: syc
   flag: SY.svg
-  forms: 3652
-  paradigms: 160
+  forms: 31972
+  paradigms: 3299
   nouns: yes
   verbs: no
   adjectives: yes
   typology: fusional
   type: historical
   templatic: yes
+  source: ling  
 
 - name: Cornish
   iso: cor
