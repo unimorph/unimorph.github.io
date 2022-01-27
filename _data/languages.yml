@@ -2015,5 +2015,17 @@
   typology: agglutinative
   templatic: no
   type: living
+  source: ling  
+ 
+- name: Uyghur
+  iso: uig
+  forms: 8178
+  paradigms: 90
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
   source: ling   
    
