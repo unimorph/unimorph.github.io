@@ -2027,5 +2027,17 @@
   typology: agglutinative
   templatic: no
   type: living
+  source: ling 
+  
+- name: O'odham
+  iso: ood
+  forms: 1628
+  paradigms: 370
+  nouns: yes
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: endangered
   source: ling   
    
