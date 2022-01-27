@@ -259,8 +259,8 @@
 - name: Czech
   iso: ces
   flag: CZ.svg
-  forms: 134527
-  paradigms: 5125
+  forms: 50284287
+  paradigms: 824074
   nouns: yes
   verbs: yes
   adjectives: yes
@@ -458,8 +458,8 @@
 - name: Karelian
   iso: krl
   flag: KL.svg
-  forms: 682 
-  paradigms: 20
+  forms: 411277
+  paradigms: 10842
   nouns: yes
   verbs: no
   adjectives: yes
@@ -1472,8 +1472,8 @@
 - name: Ludian
   iso: lud
   flag: KL.svg
-  forms: 400
-  lemmas: 124
+  forms: 11313
+  paradigms: 6751
   typology: agglutinative
   templatic: no
   type: living
@@ -1482,8 +1482,8 @@
 - name: Livvi
   iso: olo
   flag: KL.svg
-  forms: 3987
-  lemmas: 203
+  forms: 1199149
+  paradigms: 27676
   typology: agglutinative
   templatic: no
   type: living
@@ -1492,8 +1492,8 @@
 - name: Veps (Vepsian)
   iso: vep
   flag: FI.svg
-  forms: 33196
-  leemas: 868
+  forms: 815676
+  paradigms: 18618
   typology: agglutinative
   templatic: no
   type: living
