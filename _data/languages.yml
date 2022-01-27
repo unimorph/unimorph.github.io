@@ -1939,8 +1939,21 @@
   paradigms: 537
   nouns: yes
   verbs: no
-  adjectives: yes
+  adjectives: no
   typology: agglutinative
   templatic: no
   type: endangered
-  source: ling    
+  source: ling
+  
+- name: Zarma
+  iso: dje
+  forms: 84
+  paradigms: 27
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
+  source: ling   
+   
