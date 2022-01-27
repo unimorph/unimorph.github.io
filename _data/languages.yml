@@ -2003,5 +2003,17 @@
   typology: agglutinative
   templatic: no
   type: endangered
+  source: ling 
+  
+- name: Kyrgyz
+  iso: kir
+  forms: 5544
+  paradigms: 98
+  nouns: no
+  verbs: yes
+  adjectives: no
+  typology: agglutinative
+  templatic: no
+  type: living
   source: ling   
    
