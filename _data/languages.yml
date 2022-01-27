@@ -1931,4 +1931,16 @@
   typology: fusional
   templatic: no
   type: endangered
+  source: ling
+  
+- name: Dakota
+  iso: dak
+  forms: 3766
+  paradigms: 537
+  nouns: yes
+  verbs: no
+  adjectives: yes
+  typology: agglutinative
+  templatic: no
+  type: endangered
   source: ling    
