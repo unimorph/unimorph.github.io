@@ -482,10 +482,10 @@
 - name: Kazakh
   iso: kaz
   flag: KZ.svg
-  forms: 357
-  paradigms: 26
+  forms: 40283
+  paradigms: 1755
   nouns: yes
-  verbs: no
+  verbs: yes
   adjectives: no
   typology: agglutinative
   templatic: no
