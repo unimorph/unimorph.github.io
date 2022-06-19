@@ -41,7 +41,8 @@ The specification of the schema is described [here]({{ site.baseurl }}/schema) a
 Plus, we're now available in a [Python package](https://pypi.org/project/unimorph/)! `pip install unimorph`
 
 ## UniMorph Events
-
+- [SIGMORPHON 2022 Shared Task](https://github.com/sigmorphon/2022InflectionST)
+- [SIGMORPHON 2021 Shared Task](https://github.com/sigmorphon/2021Task0)
 - [SIGMORPHON 2020 Shared Task](https://sigmorphon.github.io/sharedtasks/2020/)
 - [SIGMORPHON 2019 Shared Task](https://sigmorphon.github.io/sharedtasks/2019/)
 - [CoNLL–SIGMORPHON 2018 Shared Task](https://sigmorphon.github.io/sharedtasks/2018/)
@@ -145,7 +146,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
 </div>
 
-## Coming Attractions!
+<!-- ## Coming Attractions!
 
 The following languages are in the process of being annotated according to the UniMorph specification.
 
@@ -186,7 +187,7 @@ The following languages are in the process of being annotated according to the U
 </table>
 
 </div>
-
+-->
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
