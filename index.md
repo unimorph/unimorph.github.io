@@ -59,7 +59,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
   <table class="table table-responsive" id="annotated">
     <tr>
-      <th></th>
+      <!--th></th-->
       <th>Language</th>
       <th>ISO 639-3</th>
       <th style="text-align:right">Forms</th>
@@ -74,7 +74,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
 
     {% for language in sorted_langs %}
     <tr>
-    <td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td>
+    <!--td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td-->
     <td>{{ language.name }}</td>
     <td style="font-family: monospace">{{ language.iso }}</td>
     <td style="text-align:right">{{ language.forms }}</td>
