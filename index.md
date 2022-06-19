@@ -75,7 +75,7 @@ The following {{ site.data.languages | size }} languages have been annotated acc
     {% for language in sorted_langs %}
     <tr>
     <!--td>{% if language.flag %}<span class="flagspan"><img class="flag"     src="{{ site.baseurl }}/images/flags/{{ language.flag }}"/></span>{% endif %}</td-->
-    <td>{{ language.name }}</td>
+    <td>&nbsp;&#8618;{{ language.name }}</td>
     <td style="font-family: monospace">{{ language.iso }}</td>
     <td style="text-align:right">{{ language.forms }}</td>
     <td style="text-align:right">{{ language.paradigms }}</td>
