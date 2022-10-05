@@ -9,6 +9,18 @@
   typology: agglutinative
   templatic: no
   type: living
+  
+- name: Afrikaans
+  iso: afr
+  forms: 309558
+  paradigms: 161749
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: fusional
+  templatic: no
+  source: ling
+  type: living
 
 - name: Albanian
   iso: sqi
