@@ -410,6 +410,19 @@
   templatic: no
   type: living
 
+- name: Gujarati
+  iso: guj
+  flag: IN.svg
+  forms: 19,404
+  paradigms: 6,995
+  nouns: yes
+  verbs: yes
+  adjectives: yes
+  typology: agglutinative
+  templatic: no
+  type: living
+
+
 - name: Modern Greek
   iso: ell
   flag: GR.svg
